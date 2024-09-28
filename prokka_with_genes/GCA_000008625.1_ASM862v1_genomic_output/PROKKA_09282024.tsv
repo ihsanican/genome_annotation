@@ -1,0 +1,3652 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GBJEOBOH_00001	gene	2100	fusA			
+GBJEOBOH_00001	CDS	2100	fusA		COG0480	Elongation factor G
+GBJEOBOH_00002	gene	1218	tuf_1			
+GBJEOBOH_00002	CDS	1218	tuf_1		COG0050	Elongation factor Tu
+GBJEOBOH_00003	gene	315	rpsJ			
+GBJEOBOH_00003	CDS	315	rpsJ		COG0051	30S ribosomal protein S10
+GBJEOBOH_00004	gene	726	rplC			
+GBJEOBOH_00004	CDS	726	rplC		COG0087	50S ribosomal protein L3
+GBJEOBOH_00005	gene	600	rplD			
+GBJEOBOH_00005	CDS	600	rplD		COG0088	50S ribosomal protein L4
+GBJEOBOH_00006	gene	312	rplW			
+GBJEOBOH_00006	CDS	312	rplW		COG0089	50S ribosomal protein L23
+GBJEOBOH_00007	gene	915	rplB			
+GBJEOBOH_00007	CDS	915	rplB		COG0090	50S ribosomal protein L2
+GBJEOBOH_00008	gene	660				
+GBJEOBOH_00008	CDS	660				hypothetical protein
+GBJEOBOH_00009	gene	297	rplV			
+GBJEOBOH_00009	CDS	297	rplV		COG0091	50S ribosomal protein L22
+GBJEOBOH_00010	gene	639	rpsC			
+GBJEOBOH_00010	CDS	639	rpsC		COG0092	30S ribosomal protein S3
+GBJEOBOH_00011	gene	429	rplP			
+GBJEOBOH_00011	CDS	429	rplP		COG0197	50S ribosomal protein L16
+GBJEOBOH_00012	gene	222				
+GBJEOBOH_00012	CDS	222				hypothetical protein
+GBJEOBOH_00013	gene	324				
+GBJEOBOH_00013	CDS	324				hypothetical protein
+GBJEOBOH_00014	gene	660	aroD			
+GBJEOBOH_00014	CDS	660	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+GBJEOBOH_00015	gene	516				
+GBJEOBOH_00015	CDS	516				hypothetical protein
+GBJEOBOH_00016	gene	1131	argD			
+GBJEOBOH_00016	CDS	1131	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+GBJEOBOH_00017	gene	1314	rkpK			
+GBJEOBOH_00017	CDS	1314	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+GBJEOBOH_00018	gene	234				
+GBJEOBOH_00018	CDS	234				hypothetical protein
+GBJEOBOH_00019	gene	1119	mrdB_1			
+GBJEOBOH_00019	CDS	1119	mrdB_1	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+GBJEOBOH_00020	gene	210				
+GBJEOBOH_00020	CDS	210				hypothetical protein
+GBJEOBOH_00021	gene	483				
+GBJEOBOH_00021	CDS	483				hypothetical protein
+GBJEOBOH_00022	gene	1779				
+GBJEOBOH_00022	CDS	1779				hypothetical protein
+GBJEOBOH_00023	gene	480				
+GBJEOBOH_00023	CDS	480				hypothetical protein
+GBJEOBOH_00024	gene	1209	moeA			
+GBJEOBOH_00024	CDS	1209	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+GBJEOBOH_00025	gene	1341	sdcS			
+GBJEOBOH_00025	CDS	1341	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+GBJEOBOH_00026	gene	1443	rtcB			
+GBJEOBOH_00026	CDS	1443	rtcB	6.5.1.-		RNA-splicing ligase RtcB
+GBJEOBOH_00027	gene	1296				
+GBJEOBOH_00027	CDS	1296				hypothetical protein
+GBJEOBOH_00028	gene	507	nadD			
+GBJEOBOH_00028	CDS	507	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+GBJEOBOH_00029	gene	528				
+GBJEOBOH_00029	CDS	528				hypothetical protein
+GBJEOBOH_00030	gene	867	glxR			
+GBJEOBOH_00030	CDS	867	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+GBJEOBOH_00031	gene	579	hisB			
+GBJEOBOH_00031	CDS	579	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+GBJEOBOH_00032	gene	1281				
+GBJEOBOH_00032	CDS	1281				hypothetical protein
+GBJEOBOH_00033	gene	312				
+GBJEOBOH_00033	CDS	312				hypothetical protein
+GBJEOBOH_00034	gene	723				
+GBJEOBOH_00034	CDS	723				hypothetical protein
+GBJEOBOH_00035	gene	1230	fbcH			
+GBJEOBOH_00035	CDS	1230	fbcH		COG1290	Cytochrome b/c1
+GBJEOBOH_00036	gene	546	petA			
+GBJEOBOH_00036	CDS	546	petA	7.1.1.8	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+GBJEOBOH_00037	gene	921	pyrD			
+GBJEOBOH_00037	CDS	921	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GBJEOBOH_00038	gene	300				
+GBJEOBOH_00038	CDS	300		4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+GBJEOBOH_00039	gene	2430	bamA_1			
+GBJEOBOH_00039	CDS	2430	bamA_1			Outer membrane protein assembly factor BamA
+GBJEOBOH_00040	gene	855	ubiA			
+GBJEOBOH_00040	CDS	855	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+GBJEOBOH_00041	gene	1080	mraY			
+GBJEOBOH_00041	CDS	1080	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GBJEOBOH_00042	gene	576				
+GBJEOBOH_00042	CDS	576			COG4752	putative protein
+GBJEOBOH_00043	gene	759	ccsA_1			
+GBJEOBOH_00043	CDS	759	ccsA_1			Cytochrome c biogenesis protein CcsA
+GBJEOBOH_00044	gene	453	fabZ			
+GBJEOBOH_00044	CDS	453	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+GBJEOBOH_00045	gene	627	sfsA			
+GBJEOBOH_00045	CDS	627	sfsA		COG1489	Sugar fermentation stimulation protein A
+GBJEOBOH_00046	gene	108				
+GBJEOBOH_00046	CDS	108				hypothetical protein
+GBJEOBOH_00047	gene	351				
+GBJEOBOH_00047	CDS	351				hypothetical protein
+GBJEOBOH_00048	gene	114				
+GBJEOBOH_00048	CDS	114				hypothetical protein
+GBJEOBOH_00049	gene	504				
+GBJEOBOH_00049	CDS	504			COG1926	Putative phosphoribosyl transferase
+GBJEOBOH_00050	gene	537	mog			
+GBJEOBOH_00050	CDS	537	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+GBJEOBOH_00051	gene	843	speE_1			
+GBJEOBOH_00051	CDS	843	speE_1	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+GBJEOBOH_00052	gene	342	rpsF			
+GBJEOBOH_00052	CDS	342	rpsF		COG0360	30S ribosomal protein S6
+GBJEOBOH_00053	gene	444				
+GBJEOBOH_00053	CDS	444				Single-stranded DNA-binding protein
+GBJEOBOH_00054	gene	219	rpsR2			
+GBJEOBOH_00054	CDS	219	rpsR2		COG0238	30S ribosomal protein S18 2
+GBJEOBOH_00055	gene	180	tatAy			
+GBJEOBOH_00055	CDS	180	tatAy			Sec-independent protein translocase protein TatAy
+GBJEOBOH_00056	gene	234	tatA			
+GBJEOBOH_00056	CDS	234	tatA			Sec-independent protein translocase protein TatA
+GBJEOBOH_00057	gene	894	trmB			
+GBJEOBOH_00057	CDS	894	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+GBJEOBOH_00058	gene	969				
+GBJEOBOH_00058	CDS	969				hypothetical protein
+GBJEOBOH_00059	gene	513	dmsB			
+GBJEOBOH_00059	CDS	513	dmsB		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+GBJEOBOH_00060	gene	237				
+GBJEOBOH_00060	CDS	237				hypothetical protein
+GBJEOBOH_00061	gene	357	rplQ			
+GBJEOBOH_00061	CDS	357	rplQ		COG0203	50S ribosomal protein L17
+GBJEOBOH_00062	gene	954	rpoA			
+GBJEOBOH_00062	CDS	954	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+GBJEOBOH_00063	gene	636	rpsD			
+GBJEOBOH_00063	CDS	636	rpsD		COG0522	30S ribosomal protein S4
+GBJEOBOH_00064	gene	378	rpsK			
+GBJEOBOH_00064	CDS	378	rpsK			30S ribosomal protein S11
+GBJEOBOH_00065	gene	381	rpsM			
+GBJEOBOH_00065	CDS	381	rpsM		COG0099	30S ribosomal protein S13
+GBJEOBOH_00066	gene	150				
+GBJEOBOH_00066	CDS	150				hypothetical protein
+GBJEOBOH_00067	gene	243	infA			
+GBJEOBOH_00067	CDS	243	infA		COG0361	Translation initiation factor IF-1
+GBJEOBOH_00068	gene	777	map			
+GBJEOBOH_00068	CDS	777	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+GBJEOBOH_00069	gene	621	adk			
+GBJEOBOH_00069	CDS	621	adk	2.7.4.3	COG0563	Adenylate kinase
+GBJEOBOH_00070	gene	1290	secY			
+GBJEOBOH_00070	CDS	1290	secY		COG0201	Protein translocase subunit SecY
+GBJEOBOH_00071	gene	210	rpmB			
+GBJEOBOH_00071	CDS	210	rpmB		COG0227	50S ribosomal protein L28
+GBJEOBOH_00072	gene	1197	aroC			
+GBJEOBOH_00072	CDS	1197	aroC	4.2.3.5	COG0082	Chorismate synthase
+GBJEOBOH_00073	gene	603				
+GBJEOBOH_00073	CDS	603				hypothetical protein
+GBJEOBOH_00074	gene	1017				
+GBJEOBOH_00074	CDS	1017				hypothetical protein
+GBJEOBOH_00075	gene	243				
+GBJEOBOH_00075	CDS	243				hypothetical protein
+GBJEOBOH_00076	gene	804	kdsA			
+GBJEOBOH_00076	CDS	804	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+GBJEOBOH_00077	gene	663	cysW			
+GBJEOBOH_00077	CDS	663	cysW		COG4208	Sulfate transport system permease protein CysW
+GBJEOBOH_00078	gene	342				
+GBJEOBOH_00078	CDS	342				hypothetical protein
+GBJEOBOH_00079	gene	336				
+GBJEOBOH_00079	CDS	336				hypothetical protein
+GBJEOBOH_00080	gene	393				
+GBJEOBOH_00080	CDS	393				hypothetical protein
+GBJEOBOH_00081	gene	897	norR			
+GBJEOBOH_00081	CDS	897	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+GBJEOBOH_00082	gene	633	atoC_1			
+GBJEOBOH_00082	CDS	633	atoC_1		COG2204	Regulatory protein AtoC
+GBJEOBOH_00083	gene	2406	nrdA			
+GBJEOBOH_00083	CDS	2406	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+GBJEOBOH_00084	gene	1224				
+GBJEOBOH_00084	CDS	1224				hypothetical protein
+GBJEOBOH_00085	gene	303	secG			
+GBJEOBOH_00085	CDS	303	secG			Protein-export membrane protein SecG
+GBJEOBOH_00086	gene	837	prmC			
+GBJEOBOH_00086	CDS	837	prmC	2.1.1.297		Release factor glutamine methyltransferase
+GBJEOBOH_00087	gene	1251				
+GBJEOBOH_00087	CDS	1251				hypothetical protein
+GBJEOBOH_00088	gene	741	yafV			
+GBJEOBOH_00088	CDS	741	yafV	3.5.1.3		Omega-amidase YafV
+GBJEOBOH_00089	gene	1113	kmo_1			
+GBJEOBOH_00089	CDS	1113	kmo_1	1.14.13.9		Kynurenine 3-monooxygenase
+GBJEOBOH_00090	gene	324	rbfA			
+GBJEOBOH_00090	CDS	324	rbfA			Ribosome-binding factor A
+GBJEOBOH_00091	gene	354				
+GBJEOBOH_00091	CDS	354				hypothetical protein
+GBJEOBOH_00092	gene	141	fdx4_1			
+GBJEOBOH_00092	CDS	141	fdx4_1		COG3411	Ferredoxin, 2Fe-2S
+GBJEOBOH_00093	gene	198	fdx4_2			
+GBJEOBOH_00093	CDS	198	fdx4_2		COG3411	Ferredoxin, 2Fe-2S
+GBJEOBOH_00094	gene	243	hfq_1			
+GBJEOBOH_00094	CDS	243	hfq_1		COG1923	RNA-binding protein Hfq
+GBJEOBOH_00095	gene	339	glnB			
+GBJEOBOH_00095	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+GBJEOBOH_00096	gene	1410	glnA			
+GBJEOBOH_00096	CDS	1410	glnA	6.3.1.2		Glutamine synthetase
+GBJEOBOH_00097	gene	1272	amt			
+GBJEOBOH_00097	CDS	1272	amt			Ammonia channel
+GBJEOBOH_00098	gene	1047				
+GBJEOBOH_00098	CDS	1047				hypothetical protein
+GBJEOBOH_00099	gene	252				
+GBJEOBOH_00099	CDS	252				hypothetical protein
+GBJEOBOH_00100	gene	441				
+GBJEOBOH_00100	CDS	441				hypothetical protein
+GBJEOBOH_00101	gene	321				
+GBJEOBOH_00101	CDS	321				hypothetical protein
+GBJEOBOH_00102	gene	1563	napA			
+GBJEOBOH_00102	CDS	1563	napA	1.9.6.1		Periplasmic nitrate reductase
+GBJEOBOH_00103	gene	1194	pgk			
+GBJEOBOH_00103	CDS	1194	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GBJEOBOH_00104	gene	654	tal			
+GBJEOBOH_00104	CDS	654	tal	2.2.1.2	COG0176	Transaldolase
+GBJEOBOH_00105	gene	1029	kmo_2			
+GBJEOBOH_00105	CDS	1029	kmo_2	1.14.13.9		Kynurenine 3-monooxygenase
+GBJEOBOH_00106	gene	1212	hisS			
+GBJEOBOH_00106	CDS	1212	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GBJEOBOH_00107	gene	339	rpsP			
+GBJEOBOH_00107	CDS	339	rpsP		COG0228	30S ribosomal protein S16
+GBJEOBOH_00108	gene	240				
+GBJEOBOH_00108	CDS	240				hypothetical protein
+GBJEOBOH_00109	gene	399				
+GBJEOBOH_00109	CDS	399				hypothetical protein
+GBJEOBOH_00110	gene	444				
+GBJEOBOH_00110	CDS	444				hypothetical protein
+GBJEOBOH_00111	gene	819				
+GBJEOBOH_00111	CDS	819				hypothetical protein
+GBJEOBOH_00112	gene	1419	yeeO			
+GBJEOBOH_00112	CDS	1419	yeeO		COG0534	putative FMN/FAD exporter YeeO
+GBJEOBOH_00113	gene	465	ribH			
+GBJEOBOH_00113	CDS	465	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+GBJEOBOH_00114	gene	447	nusB			
+GBJEOBOH_00114	CDS	447	nusB		COG0781	Transcription antitermination protein NusB
+GBJEOBOH_00115	gene	228				
+GBJEOBOH_00115	CDS	228				hypothetical protein
+GBJEOBOH_00116	gene	456				
+GBJEOBOH_00116	CDS	456				hypothetical protein
+GBJEOBOH_00117	gene	948	hldD_1			
+GBJEOBOH_00117	CDS	948	hldD_1	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+GBJEOBOH_00118	gene	1068	ccpA			
+GBJEOBOH_00118	CDS	1068	ccpA	1.11.1.5	COG1858	Cytochrome c551 peroxidase
+GBJEOBOH_00119	gene	1071	ribD			
+GBJEOBOH_00119	CDS	1071	ribD		COG0117	Riboflavin biosynthesis protein RibD
+GBJEOBOH_00120	gene	945	ribF			
+GBJEOBOH_00120	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+GBJEOBOH_00121	gene	366				
+GBJEOBOH_00121	CDS	366		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+GBJEOBOH_00122	gene	231				
+GBJEOBOH_00122	CDS	231				hypothetical protein
+GBJEOBOH_00123	gene	441				
+GBJEOBOH_00123	CDS	441				hypothetical protein
+GBJEOBOH_00124	gene	954	rfaF			
+GBJEOBOH_00124	CDS	954	rfaF	2.-.-.-	COG0859	ADP-heptose--LPS heptosyltransferase 2
+GBJEOBOH_00125	gene	879	yciC			
+GBJEOBOH_00125	CDS	879	yciC		COG0523	Putative metal chaperone YciC
+GBJEOBOH_00126	gene	660	deoC			
+GBJEOBOH_00126	CDS	660	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+GBJEOBOH_00127	gene	780	mmgD			
+GBJEOBOH_00127	CDS	780	mmgD	2.3.3.-	COG0372	Citrate/2-methylcitrate synthase
+GBJEOBOH_00128	gene	441	resA_1			
+GBJEOBOH_00128	CDS	441	resA_1		COG0526	Thiol-disulfide oxidoreductase ResA
+GBJEOBOH_00129	gene	225				
+GBJEOBOH_00129	CDS	225				hypothetical protein
+GBJEOBOH_00130	gene	891	ctaA			
+GBJEOBOH_00130	CDS	891	ctaA	1.3.-.-		Heme A synthase
+GBJEOBOH_00131	gene	879	ctaB2			
+GBJEOBOH_00131	CDS	879	ctaB2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase 2
+GBJEOBOH_00132	gene	1161				
+GBJEOBOH_00132	CDS	1161				hypothetical protein
+GBJEOBOH_00133	gene	117				
+GBJEOBOH_00133	CDS	117				hypothetical protein
+GBJEOBOH_00134	gene	399				
+GBJEOBOH_00134	CDS	399				hypothetical protein
+GBJEOBOH_00135	gene	477				
+GBJEOBOH_00135	CDS	477				hypothetical protein
+GBJEOBOH_00136	gene	405	mutT4			
+GBJEOBOH_00136	CDS	405	mutT4	3.6.1.-	COG0494	Putative mutator protein MutT4
+GBJEOBOH_00137	gene	549				
+GBJEOBOH_00137	CDS	549				hypothetical protein
+GBJEOBOH_00138	gene	168				
+GBJEOBOH_00138	CDS	168				hypothetical protein
+GBJEOBOH_00139	gene	483	sulD			
+GBJEOBOH_00139	CDS	483	sulD		COG0801	Bifunctional folate synthesis protein
+GBJEOBOH_00140	gene	1329	atoC_2			
+GBJEOBOH_00140	CDS	1329	atoC_2		COG2204	Regulatory protein AtoC
+GBJEOBOH_00141	gene	690	rsmE			
+GBJEOBOH_00141	CDS	690	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+GBJEOBOH_00142	gene	777	proC			
+GBJEOBOH_00142	CDS	777	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+GBJEOBOH_00143	gene	621	yfiH			
+GBJEOBOH_00143	CDS	621	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+GBJEOBOH_00144	gene	510	rsgA_1			
+GBJEOBOH_00144	CDS	510	rsgA_1	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+GBJEOBOH_00145	gene	444	rsgA_2			
+GBJEOBOH_00145	CDS	444	rsgA_2	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+GBJEOBOH_00146	gene	1362	bioK			
+GBJEOBOH_00146	CDS	1362	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+GBJEOBOH_00147	gene	162				
+GBJEOBOH_00147	CDS	162				hypothetical protein
+GBJEOBOH_00148	gene	741				
+GBJEOBOH_00148	CDS	741				hypothetical protein
+GBJEOBOH_00149	gene	213				
+GBJEOBOH_00149	CDS	213				hypothetical protein
+GBJEOBOH_00150	gene	120				
+GBJEOBOH_00150	CDS	120				hypothetical protein
+GBJEOBOH_00151	gene	663	nth_1			
+GBJEOBOH_00151	CDS	663	nth_1	4.2.99.18		Endonuclease III
+GBJEOBOH_00152	gene	744				
+GBJEOBOH_00152	CDS	744				hypothetical protein
+GBJEOBOH_00153	gene	1509	yidC			
+GBJEOBOH_00153	CDS	1509	yidC			Membrane protein insertase YidC
+GBJEOBOH_00154	gene	144				
+GBJEOBOH_00154	CDS	144				hypothetical protein
+GBJEOBOH_00155	gene	300	atpH			
+GBJEOBOH_00155	CDS	300	atpH			ATP synthase subunit c
+GBJEOBOH_00156	gene	408				
+GBJEOBOH_00156	CDS	408				Universal stress protein Aq_178
+GBJEOBOH_00157	gene	651	atpB			
+GBJEOBOH_00157	CDS	651	atpB		COG0356	ATP synthase subunit a
+GBJEOBOH_00158	gene	762	hisF			
+GBJEOBOH_00158	CDS	762	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+GBJEOBOH_00159	gene	747				
+GBJEOBOH_00159	CDS	747				hypothetical protein
+GBJEOBOH_00160	gene	1194				
+GBJEOBOH_00160	CDS	1194				hypothetical protein
+GBJEOBOH_00161	gene	231	rpoZ			
+GBJEOBOH_00161	CDS	231	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+GBJEOBOH_00162	gene	330	gmk			
+GBJEOBOH_00162	CDS	330	gmk	2.7.4.8		Guanylate kinase
+GBJEOBOH_00163	gene	474	hldE_1			
+GBJEOBOH_00163	CDS	474	hldE_1		COG2870	Bifunctional protein HldE
+GBJEOBOH_00164	gene	1431	safD			
+GBJEOBOH_00164	CDS	1431	safD	1.2.1.73	COG1012	Sulfoacetaldehyde dehydrogenase
+GBJEOBOH_00165	gene	1353	hslU			
+GBJEOBOH_00165	CDS	1353	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+GBJEOBOH_00166	gene	465				
+GBJEOBOH_00166	CDS	465				hypothetical protein
+GBJEOBOH_00167	gene	1023	trpD_1			
+GBJEOBOH_00167	CDS	1023	trpD_1	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+GBJEOBOH_00168	gene	1203				
+GBJEOBOH_00168	CDS	1203				hypothetical protein
+GBJEOBOH_00169	gene	1224				
+GBJEOBOH_00169	CDS	1224				hypothetical protein
+GBJEOBOH_00170	gene	627				
+GBJEOBOH_00170	CDS	627				hypothetical protein
+GBJEOBOH_00171	gene	609	rdgB			
+GBJEOBOH_00171	CDS	609	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+GBJEOBOH_00172	gene	1182	atpG_1			
+GBJEOBOH_00172	CDS	1182	atpG_1			ATP synthase gamma chain
+GBJEOBOH_00173	gene	882	kaiC			
+GBJEOBOH_00173	CDS	882	kaiC	2.7.11.1		Circadian clock protein kinase KaiC
+GBJEOBOH_00174	gene	3009	norW			
+GBJEOBOH_00174	CDS	3009	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+GBJEOBOH_00175	gene	735	sumT			
+GBJEOBOH_00175	CDS	735	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+GBJEOBOH_00176	gene	930	trpD_2			
+GBJEOBOH_00176	CDS	930	trpD_2	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+GBJEOBOH_00177	gene	420	vhb			
+GBJEOBOH_00177	CDS	420	vhb			Bacterial hemoglobin
+GBJEOBOH_00178	gene	450	cynS			
+GBJEOBOH_00178	CDS	450	cynS	4.2.1.104		Cyanate hydratase
+GBJEOBOH_00179	gene	618				
+GBJEOBOH_00179	CDS	618				hypothetical protein
+GBJEOBOH_00180	gene	1428	nasA			
+GBJEOBOH_00180	CDS	1428	nasA			Nitrate transporter
+GBJEOBOH_00181	gene	2001	narB			
+GBJEOBOH_00181	CDS	2001	narB	1.7.5.1	COG0243	Nitrate reductase
+GBJEOBOH_00182	gene	1521	vnfA			
+GBJEOBOH_00182	CDS	1521	vnfA		COG3604	Nitrogen fixation protein VnfA
+GBJEOBOH_00183	gene	453	dut			
+GBJEOBOH_00183	CDS	453	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GBJEOBOH_00184	gene	2328	pnp			
+GBJEOBOH_00184	CDS	2328	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+GBJEOBOH_00185	gene	273	rpsO			
+GBJEOBOH_00185	CDS	273	rpsO			30S ribosomal protein S15
+GBJEOBOH_00186	gene	2088	iorB			
+GBJEOBOH_00186	CDS	2088	iorB	1.3.99.16		Isoquinoline 1-oxidoreductase subunit beta
+GBJEOBOH_00187	gene	198	iorA			
+GBJEOBOH_00187	CDS	198	iorA	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+GBJEOBOH_00188	gene	1347	atoC_3			
+GBJEOBOH_00188	CDS	1347	atoC_3		COG2204	Regulatory protein AtoC
+GBJEOBOH_00189	gene	1020	kinA			
+GBJEOBOH_00189	CDS	1020	kinA	2.7.13.3	COG0642	Sporulation kinase A
+GBJEOBOH_00190	gene	1311	fccB_1			
+GBJEOBOH_00190	CDS	1311	fccB_1	1.8.2.3	COG0446	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+GBJEOBOH_00191	gene	717				
+GBJEOBOH_00191	CDS	717				hypothetical protein
+GBJEOBOH_00192	gene	1254	fccB_2			
+GBJEOBOH_00192	CDS	1254	fccB_2	1.8.2.3	COG0446	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+GBJEOBOH_00193	gene	1533	guaA			
+GBJEOBOH_00193	CDS	1533	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+GBJEOBOH_00194	gene	516	yojM_1			
+GBJEOBOH_00194	CDS	516	yojM_1		COG2032	Superoxide dismutase-like protein YojM
+GBJEOBOH_00195	gene	555	folE			
+GBJEOBOH_00195	CDS	555	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+GBJEOBOH_00196	gene	903				
+GBJEOBOH_00196	CDS	903				hypothetical protein
+GBJEOBOH_00197	gene	2388	lon			
+GBJEOBOH_00197	CDS	2388	lon	3.4.21.53	COG0466	Lon protease
+GBJEOBOH_00198	gene	1488				
+GBJEOBOH_00198	CDS	1488				hypothetical protein
+GBJEOBOH_00199	gene	1095	leuB			
+GBJEOBOH_00199	CDS	1095	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+	repeat_region	308				
+GBJEOBOH_00200	gene	1098	purK			
+GBJEOBOH_00200	CDS	1098	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+GBJEOBOH_00201	gene	840				
+GBJEOBOH_00201	CDS	840				hypothetical protein
+GBJEOBOH_00202	gene	1437	gatA			
+GBJEOBOH_00202	CDS	1437	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GBJEOBOH_00203	gene	438	dksA_1			
+GBJEOBOH_00203	CDS	438	dksA_1			RNA polymerase-binding transcription factor DksA
+GBJEOBOH_00204	gene	681	ogg			
+GBJEOBOH_00204	CDS	681	ogg		COG1059	putative N-glycosylase/DNA lyase
+GBJEOBOH_00205	gene	420				
+GBJEOBOH_00205	CDS	420				hypothetical protein
+GBJEOBOH_00206	gene	486	coaD			
+GBJEOBOH_00206	CDS	486	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+GBJEOBOH_00207	gene	180				
+GBJEOBOH_00207	CDS	180				hypothetical protein
+GBJEOBOH_00208	gene	408	speH			
+GBJEOBOH_00208	CDS	408	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+GBJEOBOH_00209	gene	486				
+GBJEOBOH_00209	CDS	486				hypothetical protein
+GBJEOBOH_00210	gene	429				
+GBJEOBOH_00210	CDS	429				hypothetical protein
+GBJEOBOH_00211	gene	1278	rlmCD			
+GBJEOBOH_00211	CDS	1278	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GBJEOBOH_00212	gene	1014	nusA			
+GBJEOBOH_00212	CDS	1014	nusA			Transcription termination/antitermination protein NusA
+GBJEOBOH_00213	gene	477	rimP			
+GBJEOBOH_00213	CDS	477	rimP		COG0779	Ribosome maturation factor RimP
+GBJEOBOH_00214	gene	195				
+GBJEOBOH_00214	CDS	195				hypothetical protein
+GBJEOBOH_00215	gene	570	COQ5_1			
+GBJEOBOH_00215	CDS	570	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GBJEOBOH_00216	gene	216				
+GBJEOBOH_00216	CDS	216				hypothetical protein
+GBJEOBOH_00217	gene	228				
+GBJEOBOH_00217	CDS	228				hypothetical protein
+GBJEOBOH_00218	gene	192				
+GBJEOBOH_00218	CDS	192				hypothetical protein
+GBJEOBOH_00219	gene	92				
+GBJEOBOH_00219	tRNA	92				tRNA-Ser(gga)
+GBJEOBOH_00220	gene	915	hemC			
+GBJEOBOH_00220	CDS	915	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+GBJEOBOH_00221	gene	654	lipM_1			
+GBJEOBOH_00221	CDS	654	lipM_1	2.3.1.181	COG0095	Octanoyltransferase LipM
+GBJEOBOH_00222	gene	1017				
+GBJEOBOH_00222	CDS	1017				hypothetical protein
+GBJEOBOH_00223	gene	1137				
+GBJEOBOH_00223	CDS	1137				hypothetical protein
+GBJEOBOH_00224	gene	435	iscR			
+GBJEOBOH_00224	CDS	435	iscR		COG1959	HTH-type transcriptional regulator IscR
+GBJEOBOH_00225	gene	489				
+GBJEOBOH_00225	CDS	489				hypothetical protein
+GBJEOBOH_00226	gene	819	lgt			
+GBJEOBOH_00226	CDS	819	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+GBJEOBOH_00227	gene	1212				
+GBJEOBOH_00227	CDS	1212				hypothetical protein
+GBJEOBOH_00228	gene	450				
+GBJEOBOH_00228	CDS	450				hypothetical protein
+GBJEOBOH_00229	gene	1164	dapL			
+GBJEOBOH_00229	CDS	1164	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+GBJEOBOH_00230	gene	687				
+GBJEOBOH_00230	CDS	687			COG0325	Pyridoxal phosphate homeostasis protein
+GBJEOBOH_00231	gene	318				
+GBJEOBOH_00231	CDS	318				hypothetical protein
+GBJEOBOH_00232	gene	1377				
+GBJEOBOH_00232	CDS	1377				hypothetical protein
+GBJEOBOH_00233	gene	1419				
+GBJEOBOH_00233	CDS	1419				hypothetical protein
+GBJEOBOH_00234	gene	1836				
+GBJEOBOH_00234	CDS	1836				hypothetical protein
+GBJEOBOH_00235	gene	531	fadR			
+GBJEOBOH_00235	CDS	531	fadR			Fatty acid metabolism regulator protein
+GBJEOBOH_00236	gene	642	nth_2			
+GBJEOBOH_00236	CDS	642	nth_2	4.2.99.18	COG0177	Endonuclease III
+GBJEOBOH_00237	gene	498				
+GBJEOBOH_00237	CDS	498			COG1259	putative protein
+GBJEOBOH_00238	gene	1323	miaB			
+GBJEOBOH_00238	CDS	1323	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GBJEOBOH_00239	gene	528				
+GBJEOBOH_00239	CDS	528				hypothetical protein
+GBJEOBOH_00240	gene	474	smpB			
+GBJEOBOH_00240	CDS	474	smpB		COG0691	SsrA-binding protein
+GBJEOBOH_00241	gene	969				
+GBJEOBOH_00241	CDS	969			COG0645	putative protein
+GBJEOBOH_00242	gene	1479	comM			
+GBJEOBOH_00242	CDS	1479	comM		COG0606	Competence protein ComM
+GBJEOBOH_00243	gene	396				
+GBJEOBOH_00243	CDS	396				hypothetical protein
+GBJEOBOH_00244	gene	1116	macA			
+GBJEOBOH_00244	CDS	1116	macA		COG0845	Macrolide export protein MacA
+GBJEOBOH_00245	gene	1251	lolC			
+GBJEOBOH_00245	CDS	1251	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+GBJEOBOH_00246	gene	675	lolD_1			
+GBJEOBOH_00246	CDS	675	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GBJEOBOH_00247	gene	1278	serS			
+GBJEOBOH_00247	CDS	1278	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GBJEOBOH_00248	gene	1779	glmS			
+GBJEOBOH_00248	CDS	1779	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GBJEOBOH_00249	gene	345				
+GBJEOBOH_00249	CDS	345				hypothetical protein
+GBJEOBOH_00250	gene	1107				
+GBJEOBOH_00250	CDS	1107				hypothetical protein
+GBJEOBOH_00251	gene	2871	ileS			
+GBJEOBOH_00251	CDS	2871	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GBJEOBOH_00252	gene	2580	mutS			
+GBJEOBOH_00252	CDS	2580	mutS		COG0249	DNA mismatch repair protein MutS
+GBJEOBOH_00253	gene	267				
+GBJEOBOH_00253	CDS	267				hypothetical protein
+GBJEOBOH_00254	gene	285				
+GBJEOBOH_00254	CDS	285				hypothetical protein
+GBJEOBOH_00255	gene	96				
+GBJEOBOH_00255	CDS	96				hypothetical protein
+GBJEOBOH_00256	gene	747	trmI			
+GBJEOBOH_00256	CDS	747	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+GBJEOBOH_00257	gene	840	mqnD			
+GBJEOBOH_00257	CDS	840	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+GBJEOBOH_00258	gene	438	pgpA			
+GBJEOBOH_00258	CDS	438	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+GBJEOBOH_00259	gene	933	phoR			
+GBJEOBOH_00259	CDS	933	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+GBJEOBOH_00260	gene	177				
+GBJEOBOH_00260	CDS	177				hypothetical protein
+GBJEOBOH_00261	gene	675	srrA			
+GBJEOBOH_00261	CDS	675	srrA		COG0745	Transcriptional regulatory protein SrrA
+GBJEOBOH_00262	gene	597				
+GBJEOBOH_00262	CDS	597				hypothetical protein
+GBJEOBOH_00263	gene	1200	dnaA			
+GBJEOBOH_00263	CDS	1200	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+GBJEOBOH_00264	gene	1011	iolS			
+GBJEOBOH_00264	CDS	1011	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+GBJEOBOH_00265	gene	783	noc			
+GBJEOBOH_00265	CDS	783	noc			Nucleoid occlusion protein
+GBJEOBOH_00266	gene	765	murI			
+GBJEOBOH_00266	CDS	765	murI	5.1.1.3		Glutamate racemase
+GBJEOBOH_00267	gene	1062	kdtA			
+GBJEOBOH_00267	CDS	1062	kdtA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+GBJEOBOH_00268	gene	771	carC			
+GBJEOBOH_00268	CDS	771	carC	3.7.1.13		2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoic acid hydrolase
+GBJEOBOH_00269	gene	450				
+GBJEOBOH_00269	CDS	450				putative protein aq_328
+GBJEOBOH_00270	gene	882	COQ7			
+GBJEOBOH_00270	CDS	882	COQ7	1.14.99.60		5-demethoxyubiquinone hydroxylase, mitochondrial
+GBJEOBOH_00271	gene	88				
+GBJEOBOH_00271	tRNA	88				tRNA-Leu(gag)
+GBJEOBOH_00272	gene	1017	hemE			
+GBJEOBOH_00272	CDS	1017	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+GBJEOBOH_00273	gene	276				
+GBJEOBOH_00273	CDS	276				hypothetical protein
+GBJEOBOH_00274	gene	591				
+GBJEOBOH_00274	CDS	591				hypothetical protein
+GBJEOBOH_00275	gene	75				
+GBJEOBOH_00275	tRNA	75				tRNA-Gly(gcc)
+GBJEOBOH_00276	gene	75				
+GBJEOBOH_00276	tRNA	75				tRNA-Cys(gca)
+GBJEOBOH_00277	gene	654	ubiE			
+GBJEOBOH_00277	CDS	654	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+GBJEOBOH_00278	gene	1758				
+GBJEOBOH_00278	CDS	1758				hypothetical protein
+GBJEOBOH_00279	gene	285				
+GBJEOBOH_00279	CDS	285				hypothetical protein
+GBJEOBOH_00280	gene	492	cph2			
+GBJEOBOH_00280	CDS	492	cph2			Phytochrome-like protein cph2
+GBJEOBOH_00281	gene	774	mazG			
+GBJEOBOH_00281	CDS	774	mazG	3.6.1.1	COG1694	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG
+GBJEOBOH_00282	gene	900	arsA			
+GBJEOBOH_00282	CDS	900	arsA	7.3.2.7		Arsenical pump-driving ATPase
+GBJEOBOH_00283	gene	933	hldD_2			
+GBJEOBOH_00283	CDS	933	hldD_2	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+GBJEOBOH_00284	gene	270				
+GBJEOBOH_00284	CDS	270				hypothetical protein
+GBJEOBOH_00285	gene	1878				
+GBJEOBOH_00285	CDS	1878				hypothetical protein
+GBJEOBOH_00286	gene	579	pth			
+GBJEOBOH_00286	CDS	579	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+GBJEOBOH_00287	gene	456				
+GBJEOBOH_00287	CDS	456				hypothetical protein
+GBJEOBOH_00288	gene	1221	ribBA			
+GBJEOBOH_00288	CDS	1221	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+GBJEOBOH_00289	gene	1905	leuS_1			
+GBJEOBOH_00289	CDS	1905	leuS_1	6.1.1.4	COG0495	Leucine--tRNA ligase subunit alpha
+GBJEOBOH_00290	gene	738	mlaE			
+GBJEOBOH_00290	CDS	738	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+GBJEOBOH_00291	gene	1587	cimA			
+GBJEOBOH_00291	CDS	1587	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+GBJEOBOH_00292	gene	267				
+GBJEOBOH_00292	CDS	267				hypothetical protein
+GBJEOBOH_00293	gene	1929	dinG			
+GBJEOBOH_00293	CDS	1929	dinG	3.1.-.-		3'-5' exonuclease DinG
+GBJEOBOH_00294	gene	1071				
+GBJEOBOH_00294	CDS	1071				hypothetical protein
+GBJEOBOH_00295	gene	744	pgk/tpi			
+GBJEOBOH_00295	CDS	744	pgk/tpi		COG0126	Bifunctional PGK/TIM
+GBJEOBOH_00296	gene	315				
+GBJEOBOH_00296	CDS	315				hypothetical protein
+GBJEOBOH_00297	gene	798				
+GBJEOBOH_00297	CDS	798				hypothetical protein
+GBJEOBOH_00298	gene	423				
+GBJEOBOH_00298	CDS	423				hypothetical protein
+GBJEOBOH_00299	gene	378	yabJ			
+GBJEOBOH_00299	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+GBJEOBOH_00300	gene	1713	proS			
+GBJEOBOH_00300	CDS	1713	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GBJEOBOH_00301	gene	2553				
+GBJEOBOH_00301	CDS	2553				hypothetical protein
+	repeat_region	231				
+GBJEOBOH_00302	gene	282	cas2			
+GBJEOBOH_00302	CDS	282	cas2	3.1.-.-	COG1343	CRISPR-associated endoribonuclease Cas2
+GBJEOBOH_00303	gene	951	cas1			
+GBJEOBOH_00303	CDS	951	cas1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+GBJEOBOH_00304	gene	528				
+GBJEOBOH_00304	CDS	528				hypothetical protein
+GBJEOBOH_00305	gene	2190				
+GBJEOBOH_00305	CDS	2190				hypothetical protein
+GBJEOBOH_00306	gene	1596				
+GBJEOBOH_00306	CDS	1596				hypothetical protein
+GBJEOBOH_00307	gene	660				
+GBJEOBOH_00307	CDS	660				hypothetical protein
+GBJEOBOH_00308	gene	1074				
+GBJEOBOH_00308	CDS	1074				hypothetical protein
+GBJEOBOH_00309	gene	942				
+GBJEOBOH_00309	CDS	942				hypothetical protein
+GBJEOBOH_00310	gene	336				
+GBJEOBOH_00310	CDS	336				hypothetical protein
+GBJEOBOH_00311	gene	1362				
+GBJEOBOH_00311	CDS	1362				hypothetical protein
+GBJEOBOH_00312	gene	1122				
+GBJEOBOH_00312	CDS	1122				hypothetical protein
+GBJEOBOH_00313	gene	900				
+GBJEOBOH_00313	CDS	900				hypothetical protein
+GBJEOBOH_00314	gene	888				
+GBJEOBOH_00314	CDS	888				hypothetical protein
+GBJEOBOH_00315	gene	744				
+GBJEOBOH_00315	CDS	744				hypothetical protein
+GBJEOBOH_00316	gene	201				
+GBJEOBOH_00316	CDS	201				hypothetical protein
+GBJEOBOH_00317	gene	402				
+GBJEOBOH_00317	CDS	402				hypothetical protein
+GBJEOBOH_00318	gene	888				
+GBJEOBOH_00318	CDS	888				hypothetical protein
+GBJEOBOH_00319	gene	978				
+GBJEOBOH_00319	CDS	978				hypothetical protein
+GBJEOBOH_00320	gene	1866				
+GBJEOBOH_00320	CDS	1866				hypothetical protein
+GBJEOBOH_00321	gene	906				
+GBJEOBOH_00321	CDS	906				hypothetical protein
+GBJEOBOH_00322	gene	264	flhB_1			
+GBJEOBOH_00322	CDS	264	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+GBJEOBOH_00323	gene	240	tusA_1			
+GBJEOBOH_00323	CDS	240	tusA_1		COG0425	Sulfur carrier protein TusA
+GBJEOBOH_00324	gene	549	dsrE2			
+GBJEOBOH_00324	CDS	549	dsrE2		COG2210	Sulfur carrier protein DsrE2
+GBJEOBOH_00325	gene	426				
+GBJEOBOH_00325	CDS	426				hypothetical protein
+GBJEOBOH_00326	gene	753				
+GBJEOBOH_00326	CDS	753				hypothetical protein
+GBJEOBOH_00327	gene	669				
+GBJEOBOH_00327	CDS	669				hypothetical protein
+GBJEOBOH_00328	gene	528				
+GBJEOBOH_00328	CDS	528				hypothetical protein
+GBJEOBOH_00329	gene	1059				
+GBJEOBOH_00329	CDS	1059		1.18.1.2		Ferredoxin--NADP reductase
+GBJEOBOH_00330	gene	819				
+GBJEOBOH_00330	CDS	819				hypothetical protein
+GBJEOBOH_00331	gene	762				
+GBJEOBOH_00331	CDS	762				hypothetical protein
+GBJEOBOH_00332	gene	996	sdhE			
+GBJEOBOH_00332	CDS	996	sdhE	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+GBJEOBOH_00333	gene	408				
+GBJEOBOH_00333	CDS	408				hypothetical protein
+GBJEOBOH_00334	gene	447	gcvH_1			
+GBJEOBOH_00334	CDS	447	gcvH_1		COG0509	Glycine cleavage system H protein
+GBJEOBOH_00335	gene	1026				
+GBJEOBOH_00335	CDS	1026				hypothetical protein
+GBJEOBOH_00336	gene	1143	dxr			
+GBJEOBOH_00336	CDS	1143	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+GBJEOBOH_00337	gene	642				
+GBJEOBOH_00337	CDS	642				hypothetical protein
+GBJEOBOH_00338	gene	612				
+GBJEOBOH_00338	CDS	612		1.18.1.2		Ferredoxin--NADP reductase
+GBJEOBOH_00339	gene	525				
+GBJEOBOH_00339	CDS	525				hypothetical protein
+GBJEOBOH_00340	gene	876	pyrB			
+GBJEOBOH_00340	CDS	876	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+GBJEOBOH_00341	gene	1116	carA			
+GBJEOBOH_00341	CDS	1116	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+	repeat_region	292				
+GBJEOBOH_00342	gene	2475				
+GBJEOBOH_00342	CDS	2475		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+GBJEOBOH_00343	gene	717	lptB			
+GBJEOBOH_00343	CDS	717	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+GBJEOBOH_00344	gene	1320				
+GBJEOBOH_00344	CDS	1320				hypothetical protein
+GBJEOBOH_00345	gene	1146	gerN			
+GBJEOBOH_00345	CDS	1146	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GBJEOBOH_00346	gene	1047	rlmN			
+GBJEOBOH_00346	CDS	1047	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+GBJEOBOH_00347	gene	660	lolD_2			
+GBJEOBOH_00347	CDS	660	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GBJEOBOH_00348	gene	264				
+GBJEOBOH_00348	CDS	264				hypothetical protein
+GBJEOBOH_00349	gene	402	xcpT			
+GBJEOBOH_00349	CDS	402	xcpT		COG2165	Type II secretion system protein G
+GBJEOBOH_00350	gene	333				
+GBJEOBOH_00350	CDS	333				hypothetical protein
+GBJEOBOH_00351	gene	348				
+GBJEOBOH_00351	CDS	348				hypothetical protein
+GBJEOBOH_00352	gene	1122				
+GBJEOBOH_00352	CDS	1122		2.6.1.1		Aspartate aminotransferase
+GBJEOBOH_00353	gene	336	metG_1			
+GBJEOBOH_00353	CDS	336	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+GBJEOBOH_00354	gene	618	scpA			
+GBJEOBOH_00354	CDS	618	scpA			Segregation and condensation protein A
+GBJEOBOH_00355	gene	1059	thrC_1			
+GBJEOBOH_00355	CDS	1059	thrC_1	4.2.3.1	COG0498	Threonine synthase
+GBJEOBOH_00356	gene	366				
+GBJEOBOH_00356	CDS	366				hypothetical protein
+GBJEOBOH_00357	gene	447	dtd			
+GBJEOBOH_00357	CDS	447	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+GBJEOBOH_00358	gene	243				
+GBJEOBOH_00358	CDS	243				hypothetical protein
+GBJEOBOH_00359	gene	741				
+GBJEOBOH_00359	CDS	741				hypothetical protein
+GBJEOBOH_00360	gene	489				
+GBJEOBOH_00360	CDS	489				hypothetical protein
+GBJEOBOH_00361	gene	201				
+GBJEOBOH_00361	CDS	201				hypothetical protein
+GBJEOBOH_00362	gene	549	grpE			
+GBJEOBOH_00362	CDS	549	grpE		COG0576	Protein GrpE
+GBJEOBOH_00363	gene	1479	glpK			
+GBJEOBOH_00363	CDS	1479	glpK	2.7.1.30	COG0554	Glycerol kinase
+GBJEOBOH_00364	gene	675	ribD2			
+GBJEOBOH_00364	CDS	675	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+GBJEOBOH_00365	gene	75				
+GBJEOBOH_00365	tRNA	75				tRNA-Gly(ccc)
+GBJEOBOH_00366	gene	1899				
+GBJEOBOH_00366	CDS	1899				hypothetical protein
+GBJEOBOH_00367	gene	960	clcB			
+GBJEOBOH_00367	CDS	960	clcB			Voltage-gated ClC-type chloride channel ClcB
+GBJEOBOH_00368	gene	513				
+GBJEOBOH_00368	CDS	513				hypothetical protein
+GBJEOBOH_00369	gene	795				
+GBJEOBOH_00369	CDS	795				hypothetical protein
+GBJEOBOH_00370	gene	660				
+GBJEOBOH_00370	CDS	660				hypothetical protein
+GBJEOBOH_00371	gene	690				
+GBJEOBOH_00371	CDS	690				hypothetical protein
+GBJEOBOH_00372	gene	831	accD			
+GBJEOBOH_00372	CDS	831	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+GBJEOBOH_00373	gene	678	sapB			
+GBJEOBOH_00373	CDS	678	sapB		COG1285	Protein SapB
+GBJEOBOH_00374	gene	291				
+GBJEOBOH_00374	CDS	291				hypothetical protein
+GBJEOBOH_00375	gene	375	crcB			
+GBJEOBOH_00375	CDS	375	crcB			Putative fluoride ion transporter CrcB
+GBJEOBOH_00376	gene	318				
+GBJEOBOH_00376	CDS	318				hypothetical protein
+GBJEOBOH_00377	gene	1758	ilvB1			
+GBJEOBOH_00377	CDS	1758	ilvB1	2.2.1.6	COG0028	Acetolactate synthase large subunit IlvB1
+GBJEOBOH_00378	gene	231				
+GBJEOBOH_00378	CDS	231				hypothetical protein
+GBJEOBOH_00379	gene	774				
+GBJEOBOH_00379	CDS	774				hypothetical protein
+GBJEOBOH_00380	gene	1113	kamA_1			
+GBJEOBOH_00380	CDS	1113	kamA_1	5.4.3.2		L-lysine 2,3-aminomutase
+GBJEOBOH_00381	gene	1002				
+GBJEOBOH_00381	CDS	1002				hypothetical protein
+GBJEOBOH_00382	gene	504				
+GBJEOBOH_00382	CDS	504		1.11.1.15		Peroxiredoxin
+GBJEOBOH_00383	gene	525				
+GBJEOBOH_00383	CDS	525				hypothetical protein
+GBJEOBOH_00384	gene	612				
+GBJEOBOH_00384	CDS	612				hypothetical protein
+GBJEOBOH_00385	gene	1437	gatB			
+GBJEOBOH_00385	CDS	1437	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GBJEOBOH_00386	gene	342				
+GBJEOBOH_00386	CDS	342				hypothetical protein
+GBJEOBOH_00387	gene	399				
+GBJEOBOH_00387	CDS	399				hypothetical protein
+GBJEOBOH_00388	gene	780				
+GBJEOBOH_00388	CDS	780				hypothetical protein
+GBJEOBOH_00389	gene	1080	czcB			
+GBJEOBOH_00389	CDS	1080	czcB			Cobalt-zinc-cadmium resistance protein CzcB
+GBJEOBOH_00390	gene	3060	czcA			
+GBJEOBOH_00390	CDS	3060	czcA			Cobalt-zinc-cadmium resistance protein CzcA
+GBJEOBOH_00391	gene	648				
+GBJEOBOH_00391	CDS	648				hypothetical protein
+GBJEOBOH_00392	gene	1233	mtaB			
+GBJEOBOH_00392	CDS	1233	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+GBJEOBOH_00393	gene	222				
+GBJEOBOH_00393	CDS	222				hypothetical protein
+GBJEOBOH_00394	gene	435				
+GBJEOBOH_00394	CDS	435				hypothetical protein
+GBJEOBOH_00395	gene	375	panD			
+GBJEOBOH_00395	CDS	375	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+GBJEOBOH_00396	gene	333				
+GBJEOBOH_00396	CDS	333		2.8.1.-	COG0607	Sulfurtransferase
+GBJEOBOH_00397	gene	1236	cdgJ_1			
+GBJEOBOH_00397	CDS	1236	cdgJ_1	3.1.4.52	COG3434	Cyclic di-GMP phosphodiesterase CdgJ
+GBJEOBOH_00398	gene	1287	glyA			
+GBJEOBOH_00398	CDS	1287	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+GBJEOBOH_00399	gene	984	dppB			
+GBJEOBOH_00399	CDS	984	dppB		COG0601	Dipeptide transport system permease protein DppB
+GBJEOBOH_00400	gene	369				
+GBJEOBOH_00400	CDS	369				hypothetical protein
+GBJEOBOH_00401	gene	1281	eno			
+GBJEOBOH_00401	CDS	1281	eno	4.2.1.11	COG0148	Enolase
+GBJEOBOH_00402	gene	348				
+GBJEOBOH_00402	CDS	348				hypothetical protein
+GBJEOBOH_00403	gene	636	ahpC			
+GBJEOBOH_00403	CDS	636	ahpC	1.11.1.15		Alkyl hydroperoxide reductase C
+GBJEOBOH_00404	gene	510	tpx			
+GBJEOBOH_00404	CDS	510	tpx	1.11.1.15	COG2077	Thiol peroxidase
+GBJEOBOH_00405	gene	723	fixK			
+GBJEOBOH_00405	CDS	723	fixK		COG0664	Nitrogen fixation regulation protein FixK
+GBJEOBOH_00406	gene	939				
+GBJEOBOH_00406	CDS	939				hypothetical protein
+GBJEOBOH_00407	gene	969				
+GBJEOBOH_00407	CDS	969				hypothetical protein
+GBJEOBOH_00408	gene	654				
+GBJEOBOH_00408	CDS	654				hypothetical protein
+GBJEOBOH_00409	gene	486	bcp			
+GBJEOBOH_00409	CDS	486	bcp	1.11.1.15	COG1225	Putative peroxiredoxin
+GBJEOBOH_00410	gene	543	nth_3			
+GBJEOBOH_00410	CDS	543	nth_3	4.2.99.18	COG0177	Endonuclease III
+GBJEOBOH_00411	gene	1296	zwf			
+GBJEOBOH_00411	CDS	1296	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+GBJEOBOH_00412	gene	903				
+GBJEOBOH_00412	CDS	903		1.1.1.343	COG1023	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+GBJEOBOH_00413	gene	795				
+GBJEOBOH_00413	CDS	795				hypothetical protein
+GBJEOBOH_00414	gene	972	trxB			
+GBJEOBOH_00414	CDS	972	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+GBJEOBOH_00415	gene	1377	glmM_1			
+GBJEOBOH_00415	CDS	1377	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+GBJEOBOH_00416	gene	462				
+GBJEOBOH_00416	CDS	462				hypothetical protein
+GBJEOBOH_00417	gene	405				
+GBJEOBOH_00417	CDS	405				hypothetical protein
+GBJEOBOH_00418	gene	2136				
+GBJEOBOH_00418	CDS	2136				hypothetical protein
+GBJEOBOH_00419	gene	1176				
+GBJEOBOH_00419	CDS	1176				hypothetical protein
+GBJEOBOH_00420	gene	312				
+GBJEOBOH_00420	CDS	312				hypothetical protein
+GBJEOBOH_00421	gene	411				
+GBJEOBOH_00421	CDS	411				hypothetical protein
+GBJEOBOH_00422	gene	1326	murJ_1			
+GBJEOBOH_00422	CDS	1326	murJ_1		COG0728	putative lipid II flippase MurJ
+GBJEOBOH_00423	gene	471				
+GBJEOBOH_00423	CDS	471				hypothetical protein
+GBJEOBOH_00424	gene	642	murB_1			
+GBJEOBOH_00424	CDS	642	murB_1	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+GBJEOBOH_00425	gene	861	glmM_2			
+GBJEOBOH_00425	CDS	861	glmM_2			Phosphoglucosamine mutase
+GBJEOBOH_00426	gene	462				
+GBJEOBOH_00426	CDS	462				hypothetical protein
+GBJEOBOH_00427	gene	303				
+GBJEOBOH_00427	CDS	303				hypothetical protein
+GBJEOBOH_00428	gene	1095				
+GBJEOBOH_00428	CDS	1095				hypothetical protein
+GBJEOBOH_00429	gene	594	kanE			
+GBJEOBOH_00429	CDS	594	kanE	2.4.1.301		Alpha-D-kanosaminyltransferase
+GBJEOBOH_00430	gene	414	rmlD			
+GBJEOBOH_00430	CDS	414	rmlD	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+GBJEOBOH_00431	gene	1074	tagO			
+GBJEOBOH_00431	CDS	1074	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+GBJEOBOH_00432	gene	894	murB_2			
+GBJEOBOH_00432	CDS	894	murB_2	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+GBJEOBOH_00433	gene	876	ddlB			
+GBJEOBOH_00433	CDS	876	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+GBJEOBOH_00434	gene	585				
+GBJEOBOH_00434	CDS	585				hypothetical protein
+GBJEOBOH_00435	gene	1251	ftsA			
+GBJEOBOH_00435	CDS	1251	ftsA		COG0849	Cell division protein FtsA
+GBJEOBOH_00436	gene	1104	ftsZ			
+GBJEOBOH_00436	CDS	1104	ftsZ		COG0206	Cell division protein FtsZ
+GBJEOBOH_00437	gene	765	moaC			
+GBJEOBOH_00437	CDS	765	moaC			Cyclic pyranopterin monophosphate synthase
+GBJEOBOH_00438	gene	570	ubiX			
+GBJEOBOH_00438	CDS	570	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+GBJEOBOH_00439	gene	294				
+GBJEOBOH_00439	CDS	294				hypothetical protein
+GBJEOBOH_00440	gene	2043	btuB			
+GBJEOBOH_00440	CDS	2043	btuB			Vitamin B12 transporter BtuB
+GBJEOBOH_00441	gene	789				
+GBJEOBOH_00441	CDS	789				hypothetical protein
+GBJEOBOH_00442	gene	666				
+GBJEOBOH_00442	CDS	666				hypothetical protein
+GBJEOBOH_00443	gene	1143	rlmI_1			
+GBJEOBOH_00443	CDS	1143	rlmI_1	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+GBJEOBOH_00444	gene	993				
+GBJEOBOH_00444	CDS	993				hypothetical protein
+GBJEOBOH_00445	gene	318				
+GBJEOBOH_00445	CDS	318				hypothetical protein
+GBJEOBOH_00446	gene	660	lpxD			
+GBJEOBOH_00446	CDS	660	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+GBJEOBOH_00447	gene	858				
+GBJEOBOH_00447	CDS	858				hypothetical protein
+GBJEOBOH_00448	gene	645				
+GBJEOBOH_00448	CDS	645				hypothetical protein
+GBJEOBOH_00449	gene	219				
+GBJEOBOH_00449	CDS	219				hypothetical protein
+GBJEOBOH_00450	gene	1224	apgM			
+GBJEOBOH_00450	CDS	1224	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GBJEOBOH_00451	gene	537	hpt			
+GBJEOBOH_00451	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+GBJEOBOH_00452	gene	1200				
+GBJEOBOH_00452	CDS	1200				hypothetical protein
+GBJEOBOH_00453	gene	900	dapE			
+GBJEOBOH_00453	CDS	900	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+GBJEOBOH_00454	gene	171				
+GBJEOBOH_00454	CDS	171				hypothetical protein
+GBJEOBOH_00455	gene	567	nfi			
+GBJEOBOH_00455	CDS	567	nfi	3.1.21.7	COG1515	Endonuclease V
+GBJEOBOH_00456	gene	594	pabA			
+GBJEOBOH_00456	CDS	594	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+GBJEOBOH_00457	gene	1782	nuoC_1			
+GBJEOBOH_00457	CDS	1782	nuoC_1	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+GBJEOBOH_00458	gene	1335	radA_1			
+GBJEOBOH_00458	CDS	1335	radA_1	3.6.4.-	COG1066	DNA repair protein RadA
+GBJEOBOH_00459	gene	684	frdB			
+GBJEOBOH_00459	CDS	684	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+GBJEOBOH_00460	gene	717	rsuA			
+GBJEOBOH_00460	CDS	717	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+GBJEOBOH_00461	gene	714				
+GBJEOBOH_00461	CDS	714				hypothetical protein
+GBJEOBOH_00462	gene	1737	penA			
+GBJEOBOH_00462	CDS	1737	penA	3.4.16.4	COG0768	putative peptidoglycan D,D-transpeptidase PenA
+GBJEOBOH_00463	gene	663	bioD			
+GBJEOBOH_00463	CDS	663	bioD	6.3.3.3		ATP-dependent dethiobiotin synthetase BioD
+GBJEOBOH_00464	gene	648	thiE			
+GBJEOBOH_00464	CDS	648	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+GBJEOBOH_00465	gene	1563	recN			
+GBJEOBOH_00465	CDS	1563	recN		COG0497	DNA repair protein RecN
+GBJEOBOH_00466	gene	73				
+GBJEOBOH_00466	tRNA	73				tRNA-Thr(cgt)
+GBJEOBOH_00467	gene	1857				
+GBJEOBOH_00467	CDS	1857				hypothetical protein
+GBJEOBOH_00468	gene	948	rfaE			
+GBJEOBOH_00468	CDS	948	rfaE	2.7.1.167	COG2870	D-beta-D-heptose 7-phosphate kinase
+GBJEOBOH_00469	gene	702	birA			
+GBJEOBOH_00469	CDS	702	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GBJEOBOH_00470	gene	465	rimI			
+GBJEOBOH_00470	CDS	465	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+GBJEOBOH_00471	gene	834				
+GBJEOBOH_00471	CDS	834		2.4.2.44	COG0005	S-methyl-5'-thioinosine phosphorylase
+GBJEOBOH_00472	gene	309				
+GBJEOBOH_00472	CDS	309				hypothetical protein
+GBJEOBOH_00473	gene	1101	mgs			
+GBJEOBOH_00473	CDS	1101	mgs	2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+GBJEOBOH_00474	gene	1281	nuoF			
+GBJEOBOH_00474	CDS	1281	nuoF	7.1.1.-	COG1894	NADH-quinone oxidoreductase subunit F
+GBJEOBOH_00475	gene	483	nuoE			
+GBJEOBOH_00475	CDS	483	nuoE	7.1.1.-	COG1905	NADH-quinone oxidoreductase subunit E
+GBJEOBOH_00476	gene	636	stp			
+GBJEOBOH_00476	CDS	636	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+GBJEOBOH_00477	gene	816	prkC			
+GBJEOBOH_00477	CDS	816	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+GBJEOBOH_00478	gene	615				
+GBJEOBOH_00478	CDS	615				hypothetical protein
+GBJEOBOH_00479	gene	579				
+GBJEOBOH_00479	CDS	579				hypothetical protein
+GBJEOBOH_00480	gene	510	def1			
+GBJEOBOH_00480	CDS	510	def1	3.5.1.88		Peptide deformylase 1
+GBJEOBOH_00481	gene	528				
+GBJEOBOH_00481	CDS	528				hypothetical protein
+GBJEOBOH_00482	gene	1485	trpE			
+GBJEOBOH_00482	CDS	1485	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+GBJEOBOH_00483	gene	270				
+GBJEOBOH_00483	CDS	270				hypothetical protein
+GBJEOBOH_00484	gene	2118	sctC			
+GBJEOBOH_00484	CDS	2118	sctC			Type 3 secretion system secretin
+GBJEOBOH_00485	gene	1293	mtaD			
+GBJEOBOH_00485	CDS	1293	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+GBJEOBOH_00486	gene	1362	algA			
+GBJEOBOH_00486	CDS	1362	algA		COG0662	Alginate biosynthesis protein AlgA
+GBJEOBOH_00487	gene	77				
+GBJEOBOH_00487	tRNA	77				tRNA-Met(cat)
+GBJEOBOH_00488	gene	1314	prsA_1			
+GBJEOBOH_00488	CDS	1314	prsA_1	5.2.1.8		Foldase protein PrsA
+GBJEOBOH_00489	gene	1716	sdhA			
+GBJEOBOH_00489	CDS	1716	sdhA	1.3.5.-	COG1053	8-methylmenaquinol:fumarate reductase flavoprotein subunit
+GBJEOBOH_00490	gene	117				
+GBJEOBOH_00490	CDS	117				hypothetical protein
+GBJEOBOH_00491	gene	1314	purB			
+GBJEOBOH_00491	CDS	1314	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+GBJEOBOH_00492	gene	384				
+GBJEOBOH_00492	CDS	384				hypothetical protein
+GBJEOBOH_00493	gene	1197	rpoN			
+GBJEOBOH_00493	CDS	1197	rpoN		COG1508	RNA polymerase sigma-54 factor
+GBJEOBOH_00494	gene	474				
+GBJEOBOH_00494	CDS	474				hypothetical protein
+GBJEOBOH_00495	gene	252				
+GBJEOBOH_00495	CDS	252				hypothetical protein
+GBJEOBOH_00496	gene	534				
+GBJEOBOH_00496	CDS	534				hypothetical protein
+GBJEOBOH_00497	gene	819				
+GBJEOBOH_00497	CDS	819				hypothetical protein
+GBJEOBOH_00498	gene	786	lpxA			
+GBJEOBOH_00498	CDS	786	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+GBJEOBOH_00499	gene	1395	glmU			
+GBJEOBOH_00499	CDS	1395	glmU		COG1207	Bifunctional protein GlmU
+GBJEOBOH_00500	gene	1230	thrC_2			
+GBJEOBOH_00500	CDS	1230	thrC_2	4.2.3.1	COG0498	Threonine synthase
+GBJEOBOH_00501	gene	1113	ychF			
+GBJEOBOH_00501	CDS	1113	ychF		COG0012	Ribosome-binding ATPase YchF
+GBJEOBOH_00502	gene	96				
+GBJEOBOH_00502	CDS	96				hypothetical protein
+GBJEOBOH_00503	gene	882	cshA			
+GBJEOBOH_00503	CDS	882	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+GBJEOBOH_00504	gene	114				
+GBJEOBOH_00504	CDS	114				hypothetical protein
+GBJEOBOH_00505	gene	201				
+GBJEOBOH_00505	CDS	201				hypothetical protein
+GBJEOBOH_00506	gene	399				
+GBJEOBOH_00506	CDS	399				hypothetical protein
+GBJEOBOH_00507	gene	504				
+GBJEOBOH_00507	CDS	504				putative protein aq_328
+GBJEOBOH_00508	gene	504	yraA			
+GBJEOBOH_00508	CDS	504	yraA	3.2.-.-	COG0693	Putative cysteine protease YraA
+GBJEOBOH_00509	gene	837				
+GBJEOBOH_00509	CDS	837			COG0803	putative periplasmic iron-binding protein
+GBJEOBOH_00510	gene	699	znuC			
+GBJEOBOH_00510	CDS	699	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+GBJEOBOH_00511	gene	732	znuB			
+GBJEOBOH_00511	CDS	732	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GBJEOBOH_00512	gene	963				
+GBJEOBOH_00512	CDS	963				hypothetical protein
+GBJEOBOH_00513	gene	2181	mrcA			
+GBJEOBOH_00513	CDS	2181	mrcA		COG5009	Penicillin-binding protein 1A
+GBJEOBOH_00514	gene	1122	bioF			
+GBJEOBOH_00514	CDS	1122	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+GBJEOBOH_00515	gene	927				
+GBJEOBOH_00515	CDS	927				hypothetical protein
+GBJEOBOH_00516	gene	378				
+GBJEOBOH_00516	CDS	378				hypothetical protein
+GBJEOBOH_00517	gene	276	cysO			
+GBJEOBOH_00517	CDS	276	cysO		COG1977	Sulfur carrier protein CysO
+GBJEOBOH_00518	gene	3471	smc_1			
+GBJEOBOH_00518	CDS	3471	smc_1		COG1196	Chromosome partition protein Smc
+GBJEOBOH_00519	gene	237				
+GBJEOBOH_00519	CDS	237				hypothetical protein
+GBJEOBOH_00520	gene	954	bioB_1			
+GBJEOBOH_00520	CDS	954	bioB_1	2.8.1.6		Biotin synthase
+GBJEOBOH_00521	gene	2163	ligA			
+GBJEOBOH_00521	CDS	2163	ligA	6.5.1.2	COG0272	DNA ligase
+GBJEOBOH_00522	gene	429	arsC_1			
+GBJEOBOH_00522	CDS	429	arsC_1	1.20.4.4	COG0394	Arsenate reductase
+GBJEOBOH_00523	gene	171				
+GBJEOBOH_00523	CDS	171				hypothetical protein
+GBJEOBOH_00524	gene	366	gph_1			
+GBJEOBOH_00524	CDS	366	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+GBJEOBOH_00525	gene	354				
+GBJEOBOH_00525	CDS	354				hypothetical protein
+GBJEOBOH_00526	gene	912	cmpR_1			
+GBJEOBOH_00526	CDS	912	cmpR_1			HTH-type transcriptional activator CmpR
+GBJEOBOH_00527	gene	381				
+GBJEOBOH_00527	CDS	381				hypothetical protein
+GBJEOBOH_00528	gene	951	thyX			
+GBJEOBOH_00528	CDS	951	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+GBJEOBOH_00529	gene	1083	rtcA			
+GBJEOBOH_00529	CDS	1083	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+GBJEOBOH_00530	gene	684				
+GBJEOBOH_00530	CDS	684				hypothetical protein
+GBJEOBOH_00531	gene	1323				
+GBJEOBOH_00531	CDS	1323				hypothetical protein
+GBJEOBOH_00532	gene	321				
+GBJEOBOH_00532	CDS	321				hypothetical protein
+GBJEOBOH_00533	gene	1251				
+GBJEOBOH_00533	CDS	1251				hypothetical protein
+GBJEOBOH_00534	gene	77				
+GBJEOBOH_00534	tRNA	77				tRNA-Arg(cct)
+GBJEOBOH_00535	gene	1116	mqnE			
+GBJEOBOH_00535	CDS	1116	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+GBJEOBOH_00536	gene	597	ywlC			
+GBJEOBOH_00536	CDS	597	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+GBJEOBOH_00537	gene	1050	yneA			
+GBJEOBOH_00537	CDS	1050	yneA			Cell division suppressor protein YneA
+GBJEOBOH_00538	gene	273	acyP			
+GBJEOBOH_00538	CDS	273	acyP	3.6.1.7	COG1254	Acylphosphatase
+GBJEOBOH_00539	gene	987	fliG			
+GBJEOBOH_00539	CDS	987	fliG		COG1536	Flagellar motor switch protein FliG
+GBJEOBOH_00540	gene	693	sdhB			
+GBJEOBOH_00540	CDS	693	sdhB	1.3.5.-	COG0479	8-methylmenaquinol:fumarate reductase iron-sulfur subunit
+GBJEOBOH_00541	gene	1623	topA			
+GBJEOBOH_00541	CDS	1623	topA	5.6.2.1		DNA topoisomerase 1
+GBJEOBOH_00542	gene	76				
+GBJEOBOH_00542	tRNA	76				tRNA-Phe(gaa)
+GBJEOBOH_00543	gene	291	fdx5			
+GBJEOBOH_00543	CDS	291	fdx5			2Fe-2S ferredoxin-5
+GBJEOBOH_00544	gene	1062	hoxK_1			
+GBJEOBOH_00544	CDS	1062	hoxK_1	1.12.99.6		Uptake hydrogenase small subunit
+GBJEOBOH_00545	gene	1902	hoxL			
+GBJEOBOH_00545	CDS	1902	hoxL	1.12.99.6		Uptake hydrogenase large subunit
+GBJEOBOH_00546	gene	687	hyaC			
+GBJEOBOH_00546	CDS	687	hyaC		COG1969	putative Ni/Fe-hydrogenase 1 B-type cytochrome subunit
+GBJEOBOH_00547	gene	543				
+GBJEOBOH_00547	CDS	543				hypothetical protein
+GBJEOBOH_00548	gene	489	hybD			
+GBJEOBOH_00548	CDS	489	hybD	3.4.23.-	COG0680	Hydrogenase 2 maturation protease
+GBJEOBOH_00549	gene	339				
+GBJEOBOH_00549	CDS	339				hypothetical protein
+GBJEOBOH_00550	gene	396				
+GBJEOBOH_00550	CDS	396				hypothetical protein
+GBJEOBOH_00551	gene	780	hypB			
+GBJEOBOH_00551	CDS	780	hypB			Hydrogenase maturation factor HypB
+GBJEOBOH_00552	gene	2241	hypF			
+GBJEOBOH_00552	CDS	2241	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+GBJEOBOH_00553	gene	399	atpC			
+GBJEOBOH_00553	CDS	399	atpC		COG0355	ATP synthase epsilon chain
+GBJEOBOH_00554	gene	720	yfiC			
+GBJEOBOH_00554	CDS	720	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+GBJEOBOH_00555	gene	579	plsY			
+GBJEOBOH_00555	CDS	579	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+GBJEOBOH_00556	gene	579				
+GBJEOBOH_00556	CDS	579				hypothetical protein
+GBJEOBOH_00557	gene	1512	atpA			
+GBJEOBOH_00557	CDS	1512	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+GBJEOBOH_00558	gene	1191				
+GBJEOBOH_00558	CDS	1191				hypothetical protein
+GBJEOBOH_00559	gene	750	cpdA_1			
+GBJEOBOH_00559	CDS	750	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GBJEOBOH_00560	gene	435	arsC_2			
+GBJEOBOH_00560	CDS	435	arsC_2	1.20.4.4	COG0394	Arsenate reductase
+GBJEOBOH_00561	gene	2781	uvrA			
+GBJEOBOH_00561	CDS	2781	uvrA		COG0178	UvrABC system protein A
+GBJEOBOH_00562	gene	1011	vdcA			
+GBJEOBOH_00562	CDS	1011	vdcA	2.7.7.65		Diguanylate cyclase VdcA
+GBJEOBOH_00563	gene	1338	trmFO			
+GBJEOBOH_00563	CDS	1338	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+GBJEOBOH_00564	gene	705	kdsB			
+GBJEOBOH_00564	CDS	705	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+GBJEOBOH_00565	gene	1245				
+GBJEOBOH_00565	CDS	1245				hypothetical protein
+GBJEOBOH_00566	gene	3249	bepG			
+GBJEOBOH_00566	CDS	3249	bepG			Efflux pump membrane transporter BepG
+GBJEOBOH_00567	gene	1125	mdtA_1			
+GBJEOBOH_00567	CDS	1125	mdtA_1			Multidrug resistance protein MdtA
+GBJEOBOH_00568	gene	1314				
+GBJEOBOH_00568	CDS	1314				hypothetical protein
+GBJEOBOH_00569	gene	1242	queH			
+GBJEOBOH_00569	CDS	1242	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+GBJEOBOH_00570	gene	411				
+GBJEOBOH_00570	CDS	411				hypothetical protein
+GBJEOBOH_00571	gene	1131	dnaJ_1			
+GBJEOBOH_00571	CDS	1131	dnaJ_1		COG0484	Chaperone protein DnaJ
+GBJEOBOH_00572	gene	864	truB			
+GBJEOBOH_00572	CDS	864	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+GBJEOBOH_00573	gene	1194	trpB_1			
+GBJEOBOH_00573	CDS	1194	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+GBJEOBOH_00574	gene	1062	hcnC			
+GBJEOBOH_00574	CDS	1062	hcnC	1.4.99.5	COG0665	Hydrogen cyanide synthase subunit HcnC
+GBJEOBOH_00575	gene	1983	apc3			
+GBJEOBOH_00575	CDS	1983	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+GBJEOBOH_00576	gene	519	nucH			
+GBJEOBOH_00576	CDS	519	nucH	3.1.31.1		Thermonuclease
+GBJEOBOH_00577	gene	516				
+GBJEOBOH_00577	CDS	516				hypothetical protein
+GBJEOBOH_00578	gene	555	frr			
+GBJEOBOH_00578	CDS	555	frr		COG0233	Ribosome-recycling factor
+GBJEOBOH_00579	gene	723	pyrH			
+GBJEOBOH_00579	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GBJEOBOH_00580	gene	867	tsf			
+GBJEOBOH_00580	CDS	867	tsf		COG0264	Elongation factor Ts
+GBJEOBOH_00581	gene	1395				
+GBJEOBOH_00581	CDS	1395				hypothetical protein
+GBJEOBOH_00582	gene	2079	glgP			
+GBJEOBOH_00582	CDS	2079	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+GBJEOBOH_00583	gene	2496	cugP			
+GBJEOBOH_00583	CDS	2496	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GBJEOBOH_00584	gene	1434				
+GBJEOBOH_00584	CDS	1434				hypothetical protein
+GBJEOBOH_00585	gene	1392	glgA			
+GBJEOBOH_00585	CDS	1392	glgA	2.4.1.21	COG0297	Glycogen synthase
+GBJEOBOH_00586	gene	1893	glgB			
+GBJEOBOH_00586	CDS	1893	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+GBJEOBOH_00587	gene	1458	malQ			
+GBJEOBOH_00587	CDS	1458	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+GBJEOBOH_00588	gene	2508				
+GBJEOBOH_00588	CDS	2508		7.2.2.10		Calcium-transporting ATPase 1
+GBJEOBOH_00589	gene	1005				
+GBJEOBOH_00589	CDS	1005		1.1.1.28		D-lactate dehydrogenase
+GBJEOBOH_00590	gene	1173	ldc			
+GBJEOBOH_00590	CDS	1173	ldc	4.1.1.17		Lysine/ornithine decarboxylase
+GBJEOBOH_00591	gene	903				
+GBJEOBOH_00591	CDS	903				hypothetical protein
+GBJEOBOH_00592	gene	834	dsbD_1			
+GBJEOBOH_00592	CDS	834	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+GBJEOBOH_00593	gene	624	hisH			
+GBJEOBOH_00593	CDS	624	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+GBJEOBOH_00594	gene	483	rpsG_1			
+GBJEOBOH_00594	CDS	483	rpsG_1		COG0049	30S ribosomal protein S7
+GBJEOBOH_00595	gene	387	rpsL_1			
+GBJEOBOH_00595	CDS	387	rpsL_1			30S ribosomal protein S12
+GBJEOBOH_00596	gene	1398	lpd			
+GBJEOBOH_00596	CDS	1398	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+GBJEOBOH_00597	gene	1095				
+GBJEOBOH_00597	CDS	1095				Iron-sulfur cluster carrier protein
+GBJEOBOH_00598	gene	1221	iscS_1			
+GBJEOBOH_00598	CDS	1221	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+GBJEOBOH_00599	gene	1062	ydiK			
+GBJEOBOH_00599	CDS	1062	ydiK		COG0628	Putative transport protein YdiK
+GBJEOBOH_00600	gene	1275	purD			
+GBJEOBOH_00600	CDS	1275	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GBJEOBOH_00601	gene	1101	pilT_1			
+GBJEOBOH_00601	CDS	1101	pilT_1		COG2805	Twitching mobility protein
+GBJEOBOH_00602	gene	1227	epsF			
+GBJEOBOH_00602	CDS	1227	epsF		COG1459	Type II secretion system protein F
+GBJEOBOH_00603	gene	789				
+GBJEOBOH_00603	CDS	789		2.5.1.10		Farnesyl diphosphate synthase
+GBJEOBOH_00604	gene	726	truA			
+GBJEOBOH_00604	CDS	726	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+GBJEOBOH_00605	gene	963				
+GBJEOBOH_00605	CDS	963				hypothetical protein
+GBJEOBOH_00606	gene	1971				
+GBJEOBOH_00606	CDS	1971				hypothetical protein
+GBJEOBOH_00607	gene	300				
+GBJEOBOH_00607	CDS	300				hypothetical protein
+GBJEOBOH_00608	gene	729				
+GBJEOBOH_00608	CDS	729				hypothetical protein
+GBJEOBOH_00609	gene	690				
+GBJEOBOH_00609	CDS	690				hypothetical protein
+GBJEOBOH_00610	gene	540				
+GBJEOBOH_00610	CDS	540				hypothetical protein
+GBJEOBOH_00611	gene	498				
+GBJEOBOH_00611	CDS	498				hypothetical protein
+GBJEOBOH_00612	gene	450	pfdA			
+GBJEOBOH_00612	CDS	450	pfdA			Prefoldin subunit alpha
+GBJEOBOH_00613	gene	135				
+GBJEOBOH_00613	CDS	135				hypothetical protein
+GBJEOBOH_00614	gene	1854	mnmG			
+GBJEOBOH_00614	CDS	1854	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+GBJEOBOH_00615	gene	882	epmA_1			
+GBJEOBOH_00615	CDS	882	epmA_1	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+GBJEOBOH_00616	gene	774	xynR			
+GBJEOBOH_00616	CDS	774	xynR		COG1414	HTH-type transcriptional regulator XynR
+GBJEOBOH_00617	gene	1443	arnT_1			
+GBJEOBOH_00617	CDS	1443	arnT_1	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+GBJEOBOH_00618	gene	855				
+GBJEOBOH_00618	CDS	855				hypothetical protein
+GBJEOBOH_00619	gene	567				
+GBJEOBOH_00619	CDS	567		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+GBJEOBOH_00620	gene	996	purM			
+GBJEOBOH_00620	CDS	996	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GBJEOBOH_00621	gene	180				
+GBJEOBOH_00621	CDS	180				hypothetical protein
+GBJEOBOH_00622	gene	459				
+GBJEOBOH_00622	CDS	459				hypothetical protein
+GBJEOBOH_00623	gene	360				
+GBJEOBOH_00623	CDS	360				hypothetical protein
+GBJEOBOH_00624	gene	777	tlyA			
+GBJEOBOH_00624	CDS	777	tlyA		COG1189	Hemolysin A
+GBJEOBOH_00625	gene	981	mltG			
+GBJEOBOH_00625	CDS	981	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+GBJEOBOH_00626	gene	1533	nadB			
+GBJEOBOH_00626	CDS	1533	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+GBJEOBOH_00627	gene	987				
+GBJEOBOH_00627	CDS	987			COG0391	Gluconeogenesis factor
+GBJEOBOH_00628	gene	513				
+GBJEOBOH_00628	CDS	513				hypothetical protein
+GBJEOBOH_00629	gene	1281	hisD			
+GBJEOBOH_00629	CDS	1281	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+GBJEOBOH_00630	gene	432				
+GBJEOBOH_00630	CDS	432				hypothetical protein
+GBJEOBOH_00631	gene	3003	mdtC			
+GBJEOBOH_00631	CDS	3003	mdtC			Multidrug resistance protein MdtC
+GBJEOBOH_00632	gene	1170	sqr_1			
+GBJEOBOH_00632	CDS	1170	sqr_1	1.8.5.4	COG0446	Sulfide-quinone reductase
+GBJEOBOH_00633	gene	1086	mqnC			
+GBJEOBOH_00633	CDS	1086	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+GBJEOBOH_00634	gene	492				
+GBJEOBOH_00634	CDS	492				hypothetical protein
+GBJEOBOH_00635	gene	501				
+GBJEOBOH_00635	CDS	501				hypothetical protein
+GBJEOBOH_00636	gene	204	rpmI			
+GBJEOBOH_00636	CDS	204	rpmI			50S ribosomal protein L35
+GBJEOBOH_00637	gene	2010	pcrA			
+GBJEOBOH_00637	CDS	2010	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+GBJEOBOH_00638	gene	381				
+GBJEOBOH_00638	CDS	381				hypothetical protein
+GBJEOBOH_00639	gene	1227				
+GBJEOBOH_00639	CDS	1227		3.4.21.-		putative CtpA-like serine protease
+GBJEOBOH_00640	gene	1008	tsaD			
+GBJEOBOH_00640	CDS	1008	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GBJEOBOH_00641	gene	76				
+GBJEOBOH_00641	tRNA	76				tRNA-Pro(ggg)
+GBJEOBOH_00642	gene	855	hydA			
+GBJEOBOH_00642	CDS	855	hydA	1.12.2.1		Periplasmic [NiFe] hydrogenase small subunit
+GBJEOBOH_00643	gene	1251	hydB			
+GBJEOBOH_00643	CDS	1251	hydB	1.12.2.1	COG0374	Periplasmic [NiFe] hydrogenase large subunit
+GBJEOBOH_00644	gene	468				
+GBJEOBOH_00644	CDS	468				hypothetical protein
+GBJEOBOH_00645	gene	1269	pyrC			
+GBJEOBOH_00645	CDS	1269	pyrC	3.5.2.3	COG0044	Dihydroorotase
+GBJEOBOH_00646	gene	915				
+GBJEOBOH_00646	CDS	915				hypothetical protein
+GBJEOBOH_00647	gene	819				
+GBJEOBOH_00647	CDS	819				hypothetical protein
+GBJEOBOH_00648	gene	450				
+GBJEOBOH_00648	CDS	450				hypothetical protein
+GBJEOBOH_00649	gene	1107				
+GBJEOBOH_00649	CDS	1107				hypothetical protein
+GBJEOBOH_00650	gene	369	acpS			
+GBJEOBOH_00650	CDS	369	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+GBJEOBOH_00651	gene	867				
+GBJEOBOH_00651	CDS	867				hypothetical protein
+GBJEOBOH_00652	gene	1167	coaBC			
+GBJEOBOH_00652	CDS	1167	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+GBJEOBOH_00653	gene	1275	hemL			
+GBJEOBOH_00653	CDS	1275	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+GBJEOBOH_00654	gene	975				
+GBJEOBOH_00654	CDS	975				hypothetical protein
+GBJEOBOH_00655	gene	1320	lnt			
+GBJEOBOH_00655	CDS	1320	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+GBJEOBOH_00656	gene	597				
+GBJEOBOH_00656	CDS	597				hypothetical protein
+GBJEOBOH_00657	gene	1338	murF			
+GBJEOBOH_00657	CDS	1338	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GBJEOBOH_00658	gene	112				
+GBJEOBOH_00658	rRNA	112				5S ribosomal RNA
+GBJEOBOH_00659	gene	2948				
+GBJEOBOH_00659	rRNA	2948				23S ribosomal RNA
+GBJEOBOH_00660	gene	74				
+GBJEOBOH_00660	tRNA	74				tRNA-Ala(tgc)
+GBJEOBOH_00661	gene	74				
+GBJEOBOH_00661	tRNA	74				tRNA-Ile(gat)
+GBJEOBOH_00662	gene	1580				
+GBJEOBOH_00662	rRNA	1580				16S ribosomal RNA
+GBJEOBOH_00663	gene	657	queC_1			
+GBJEOBOH_00663	CDS	657	queC_1	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+GBJEOBOH_00664	gene	756	surE			
+GBJEOBOH_00664	CDS	756	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+GBJEOBOH_00665	gene	639				
+GBJEOBOH_00665	CDS	639				hypothetical protein
+GBJEOBOH_00666	gene	789	flgG_1			
+GBJEOBOH_00666	CDS	789	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+GBJEOBOH_00667	gene	1425	nasD			
+GBJEOBOH_00667	CDS	1425	nasD	1.7.1.4	COG1251	Nitrite reductase [NAD(P)H]
+GBJEOBOH_00668	gene	699				
+GBJEOBOH_00668	CDS	699				hypothetical protein
+GBJEOBOH_00669	gene	1668	ilvD			
+GBJEOBOH_00669	CDS	1668	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+GBJEOBOH_00670	gene	1179	trm1			
+GBJEOBOH_00670	CDS	1179	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+GBJEOBOH_00671	gene	402	tsaE			
+GBJEOBOH_00671	CDS	402	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GBJEOBOH_00672	gene	2091	relA			
+GBJEOBOH_00672	CDS	2091	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+GBJEOBOH_00673	gene	1026	mreB			
+GBJEOBOH_00673	CDS	1026	mreB		COG1077	Cell shape-determining protein MreB
+GBJEOBOH_00674	gene	795				
+GBJEOBOH_00674	CDS	795				hypothetical protein
+GBJEOBOH_00675	gene	258				
+GBJEOBOH_00675	CDS	258				hypothetical protein
+GBJEOBOH_00676	gene	333	queC_2			
+GBJEOBOH_00676	CDS	333	queC_2	6.3.4.20		7-cyano-7-deazaguanine synthase
+GBJEOBOH_00677	gene	228				
+GBJEOBOH_00677	CDS	228				hypothetical protein
+GBJEOBOH_00678	gene	1299	rimO			
+GBJEOBOH_00678	CDS	1299	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+GBJEOBOH_00679	gene	417				
+GBJEOBOH_00679	CDS	417				hypothetical protein
+GBJEOBOH_00680	gene	942	corA			
+GBJEOBOH_00680	CDS	942	corA		COG0598	Magnesium transport protein CorA
+GBJEOBOH_00681	gene	963	pdxA2			
+GBJEOBOH_00681	CDS	963	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+GBJEOBOH_00682	gene	345	queD			
+GBJEOBOH_00682	CDS	345	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+GBJEOBOH_00683	gene	1638	bepA_1			
+GBJEOBOH_00683	CDS	1638	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+GBJEOBOH_00684	gene	885				
+GBJEOBOH_00684	CDS	885				hypothetical protein
+GBJEOBOH_00685	gene	651	purN			
+GBJEOBOH_00685	CDS	651	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+GBJEOBOH_00686	gene	243				
+GBJEOBOH_00686	CDS	243				hypothetical protein
+GBJEOBOH_00687	gene	717				
+GBJEOBOH_00687	CDS	717		1.11.1.15	COG0450	Peroxiredoxin
+GBJEOBOH_00688	gene	330				
+GBJEOBOH_00688	CDS	330				hypothetical protein
+GBJEOBOH_00689	gene	3024				
+GBJEOBOH_00689	CDS	3024				hypothetical protein
+GBJEOBOH_00690	gene	2364	ndhB_1			
+GBJEOBOH_00690	CDS	2364	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GBJEOBOH_00691	gene	204				
+GBJEOBOH_00691	CDS	204				hypothetical protein
+GBJEOBOH_00692	gene	291				
+GBJEOBOH_00692	CDS	291				hypothetical protein
+GBJEOBOH_00693	gene	825	nadC			
+GBJEOBOH_00693	CDS	825	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GBJEOBOH_00694	gene	88				
+GBJEOBOH_00694	tRNA	88				tRNA-Leu(taa)
+GBJEOBOH_00695	gene	1347	mnmE			
+GBJEOBOH_00695	CDS	1347	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+GBJEOBOH_00696	gene	1311	rho			
+GBJEOBOH_00696	CDS	1311	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+GBJEOBOH_00697	gene	207				
+GBJEOBOH_00697	CDS	207				hypothetical protein
+GBJEOBOH_00698	gene	1089	prfA			
+GBJEOBOH_00698	CDS	1089	prfA		COG0216	Peptide chain release factor 1
+GBJEOBOH_00699	gene	237	minE			
+GBJEOBOH_00699	CDS	237	minE			Cell division topological specificity factor
+GBJEOBOH_00700	gene	789	minD			
+GBJEOBOH_00700	CDS	789	minD		COG2894	Septum site-determining protein MinD
+GBJEOBOH_00701	gene	606	minC			
+GBJEOBOH_00701	CDS	606	minC		COG0850	putative septum site-determining protein MinC
+GBJEOBOH_00702	gene	579				
+GBJEOBOH_00702	CDS	579				hypothetical protein
+GBJEOBOH_00703	gene	1887	dxs			
+GBJEOBOH_00703	CDS	1887	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+GBJEOBOH_00704	gene	420				
+GBJEOBOH_00704	CDS	420				hypothetical protein
+GBJEOBOH_00705	gene	3441	rgy_1			
+GBJEOBOH_00705	CDS	3441	rgy_1		COG1110	Reverse gyrase
+GBJEOBOH_00706	gene	438				
+GBJEOBOH_00706	CDS	438				hypothetical protein
+GBJEOBOH_00707	gene	804				
+GBJEOBOH_00707	CDS	804				hypothetical protein
+GBJEOBOH_00708	gene	915	gppA			
+GBJEOBOH_00708	CDS	915	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+GBJEOBOH_00709	gene	942	fabD			
+GBJEOBOH_00709	CDS	942	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+GBJEOBOH_00710	gene	852				
+GBJEOBOH_00710	CDS	852				hypothetical protein
+GBJEOBOH_00711	gene	1005	queA			
+GBJEOBOH_00711	CDS	1005	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+GBJEOBOH_00712	gene	915	ispB			
+GBJEOBOH_00712	CDS	915	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+GBJEOBOH_00713	gene	75				
+GBJEOBOH_00713	tRNA	75				tRNA-Arg(ccg)
+GBJEOBOH_00714	gene	474	iscU			
+GBJEOBOH_00714	CDS	474	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+GBJEOBOH_00715	gene	756	thiI			
+GBJEOBOH_00715	CDS	756	thiI	2.8.1.4		tRNA sulfurtransferase
+GBJEOBOH_00716	gene	333				
+GBJEOBOH_00716	CDS	333				hypothetical protein
+GBJEOBOH_00717	gene	279	tusA_2			
+GBJEOBOH_00717	CDS	279	tusA_2			Sulfur carrier protein TusA
+GBJEOBOH_00718	gene	249				
+GBJEOBOH_00718	CDS	249				hypothetical protein
+GBJEOBOH_00719	gene	264	nfuA_1			
+GBJEOBOH_00719	CDS	264	nfuA_1			Fe/S biogenesis protein NfuA
+GBJEOBOH_00720	gene	810	aroE			
+GBJEOBOH_00720	CDS	810	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+GBJEOBOH_00721	gene	438	tadA			
+GBJEOBOH_00721	CDS	438	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+GBJEOBOH_00722	gene	510				
+GBJEOBOH_00722	CDS	510				hypothetical protein
+GBJEOBOH_00723	gene	1542	sasA			
+GBJEOBOH_00723	CDS	1542	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+GBJEOBOH_00724	gene	666	phoU			
+GBJEOBOH_00724	CDS	666	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+GBJEOBOH_00725	gene	576	gmhA1			
+GBJEOBOH_00725	CDS	576	gmhA1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+GBJEOBOH_00726	gene	825	nadK			
+GBJEOBOH_00726	CDS	825	nadK	2.7.1.23	COG0061	NAD kinase
+GBJEOBOH_00727	gene	708				
+GBJEOBOH_00727	CDS	708				hypothetical protein
+GBJEOBOH_00728	gene	762				
+GBJEOBOH_00728	CDS	762				hypothetical protein
+GBJEOBOH_00729	gene	654				
+GBJEOBOH_00729	CDS	654				hypothetical protein
+GBJEOBOH_00730	gene	357				
+GBJEOBOH_00730	CDS	357				hypothetical protein
+GBJEOBOH_00731	gene	807	ispE			
+GBJEOBOH_00731	CDS	807	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GBJEOBOH_00732	gene	258				
+GBJEOBOH_00732	CDS	258				hypothetical protein
+GBJEOBOH_00733	gene	798	dapB			
+GBJEOBOH_00733	CDS	798	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+GBJEOBOH_00734	gene	1227				
+GBJEOBOH_00734	CDS	1227				hypothetical protein
+GBJEOBOH_00735	gene	435	ytfE			
+GBJEOBOH_00735	CDS	435	ytfE			Iron-sulfur cluster repair protein YtfE
+GBJEOBOH_00736	gene	414				
+GBJEOBOH_00736	CDS	414				hypothetical protein
+GBJEOBOH_00737	gene	291	fdx1			
+GBJEOBOH_00737	CDS	291	fdx1		COG0633	Ferredoxin-1
+GBJEOBOH_00738	gene	1386	ftsY			
+GBJEOBOH_00738	CDS	1386	ftsY			Signal recognition particle receptor FtsY
+GBJEOBOH_00739	gene	1617				
+GBJEOBOH_00739	CDS	1617				hypothetical protein
+GBJEOBOH_00740	gene	1752	argS			
+GBJEOBOH_00740	CDS	1752	argS	6.1.1.19		Arginine--tRNA ligase
+GBJEOBOH_00741	gene	768	rph			
+GBJEOBOH_00741	CDS	768	rph	2.7.7.56	COG0689	Ribonuclease PH
+GBJEOBOH_00742	gene	759				
+GBJEOBOH_00742	CDS	759				hypothetical protein
+GBJEOBOH_00743	gene	591				
+GBJEOBOH_00743	CDS	591				hypothetical protein
+GBJEOBOH_00744	gene	1227	nhaS3			
+GBJEOBOH_00744	CDS	1227	nhaS3			High-affinity Na(+)/H(+) antiporter NhaS3
+GBJEOBOH_00745	gene	207				
+GBJEOBOH_00745	CDS	207				hypothetical protein
+GBJEOBOH_00746	gene	390	queF			
+GBJEOBOH_00746	CDS	390	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+GBJEOBOH_00747	gene	92				
+GBJEOBOH_00747	tRNA	92				tRNA-Ser(gct)
+GBJEOBOH_00748	gene	582	polC_1			
+GBJEOBOH_00748	CDS	582	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+GBJEOBOH_00749	gene	234	purS			
+GBJEOBOH_00749	CDS	234	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+GBJEOBOH_00750	gene	762	prpC			
+GBJEOBOH_00750	CDS	762	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+GBJEOBOH_00751	gene	438				
+GBJEOBOH_00751	CDS	438				hypothetical protein
+GBJEOBOH_00752	gene	1905	ftsH			
+GBJEOBOH_00752	CDS	1905	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+GBJEOBOH_00753	gene	1299	dmdA			
+GBJEOBOH_00753	CDS	1299	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+GBJEOBOH_00754	gene	195				
+GBJEOBOH_00754	CDS	195				hypothetical protein
+GBJEOBOH_00755	gene	258				
+GBJEOBOH_00755	CDS	258				hypothetical protein
+GBJEOBOH_00756	gene	324				
+GBJEOBOH_00756	CDS	324				hypothetical protein
+GBJEOBOH_00757	gene	486	gcvH_2			
+GBJEOBOH_00757	CDS	486	gcvH_2			Glycine cleavage system H protein
+GBJEOBOH_00758	gene	264				
+GBJEOBOH_00758	CDS	264				hypothetical protein
+GBJEOBOH_00759	gene	858	glyQ			
+GBJEOBOH_00759	CDS	858	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+GBJEOBOH_00760	gene	660	rnc			
+GBJEOBOH_00760	CDS	660	rnc	3.1.26.3	COG0571	Ribonuclease 3
+GBJEOBOH_00761	gene	930	hemH			
+GBJEOBOH_00761	CDS	930	hemH	4.99.1.1	COG0276	Ferrochelatase
+GBJEOBOH_00762	gene	297				
+GBJEOBOH_00762	CDS	297				hypothetical protein
+GBJEOBOH_00763	gene	1089	pheA			
+GBJEOBOH_00763	CDS	1089	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+GBJEOBOH_00764	gene	357	rplT			
+GBJEOBOH_00764	CDS	357	rplT		COG0292	50S ribosomal protein L20
+GBJEOBOH_00765	gene	1017	pheS			
+GBJEOBOH_00765	CDS	1017	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+GBJEOBOH_00766	gene	771	lepB			
+GBJEOBOH_00766	CDS	771	lepB	3.4.21.89	COG0681	Signal peptidase I
+GBJEOBOH_00767	gene	471	ispF			
+GBJEOBOH_00767	CDS	471	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GBJEOBOH_00768	gene	1704	nadE			
+GBJEOBOH_00768	CDS	1704	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+GBJEOBOH_00769	gene	1695	hyaB			
+GBJEOBOH_00769	CDS	1695	hyaB	1.12.99.6	COG0374	Hydrogenase-1 large chain
+GBJEOBOH_00770	gene	1305				
+GBJEOBOH_00770	CDS	1305				hypothetical protein
+GBJEOBOH_00771	gene	681				
+GBJEOBOH_00771	CDS	681				hypothetical protein
+GBJEOBOH_00772	gene	1050	hoxK_2			
+GBJEOBOH_00772	CDS	1050	hoxK_2	1.12.99.6	COG1740	Uptake hydrogenase small subunit
+GBJEOBOH_00773	gene	207				
+GBJEOBOH_00773	CDS	207				hypothetical protein
+GBJEOBOH_00774	gene	219				
+GBJEOBOH_00774	CDS	219				hypothetical protein
+GBJEOBOH_00775	gene	141				
+GBJEOBOH_00775	CDS	141				hypothetical protein
+GBJEOBOH_00776	gene	510	hdpA			
+GBJEOBOH_00776	CDS	510	hdpA	3.1.3.-		Dihydroxyacetone phosphatase
+GBJEOBOH_00777	gene	1962	lptD			
+GBJEOBOH_00777	CDS	1962	lptD			LPS-assembly protein LptD
+GBJEOBOH_00778	gene	669	rpe			
+GBJEOBOH_00778	CDS	669	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+GBJEOBOH_00779	gene	588	tmk			
+GBJEOBOH_00779	CDS	588	tmk	2.7.4.9	COG0125	Thymidylate kinase
+GBJEOBOH_00780	gene	1140	argJ			
+GBJEOBOH_00780	CDS	1140	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+GBJEOBOH_00781	gene	1278	bepA_2			
+GBJEOBOH_00781	CDS	1278	bepA_2	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+GBJEOBOH_00782	gene	1506	secD			
+GBJEOBOH_00782	CDS	1506	secD		COG0342	Protein translocase subunit SecD
+GBJEOBOH_00783	gene	909				
+GBJEOBOH_00783	CDS	909				hypothetical protein
+GBJEOBOH_00784	gene	999	bioB_2			
+GBJEOBOH_00784	CDS	999	bioB_2	2.8.1.6		Biotin synthase
+GBJEOBOH_00785	gene	1005				
+GBJEOBOH_00785	CDS	1005				hypothetical protein
+GBJEOBOH_00786	gene	438				
+GBJEOBOH_00786	CDS	438				hypothetical protein
+GBJEOBOH_00787	gene	603	msrP			
+GBJEOBOH_00787	CDS	603	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+GBJEOBOH_00788	gene	2235	gyrA			
+GBJEOBOH_00788	CDS	2235	gyrA	5.6.2.2	COG0188	Type 2 topoisomerase subunit A
+GBJEOBOH_00789	gene	879				
+GBJEOBOH_00789	CDS	879				hypothetical protein
+GBJEOBOH_00790	gene	1212				
+GBJEOBOH_00790	CDS	1212			COG2067	47 kDa outer membrane protein
+GBJEOBOH_00791	gene	504	mdtA_2			
+GBJEOBOH_00791	CDS	504	mdtA_2			Multidrug resistance protein MdtA
+GBJEOBOH_00792	gene	498				
+GBJEOBOH_00792	CDS	498			COG2110	putative protein
+GBJEOBOH_00793	gene	594	ypmQ			
+GBJEOBOH_00793	CDS	594	ypmQ		COG1999	SCO1 protein 
+GBJEOBOH_00794	gene	756				
+GBJEOBOH_00794	CDS	756				hypothetical protein
+GBJEOBOH_00795	gene	1188				
+GBJEOBOH_00795	CDS	1188				hypothetical protein
+GBJEOBOH_00796	gene	1032				
+GBJEOBOH_00796	CDS	1032				hypothetical protein
+GBJEOBOH_00797	gene	597	pncA			
+GBJEOBOH_00797	CDS	597	pncA	3.5.1.19	COG1335	Nicotinamidase
+GBJEOBOH_00798	gene	1899	dnaK2			
+GBJEOBOH_00798	CDS	1899	dnaK2			Chaperone protein dnaK2
+GBJEOBOH_00799	gene	2472	menE			
+GBJEOBOH_00799	CDS	2472	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+GBJEOBOH_00800	gene	675	motB_1			
+GBJEOBOH_00800	CDS	675	motB_1		COG1360	Motility protein B
+GBJEOBOH_00801	gene	708	motB_2			
+GBJEOBOH_00801	CDS	708	motB_2		COG1360	Motility protein B
+GBJEOBOH_00802	gene	765	pomA			
+GBJEOBOH_00802	CDS	765	pomA		COG1291	Chemotaxis protein PomA
+GBJEOBOH_00803	gene	315	cutA			
+GBJEOBOH_00803	CDS	315	cutA		COG1324	Divalent-cation tolerance protein CutA
+GBJEOBOH_00804	gene	2937	sbcC			
+GBJEOBOH_00804	CDS	2937	sbcC			Nuclease SbcCD subunit C
+GBJEOBOH_00805	gene	3486	dnaE			
+GBJEOBOH_00805	CDS	3486	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+GBJEOBOH_00806	gene	741	fabL			
+GBJEOBOH_00806	CDS	741	fabL	1.3.1.104		Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+GBJEOBOH_00807	gene	441				
+GBJEOBOH_00807	CDS	441				hypothetical protein
+GBJEOBOH_00808	gene	1311				
+GBJEOBOH_00808	CDS	1311				hypothetical protein
+GBJEOBOH_00809	gene	1230				
+GBJEOBOH_00809	CDS	1230				hypothetical protein
+GBJEOBOH_00810	gene	408				
+GBJEOBOH_00810	CDS	408				hypothetical protein
+GBJEOBOH_00811	gene	381				
+GBJEOBOH_00811	CDS	381				hypothetical protein
+GBJEOBOH_00812	gene	999	hypE			
+GBJEOBOH_00812	CDS	999	hypE	4.2.1.-	COG0309	Carbamoyl dehydratase HypE
+GBJEOBOH_00813	gene	348	hypA			
+GBJEOBOH_00813	CDS	348	hypA		COG0375	Hydrogenase/urease maturation factor HypA
+GBJEOBOH_00814	gene	1035				
+GBJEOBOH_00814	CDS	1035				hypothetical protein
+GBJEOBOH_00815	gene	1128	acuC			
+GBJEOBOH_00815	CDS	1128	acuC			Acetoin utilization protein AcuC
+GBJEOBOH_00816	gene	846				
+GBJEOBOH_00816	CDS	846				hypothetical protein
+GBJEOBOH_00817	gene	2379	gyrB			
+GBJEOBOH_00817	CDS	2379	gyrB	5.6.2.2	COG0187	Type 2 topoisomerase subunit B
+GBJEOBOH_00818	gene	396				
+GBJEOBOH_00818	CDS	396				hypothetical protein
+GBJEOBOH_00819	gene	936	selD			
+GBJEOBOH_00819	CDS	936	selD	2.7.9.3	COG0709	Selenide, water dikinase
+GBJEOBOH_00820	gene	1359	selA			
+GBJEOBOH_00820	CDS	1359	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+GBJEOBOH_00821	gene	1749	tuf_2			
+GBJEOBOH_00821	CDS	1749	tuf_2			Elongation factor Tu
+GBJEOBOH_00822	gene	582				
+GBJEOBOH_00822	CDS	582			COG1305	putative protein
+GBJEOBOH_00823	gene	444				
+GBJEOBOH_00823	CDS	444				hypothetical protein
+GBJEOBOH_00824	gene	894	cmpR_2			
+GBJEOBOH_00824	CDS	894	cmpR_2			HTH-type transcriptional activator CmpR
+GBJEOBOH_00825	gene	588	fdnG			
+GBJEOBOH_00825	CDS	588	fdnG	1.17.5.3	COG0243	Formate dehydrogenase, nitrate-inducible, major subunit
+GBJEOBOH_00826	gene	2430	fdoG			
+GBJEOBOH_00826	CDS	2430	fdoG	1.17.1.9	COG0243	Formate dehydrogenase-O major subunit
+GBJEOBOH_00827	gene	912	fdnH			
+GBJEOBOH_00827	CDS	912	fdnH		COG0437	Formate dehydrogenase, nitrate-inducible, iron-sulfur subunit
+GBJEOBOH_00828	gene	636	fdoI			
+GBJEOBOH_00828	CDS	636	fdoI		COG2864	Formate dehydrogenase, cytochrome b556(fdo) subunit
+GBJEOBOH_00829	gene	510	yojM_2			
+GBJEOBOH_00829	CDS	510	yojM_2		COG2032	Superoxide dismutase-like protein YojM
+GBJEOBOH_00830	gene	837	fdhE			
+GBJEOBOH_00830	CDS	837	fdhE		COG3058	Protein FdhE
+GBJEOBOH_00831	gene	465	gcvH_3			
+GBJEOBOH_00831	CDS	465	gcvH_3			Glycine cleavage system H protein
+GBJEOBOH_00832	gene	99				
+GBJEOBOH_00832	tRNA	99				tRNA-SeC(tca)
+GBJEOBOH_00833	gene	1113	iscS_2			
+GBJEOBOH_00833	CDS	1113	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+GBJEOBOH_00834	gene	786	ypbG			
+GBJEOBOH_00834	CDS	786	ypbG		COG1408	putative protein YpbG
+GBJEOBOH_00835	gene	774	pstB			
+GBJEOBOH_00835	CDS	774	pstB	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB
+GBJEOBOH_00836	gene	76				
+GBJEOBOH_00836	tRNA	76				tRNA-Val(gac)
+GBJEOBOH_00837	gene	1281	pncB2			
+GBJEOBOH_00837	CDS	1281	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+GBJEOBOH_00838	gene	498	rimM			
+GBJEOBOH_00838	CDS	498	rimM		COG0806	Ribosome maturation factor RimM
+GBJEOBOH_00839	gene	540				
+GBJEOBOH_00839	CDS	540				hypothetical protein
+GBJEOBOH_00840	gene	1254				
+GBJEOBOH_00840	CDS	1254				hypothetical protein
+GBJEOBOH_00841	gene	1125	emrA			
+GBJEOBOH_00841	CDS	1125	emrA			Colistin resistance protein EmrA
+GBJEOBOH_00842	gene	1536	emrB			
+GBJEOBOH_00842	CDS	1536	emrB			Multidrug export protein EmrB
+GBJEOBOH_00843	gene	1029	gap			
+GBJEOBOH_00843	CDS	1029	gap	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+GBJEOBOH_00844	gene	918	miaA			
+GBJEOBOH_00844	CDS	918	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GBJEOBOH_00845	gene	156				
+GBJEOBOH_00845	CDS	156				hypothetical protein
+GBJEOBOH_00846	gene	201				
+GBJEOBOH_00846	CDS	201				hypothetical protein
+GBJEOBOH_00847	gene	297	nfuA_2			
+GBJEOBOH_00847	CDS	297	nfuA_2			Fe/S biogenesis protein NfuA
+GBJEOBOH_00848	gene	1488	cysS			
+GBJEOBOH_00848	CDS	1488	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+GBJEOBOH_00849	gene	984	galE			
+GBJEOBOH_00849	CDS	984	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+GBJEOBOH_00850	gene	711	mqnA			
+GBJEOBOH_00850	CDS	711	mqnA	4.2.1.151		Chorismate dehydratase
+GBJEOBOH_00851	gene	1332	proA			
+GBJEOBOH_00851	CDS	1332	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+GBJEOBOH_00852	gene	432				
+GBJEOBOH_00852	CDS	432				hypothetical protein
+GBJEOBOH_00853	gene	927	czcD			
+GBJEOBOH_00853	CDS	927	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+GBJEOBOH_00854	gene	498				
+GBJEOBOH_00854	CDS	498				hypothetical protein
+GBJEOBOH_00855	gene	915	rhdA_1			
+GBJEOBOH_00855	CDS	915	rhdA_1	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+GBJEOBOH_00856	gene	243				
+GBJEOBOH_00856	CDS	243				hypothetical protein
+GBJEOBOH_00857	gene	666				
+GBJEOBOH_00857	CDS	666				hypothetical protein
+GBJEOBOH_00858	gene	1251	COQ3			
+GBJEOBOH_00858	CDS	1251	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+GBJEOBOH_00859	gene	2658	mshA_1			
+GBJEOBOH_00859	CDS	2658	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GBJEOBOH_00860	gene	1539	sat/cysC			
+GBJEOBOH_00860	CDS	1539	sat/cysC		COG0529	putative bifunctional SAT/APS kinase
+GBJEOBOH_00861	gene	1038	gmd			
+GBJEOBOH_00861	CDS	1038	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+GBJEOBOH_00862	gene	369				
+GBJEOBOH_00862	CDS	369				hypothetical protein
+GBJEOBOH_00863	gene	267				
+GBJEOBOH_00863	CDS	267				hypothetical protein
+GBJEOBOH_00864	gene	132				
+GBJEOBOH_00864	CDS	132				hypothetical protein
+GBJEOBOH_00865	gene	1410				
+GBJEOBOH_00865	CDS	1410				hypothetical protein
+GBJEOBOH_00866	gene	2286	bepA_3			
+GBJEOBOH_00866	CDS	2286	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+GBJEOBOH_00867	gene	1089				
+GBJEOBOH_00867	CDS	1089				hypothetical protein
+GBJEOBOH_00868	gene	1278				
+GBJEOBOH_00868	CDS	1278				hypothetical protein
+GBJEOBOH_00869	gene	1188	btuD_1			
+GBJEOBOH_00869	CDS	1188	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GBJEOBOH_00870	gene	771				
+GBJEOBOH_00870	CDS	771				hypothetical protein
+GBJEOBOH_00871	gene	195				
+GBJEOBOH_00871	CDS	195				hypothetical protein
+GBJEOBOH_00872	gene	1767				
+GBJEOBOH_00872	CDS	1767				hypothetical protein
+GBJEOBOH_00873	gene	234				
+GBJEOBOH_00873	CDS	234				hypothetical protein
+GBJEOBOH_00874	gene	1695	prsD			
+GBJEOBOH_00874	CDS	1695	prsD			Type I secretion system ATP-binding protein PrsD
+GBJEOBOH_00875	gene	930	fabH			
+GBJEOBOH_00875	CDS	930	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GBJEOBOH_00876	gene	1014	plsX			
+GBJEOBOH_00876	CDS	1014	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+GBJEOBOH_00877	gene	192	rpmF			
+GBJEOBOH_00877	CDS	192	rpmF			50S ribosomal protein L32
+GBJEOBOH_00878	gene	525				
+GBJEOBOH_00878	CDS	525				hypothetical protein
+GBJEOBOH_00879	gene	1053				
+GBJEOBOH_00879	CDS	1053				hypothetical protein
+GBJEOBOH_00880	gene	684	purQ			
+GBJEOBOH_00880	CDS	684	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+GBJEOBOH_00881	gene	1104				
+GBJEOBOH_00881	CDS	1104				hypothetical protein
+GBJEOBOH_00882	gene	237	moaD			
+GBJEOBOH_00882	CDS	237	moaD			Molybdopterin synthase sulfur carrier subunit
+GBJEOBOH_00883	gene	516	gcvH_4			
+GBJEOBOH_00883	CDS	516	gcvH_4			Glycine cleavage system H protein
+GBJEOBOH_00884	gene	1320	gcvPA			
+GBJEOBOH_00884	CDS	1320	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+GBJEOBOH_00885	gene	456				
+GBJEOBOH_00885	CDS	456				hypothetical protein
+GBJEOBOH_00886	gene	216				
+GBJEOBOH_00886	CDS	216				hypothetical protein
+GBJEOBOH_00887	gene	666	rsmI			
+GBJEOBOH_00887	CDS	666	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+GBJEOBOH_00888	gene	960				
+GBJEOBOH_00888	CDS	960				hypothetical protein
+GBJEOBOH_00889	gene	1941	rcsC			
+GBJEOBOH_00889	CDS	1941	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+GBJEOBOH_00890	gene	1320	atoC_4			
+GBJEOBOH_00890	CDS	1320	atoC_4		COG2204	Regulatory protein AtoC
+GBJEOBOH_00891	gene	495				
+GBJEOBOH_00891	CDS	495				hypothetical protein
+GBJEOBOH_00892	gene	156				
+GBJEOBOH_00892	CDS	156				hypothetical protein
+GBJEOBOH_00893	gene	504				
+GBJEOBOH_00893	CDS	504				hypothetical protein
+GBJEOBOH_00894	gene	807				
+GBJEOBOH_00894	CDS	807				hypothetical protein
+GBJEOBOH_00895	gene	3153	cusA			
+GBJEOBOH_00895	CDS	3153	cusA		COG3696	Cation efflux system protein CusA
+GBJEOBOH_00896	gene	1995	copB			
+GBJEOBOH_00896	CDS	1995	copB	7.2.2.8		Copper-exporting P-type ATPase B
+GBJEOBOH_00897	gene	324				
+GBJEOBOH_00897	CDS	324				hypothetical protein
+GBJEOBOH_00898	gene	369				
+GBJEOBOH_00898	CDS	369				hypothetical protein
+GBJEOBOH_00899	gene	1584	cueO			
+GBJEOBOH_00899	CDS	1584	cueO		COG2132	Blue copper oxidase CueO
+GBJEOBOH_00900	gene	1335				
+GBJEOBOH_00900	CDS	1335				hypothetical protein
+GBJEOBOH_00901	gene	1179				
+GBJEOBOH_00901	CDS	1179				hypothetical protein
+GBJEOBOH_00902	gene	1071	proB			
+GBJEOBOH_00902	CDS	1071	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+GBJEOBOH_00903	gene	873	xerC_1			
+GBJEOBOH_00903	CDS	873	xerC_1		COG4974	Tyrosine recombinase XerC
+GBJEOBOH_00904	gene	465	rpiB			
+GBJEOBOH_00904	CDS	465	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+GBJEOBOH_00905	gene	1347	mrdB_2			
+GBJEOBOH_00905	CDS	1347	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+GBJEOBOH_00906	gene	1206	argG			
+GBJEOBOH_00906	CDS	1206	argG	6.3.4.5		Argininosuccinate synthase
+GBJEOBOH_00907	gene	1071				
+GBJEOBOH_00907	CDS	1071				hypothetical protein
+GBJEOBOH_00908	gene	1050				
+GBJEOBOH_00908	CDS	1050				hypothetical protein
+GBJEOBOH_00909	gene	885	dapA			
+GBJEOBOH_00909	CDS	885	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GBJEOBOH_00910	gene	1047	menF			
+GBJEOBOH_00910	CDS	1047	menF	5.4.4.2		Isochorismate synthase MenF
+GBJEOBOH_00911	gene	1164	dhaT			
+GBJEOBOH_00911	CDS	1164	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+GBJEOBOH_00912	gene	1389				
+GBJEOBOH_00912	CDS	1389				hypothetical protein
+GBJEOBOH_00913	gene	309				
+GBJEOBOH_00913	CDS	309				hypothetical protein
+GBJEOBOH_00914	gene	2445				
+GBJEOBOH_00914	CDS	2445				hypothetical protein
+GBJEOBOH_00915	gene	1248				
+GBJEOBOH_00915	CDS	1248		2.7.2.4	COG0527	Aspartate kinase
+GBJEOBOH_00916	gene	1131	metK			
+GBJEOBOH_00916	CDS	1131	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+GBJEOBOH_00917	gene	1152	hisZ			
+GBJEOBOH_00917	CDS	1152	hisZ			ATP phosphoribosyltransferase regulatory subunit
+GBJEOBOH_00918	gene	1689	fmt_1			
+GBJEOBOH_00918	CDS	1689	fmt_1	2.1.2.9		Methionyl-tRNA formyltransferase
+GBJEOBOH_00919	gene	1143	hypD			
+GBJEOBOH_00919	CDS	1143	hypD		COG0409	Hydrogenase maturation factor HypD
+GBJEOBOH_00920	gene	252	hybG			
+GBJEOBOH_00920	CDS	252	hybG		COG0298	Hydrogenase maturation factor HybG
+GBJEOBOH_00921	gene	3480	rgy_2			
+GBJEOBOH_00921	CDS	3480	rgy_2		COG1110	Reverse gyrase
+GBJEOBOH_00922	gene	378				
+GBJEOBOH_00922	CDS	378				hypothetical protein
+GBJEOBOH_00923	gene	720				
+GBJEOBOH_00923	CDS	720				hypothetical protein
+GBJEOBOH_00924	gene	1170	padG			
+GBJEOBOH_00924	CDS	1170	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+GBJEOBOH_00925	gene	870				
+GBJEOBOH_00925	CDS	870		1.2.7.10	COG1013	Oxalate oxidoreductase subunit beta
+GBJEOBOH_00926	gene	693				
+GBJEOBOH_00926	CDS	693				hypothetical protein
+GBJEOBOH_00927	gene	237				
+GBJEOBOH_00927	CDS	237				hypothetical protein
+GBJEOBOH_00928	gene	333				
+GBJEOBOH_00928	CDS	333				hypothetical protein
+GBJEOBOH_00929	gene	1614	carB_1			
+GBJEOBOH_00929	CDS	1614	carB_1	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+GBJEOBOH_00930	gene	450	gpmA			
+GBJEOBOH_00930	CDS	450	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+GBJEOBOH_00931	gene	681	rlpA_1			
+GBJEOBOH_00931	CDS	681	rlpA_1	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+GBJEOBOH_00932	gene	1398	purF			
+GBJEOBOH_00932	CDS	1398	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+GBJEOBOH_00933	gene	336				
+GBJEOBOH_00933	CDS	336				hypothetical protein
+GBJEOBOH_00934	gene	1035	murG			
+GBJEOBOH_00934	CDS	1035	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GBJEOBOH_00935	gene	504	purE			
+GBJEOBOH_00935	CDS	504	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GBJEOBOH_00936	gene	1257	ahcY			
+GBJEOBOH_00936	CDS	1257	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+GBJEOBOH_00937	gene	1470				
+GBJEOBOH_00937	CDS	1470				hypothetical protein
+GBJEOBOH_00938	gene	282	fliE			
+GBJEOBOH_00938	CDS	282	fliE			Flagellar hook-basal body complex protein FliE
+GBJEOBOH_00939	gene	405	flgC			
+GBJEOBOH_00939	CDS	405	flgC		COG1558	Flagellar basal-body rod protein FlgC
+GBJEOBOH_00940	gene	375				
+GBJEOBOH_00940	CDS	375				hypothetical protein
+GBJEOBOH_00941	gene	1788				
+GBJEOBOH_00941	CDS	1788				hypothetical protein
+GBJEOBOH_00942	gene	504				
+GBJEOBOH_00942	CDS	504				hypothetical protein
+GBJEOBOH_00943	gene	468				
+GBJEOBOH_00943	CDS	468				hypothetical protein
+GBJEOBOH_00944	gene	1788	mrdA			
+GBJEOBOH_00944	CDS	1788	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+GBJEOBOH_00945	gene	984				
+GBJEOBOH_00945	CDS	984				hypothetical protein
+GBJEOBOH_00946	gene	240				
+GBJEOBOH_00946	CDS	240				hypothetical protein
+GBJEOBOH_00947	gene	570				
+GBJEOBOH_00947	CDS	570				hypothetical protein
+GBJEOBOH_00948	gene	543				
+GBJEOBOH_00948	CDS	543				hypothetical protein
+GBJEOBOH_00949	gene	1215				
+GBJEOBOH_00949	CDS	1215		1.2.7.10	COG0674	Oxalate oxidoreductase subunit alpha
+GBJEOBOH_00950	gene	861				
+GBJEOBOH_00950	CDS	861		1.2.7.10	COG1013	Oxalate oxidoreductase subunit beta
+GBJEOBOH_00951	gene	726				
+GBJEOBOH_00951	CDS	726				hypothetical protein
+GBJEOBOH_00952	gene	88				
+GBJEOBOH_00952	tRNA	88				tRNA-Leu(caa)
+GBJEOBOH_00953	gene	258				
+GBJEOBOH_00953	CDS	258				hypothetical protein
+GBJEOBOH_00954	gene	300				
+GBJEOBOH_00954	CDS	300				hypothetical protein
+GBJEOBOH_00955	gene	1734	epmA_2			
+GBJEOBOH_00955	CDS	1734	epmA_2	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+GBJEOBOH_00956	gene	1374	thiC			
+GBJEOBOH_00956	CDS	1374	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+GBJEOBOH_00957	gene	972	accA			
+GBJEOBOH_00957	CDS	972	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+GBJEOBOH_00958	gene	435	perR			
+GBJEOBOH_00958	CDS	435	perR		COG0735	Peroxide-responsive repressor PerR
+GBJEOBOH_00959	gene	1263	lysA			
+GBJEOBOH_00959	CDS	1263	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+GBJEOBOH_00960	gene	735	fetB			
+GBJEOBOH_00960	CDS	735	fetB		COG0390	putative iron export permease protein FetB
+GBJEOBOH_00961	gene	612				
+GBJEOBOH_00961	CDS	612				hypothetical protein
+GBJEOBOH_00962	gene	2037	flhA			
+GBJEOBOH_00962	CDS	2037	flhA		COG1298	Flagellar biosynthesis protein FlhA
+GBJEOBOH_00963	gene	1122	flhF			
+GBJEOBOH_00963	CDS	1122	flhF		COG1419	Flagellar biosynthesis protein FlhF
+GBJEOBOH_00964	gene	837	ylxH			
+GBJEOBOH_00964	CDS	837	ylxH		COG0455	Flagellum site-determining protein YlxH
+GBJEOBOH_00965	gene	711	fliA			
+GBJEOBOH_00965	CDS	711	fliA		COG1191	RNA polymerase sigma factor FliA
+GBJEOBOH_00966	gene	558				
+GBJEOBOH_00966	CDS	558				hypothetical protein
+GBJEOBOH_00967	gene	1497	arnT_2			
+GBJEOBOH_00967	CDS	1497	arnT_2	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+GBJEOBOH_00968	gene	243				
+GBJEOBOH_00968	CDS	243				hypothetical protein
+GBJEOBOH_00969	gene	1422	gltX1			
+GBJEOBOH_00969	CDS	1422	gltX1	6.1.1.17	COG0008	Glutamate--tRNA ligase 1
+GBJEOBOH_00970	gene	690	btuD_2			
+GBJEOBOH_00970	CDS	690	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GBJEOBOH_00971	gene	708				
+GBJEOBOH_00971	CDS	708				hypothetical protein
+GBJEOBOH_00972	gene	76				
+GBJEOBOH_00972	tRNA	76				tRNA-Met(cat)
+GBJEOBOH_00973	gene	1071	mnmA			
+GBJEOBOH_00973	CDS	1071	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+GBJEOBOH_00974	gene	1203	mat			
+GBJEOBOH_00974	CDS	1203	mat	2.5.1.6		S-adenosylmethionine synthase
+GBJEOBOH_00975	gene	1179	yajR			
+GBJEOBOH_00975	CDS	1179	yajR		COG0477	Inner membrane transport protein YajR
+GBJEOBOH_00976	gene	744				
+GBJEOBOH_00976	CDS	744				hypothetical protein
+GBJEOBOH_00977	gene	228				
+GBJEOBOH_00977	CDS	228				hypothetical protein
+GBJEOBOH_00978	gene	1014	soeC			
+GBJEOBOH_00978	CDS	1014	soeC		COG3302	Sulfite dehydrogenase subunit C
+GBJEOBOH_00979	gene	765	soeB			
+GBJEOBOH_00979	CDS	765	soeB		COG0437	Sulfite dehydrogenase subunit B
+GBJEOBOH_00980	gene	2850	soeA			
+GBJEOBOH_00980	CDS	2850	soeA	1.8.5.6	COG0243	Sulfite dehydrogenase subunit A
+GBJEOBOH_00981	gene	1407	arnT_3			
+GBJEOBOH_00981	CDS	1407	arnT_3	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+GBJEOBOH_00982	gene	198				
+GBJEOBOH_00982	CDS	198				hypothetical protein
+GBJEOBOH_00983	gene	564	cysG			
+GBJEOBOH_00983	CDS	564	cysG		COG0007	Siroheme synthase
+GBJEOBOH_00984	gene	549	fliM			
+GBJEOBOH_00984	CDS	549	fliM		COG1868	Flagellar motor switch protein FliM
+GBJEOBOH_00985	gene	336				
+GBJEOBOH_00985	CDS	336				hypothetical protein
+GBJEOBOH_00986	gene	726	yueD			
+GBJEOBOH_00986	CDS	726	yueD	1.1.1.320		Benzil reductase ((S)-benzoin forming)
+GBJEOBOH_00987	gene	453				
+GBJEOBOH_00987	CDS	453				hypothetical protein
+GBJEOBOH_00988	gene	2289	mutS2			
+GBJEOBOH_00988	CDS	2289	mutS2	3.1.-.-		Endonuclease MutS2
+GBJEOBOH_00989	gene	624				
+GBJEOBOH_00989	CDS	624		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+GBJEOBOH_00990	gene	1002	ilvC			
+GBJEOBOH_00990	CDS	1002	ilvC	1.1.1.383	COG0059	Ketol-acid reductoisomerase (NAD(P)(+))
+GBJEOBOH_00991	gene	654	cpoB_1			
+GBJEOBOH_00991	CDS	654	cpoB_1			Cell division coordinator CpoB
+GBJEOBOH_00992	gene	696	ispU			
+GBJEOBOH_00992	CDS	696	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+GBJEOBOH_00993	gene	735				
+GBJEOBOH_00993	CDS	735				hypothetical protein
+GBJEOBOH_00994	gene	462				
+GBJEOBOH_00994	CDS	462				hypothetical protein
+GBJEOBOH_00995	gene	489	resA_2			
+GBJEOBOH_00995	CDS	489	resA_2			Thiol-disulfide oxidoreductase ResA
+GBJEOBOH_00996	gene	444				
+GBJEOBOH_00996	CDS	444				hypothetical protein
+GBJEOBOH_00997	gene	309	yajC			
+GBJEOBOH_00997	CDS	309	yajC		COG1862	Sec translocon accessory complex subunit YajC
+GBJEOBOH_00998	gene	2070	feoB			
+GBJEOBOH_00998	CDS	2070	feoB		COG0370	Fe(2+) transporter FeoB
+GBJEOBOH_00999	gene	930				
+GBJEOBOH_00999	CDS	930				hypothetical protein
+GBJEOBOH_01000	gene	219				
+GBJEOBOH_01000	CDS	219				hypothetical protein
+GBJEOBOH_01001	gene	1485	metG_2			
+GBJEOBOH_01001	CDS	1485	metG_2	6.1.1.10	COG0143	Methionine--tRNA ligase
+GBJEOBOH_01002	gene	867	apbE			
+GBJEOBOH_01002	CDS	867	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+GBJEOBOH_01003	gene	1308				
+GBJEOBOH_01003	CDS	1308				hypothetical protein
+GBJEOBOH_01004	gene	1695				
+GBJEOBOH_01004	CDS	1695				hypothetical protein
+GBJEOBOH_01005	gene	555				
+GBJEOBOH_01005	CDS	555				hypothetical protein
+GBJEOBOH_01006	gene	921				
+GBJEOBOH_01006	CDS	921				hypothetical protein
+GBJEOBOH_01007	gene	1668	cstA			
+GBJEOBOH_01007	CDS	1668	cstA		COG1966	Peptide transporter CstA
+GBJEOBOH_01008	gene	336				
+GBJEOBOH_01008	CDS	336				hypothetical protein
+GBJEOBOH_01009	gene	747	tatC			
+GBJEOBOH_01009	CDS	747	tatC		COG0805	Sec-independent protein translocase protein TatC
+GBJEOBOH_01010	gene	1818				
+GBJEOBOH_01010	CDS	1818			COG0659	putative sulfate transporter
+GBJEOBOH_01011	gene	87				
+GBJEOBOH_01011	tRNA	87				tRNA-Leu(cag)
+GBJEOBOH_01012	gene	555				
+GBJEOBOH_01012	CDS	555			COG0500	putative protein
+GBJEOBOH_01013	gene	207				
+GBJEOBOH_01013	CDS	207				hypothetical protein
+GBJEOBOH_01014	gene	1302				
+GBJEOBOH_01014	CDS	1302		3.4.24.-	COG0612	putative zinc protease
+GBJEOBOH_01015	gene	330	rsfS			
+GBJEOBOH_01015	CDS	330	rsfS		COG0799	Ribosomal silencing factor RsfS
+GBJEOBOH_01016	gene	921	bamD			
+GBJEOBOH_01016	CDS	921	bamD			Outer membrane protein assembly factor BamD
+GBJEOBOH_01017	gene	1377	rng			
+GBJEOBOH_01017	CDS	1377	rng	3.1.26.-	COG1530	Ribonuclease G
+GBJEOBOH_01018	gene	801	lpxI			
+GBJEOBOH_01018	CDS	801	lpxI	3.6.1.54	COG3494	UDP-2,3-diacylglucosamine pyrophosphatase LpxI
+GBJEOBOH_01019	gene	573				
+GBJEOBOH_01019	CDS	573				hypothetical protein
+GBJEOBOH_01020	gene	1221	hemA			
+GBJEOBOH_01020	CDS	1221	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GBJEOBOH_01021	gene	300				
+GBJEOBOH_01021	CDS	300				hypothetical protein
+GBJEOBOH_01022	gene	177				
+GBJEOBOH_01022	CDS	177				hypothetical protein
+GBJEOBOH_01023	gene	1278	murA			
+GBJEOBOH_01023	CDS	1278	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GBJEOBOH_01024	gene	435	hspA			
+GBJEOBOH_01024	CDS	435	hspA		COG0071	Spore protein SP21
+GBJEOBOH_01025	gene	1185	gspF			
+GBJEOBOH_01025	CDS	1185	gspF		COG1459	Putative type II secretion system protein F
+GBJEOBOH_01026	gene	846				
+GBJEOBOH_01026	CDS	846				hypothetical protein
+GBJEOBOH_01027	gene	639				
+GBJEOBOH_01027	CDS	639				hypothetical protein
+GBJEOBOH_01028	gene	1878	xcpQ			
+GBJEOBOH_01028	CDS	1878	xcpQ		COG1450	Secretin XcpQ
+GBJEOBOH_01029	gene	432				
+GBJEOBOH_01029	CDS	432				hypothetical protein
+GBJEOBOH_01030	gene	1299	purA			
+GBJEOBOH_01030	CDS	1299	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GBJEOBOH_01031	gene	537				
+GBJEOBOH_01031	CDS	537		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+GBJEOBOH_01032	gene	2604	alaS			
+GBJEOBOH_01032	CDS	2604	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GBJEOBOH_01033	gene	468				
+GBJEOBOH_01033	CDS	468				hypothetical protein
+GBJEOBOH_01034	gene	2433	clpC			
+GBJEOBOH_01034	CDS	2433	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+GBJEOBOH_01035	gene	2337	bamA_2			
+GBJEOBOH_01035	CDS	2337	bamA_2		COG4775	Outer membrane protein assembly factor BamA
+GBJEOBOH_01036	gene	213	cspA			
+GBJEOBOH_01036	CDS	213	cspA		COG1278	putative cold shock protein A
+GBJEOBOH_01037	gene	717	hisA			
+GBJEOBOH_01037	CDS	717	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+GBJEOBOH_01038	gene	756	pyrK			
+GBJEOBOH_01038	CDS	756	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+GBJEOBOH_01039	gene	1311				
+GBJEOBOH_01039	CDS	1311				hypothetical protein
+GBJEOBOH_01040	gene	1137	tgt			
+GBJEOBOH_01040	CDS	1137	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+GBJEOBOH_01041	gene	894	thrB			
+GBJEOBOH_01041	CDS	894	thrB	2.7.1.39	COG0083	Homoserine kinase
+GBJEOBOH_01042	gene	357	ndhC_1			
+GBJEOBOH_01042	CDS	357	ndhC_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+GBJEOBOH_01043	gene	540	nqo6			
+GBJEOBOH_01043	CDS	540	nqo6	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit 6
+GBJEOBOH_01044	gene	1761	nuoC_2			
+GBJEOBOH_01044	CDS	1761	nuoC_2	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+GBJEOBOH_01045	gene	1011	nuoH_1			
+GBJEOBOH_01045	CDS	1011	nuoH_1	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+GBJEOBOH_01046	gene	606	ndhI_1			
+GBJEOBOH_01046	CDS	606	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GBJEOBOH_01047	gene	504	nuoJ_1			
+GBJEOBOH_01047	CDS	504	nuoJ_1	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+GBJEOBOH_01048	gene	303				
+GBJEOBOH_01048	CDS	303		7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit 11
+GBJEOBOH_01049	gene	1863	nuoL			
+GBJEOBOH_01049	CDS	1863	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+GBJEOBOH_01050	gene	1476	nuoM_1			
+GBJEOBOH_01050	CDS	1476	nuoM_1	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+GBJEOBOH_01051	gene	1395	nuoN_1			
+GBJEOBOH_01051	CDS	1395	nuoN_1	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+GBJEOBOH_01052	gene	642	ispD			
+GBJEOBOH_01052	CDS	642	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+GBJEOBOH_01053	gene	579				
+GBJEOBOH_01053	CDS	579				hypothetical protein
+GBJEOBOH_01054	gene	429				
+GBJEOBOH_01054	CDS	429				hypothetical protein
+GBJEOBOH_01055	gene	684				
+GBJEOBOH_01055	CDS	684				hypothetical protein
+GBJEOBOH_01056	gene	2295				
+GBJEOBOH_01056	CDS	2295				hypothetical protein
+GBJEOBOH_01057	gene	816	moeZ			
+GBJEOBOH_01057	CDS	816	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+GBJEOBOH_01058	gene	1197	gltT			
+GBJEOBOH_01058	CDS	1197	gltT			Proton/sodium-glutamate symport protein
+GBJEOBOH_01059	gene	1047	cnrB			
+GBJEOBOH_01059	CDS	1047	cnrB			Nickel and cobalt resistance protein CnrB
+GBJEOBOH_01060	gene	1248	oprM			
+GBJEOBOH_01060	CDS	1248	oprM		COG1538	Outer membrane protein OprM
+GBJEOBOH_01061	gene	906	ttuA			
+GBJEOBOH_01061	CDS	906	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+GBJEOBOH_01062	gene	243				
+GBJEOBOH_01062	CDS	243				hypothetical protein
+GBJEOBOH_01063	gene	1596	pyrG			
+GBJEOBOH_01063	CDS	1596	pyrG	6.3.4.2		CTP synthase
+GBJEOBOH_01064	gene	966				
+GBJEOBOH_01064	CDS	966		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+GBJEOBOH_01065	gene	1125				
+GBJEOBOH_01065	CDS	1125				hypothetical protein
+GBJEOBOH_01066	gene	1239	clpX_1			
+GBJEOBOH_01066	CDS	1239	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+GBJEOBOH_01067	gene	606	clpP			
+GBJEOBOH_01067	CDS	606	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+GBJEOBOH_01068	gene	87				
+GBJEOBOH_01068	tRNA	87				tRNA-Leu(tag)
+GBJEOBOH_01069	gene	642	gph_2			
+GBJEOBOH_01069	CDS	642	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+GBJEOBOH_01070	gene	483				
+GBJEOBOH_01070	CDS	483				hypothetical protein
+GBJEOBOH_01071	gene	258				
+GBJEOBOH_01071	CDS	258				hypothetical protein
+GBJEOBOH_01072	gene	702				
+GBJEOBOH_01072	CDS	702			COG1842	Phage shock protein A 
+GBJEOBOH_01073	gene	531				
+GBJEOBOH_01073	CDS	531				hypothetical protein
+GBJEOBOH_01074	gene	507				
+GBJEOBOH_01074	CDS	507				hypothetical protein
+GBJEOBOH_01075	gene	807				
+GBJEOBOH_01075	CDS	807				hypothetical protein
+GBJEOBOH_01076	gene	1482	speE_2			
+GBJEOBOH_01076	CDS	1482	speE_2	2.5.1.16		Polyamine aminopropyltransferase
+GBJEOBOH_01077	gene	1047				
+GBJEOBOH_01077	CDS	1047			COG1702	PhoH-like protein
+GBJEOBOH_01078	gene	234	ybeY			
+GBJEOBOH_01078	CDS	234	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+GBJEOBOH_01079	gene	831	lipA2			
+GBJEOBOH_01079	CDS	831	lipA2	2.8.1.8	COG0320	Lipoyl synthase 2
+GBJEOBOH_01080	gene	435				
+GBJEOBOH_01080	CDS	435				hypothetical protein
+GBJEOBOH_01081	gene	1407	cydA			
+GBJEOBOH_01081	CDS	1407	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+GBJEOBOH_01082	gene	1101	appB			
+GBJEOBOH_01082	CDS	1101	appB	7.1.1.3	COG1294	Cytochrome bd-II ubiquinol oxidase subunit 2
+GBJEOBOH_01083	gene	507	argA			
+GBJEOBOH_01083	CDS	507	argA	2.3.1.1		Amino-acid acetyltransferase
+GBJEOBOH_01084	gene	1365	murC			
+GBJEOBOH_01084	CDS	1365	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+GBJEOBOH_01085	gene	1032	adhT			
+GBJEOBOH_01085	CDS	1032	adhT	1.1.1.1		Alcohol dehydrogenase
+GBJEOBOH_01086	gene	465	accB			
+GBJEOBOH_01086	CDS	465	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+GBJEOBOH_01087	gene	579	efp			
+GBJEOBOH_01087	CDS	579	efp		COG0231	Elongation factor P
+GBJEOBOH_01088	gene	77				
+GBJEOBOH_01088	tRNA	77				tRNA-Met(cat)
+GBJEOBOH_01089	gene	1500	nnr			
+GBJEOBOH_01089	CDS	1500	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GBJEOBOH_01090	gene	91				
+GBJEOBOH_01090	tRNA	91				tRNA-Ser(cga)
+GBJEOBOH_01091	gene	561	tenI			
+GBJEOBOH_01091	CDS	561	tenI	5.3.99.10	COG0352	Thiazole tautomerase
+GBJEOBOH_01092	gene	1287	spsI			
+GBJEOBOH_01092	CDS	1287	spsI		COG0558	Bifunctional IPC transferase and DIPP synthase
+GBJEOBOH_01093	gene	507	hldE_2			
+GBJEOBOH_01093	CDS	507	hldE_2	2.7.7.70		Bifunctional protein HldE
+GBJEOBOH_01094	gene	690				
+GBJEOBOH_01094	CDS	690				hypothetical protein
+GBJEOBOH_01095	gene	516	rlpA_2			
+GBJEOBOH_01095	CDS	516	rlpA_2	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+GBJEOBOH_01096	gene	1374	argH			
+GBJEOBOH_01096	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GBJEOBOH_01097	gene	780	nuoH_2			
+GBJEOBOH_01097	CDS	780	nuoH_2	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+GBJEOBOH_01098	gene	627	ndhI_2			
+GBJEOBOH_01098	CDS	627	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GBJEOBOH_01099	gene	534	nuoJ_2			
+GBJEOBOH_01099	CDS	534	nuoJ_2	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+GBJEOBOH_01100	gene	309	nuoK			
+GBJEOBOH_01100	CDS	309	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+GBJEOBOH_01101	gene	1935	ndhB_2			
+GBJEOBOH_01101	CDS	1935	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GBJEOBOH_01102	gene	1506	nuoM_2			
+GBJEOBOH_01102	CDS	1506	nuoM_2	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+GBJEOBOH_01103	gene	1467	nuoN_2			
+GBJEOBOH_01103	CDS	1467	nuoN_2	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+GBJEOBOH_01104	gene	372	ndhC_2			
+GBJEOBOH_01104	CDS	372	ndhC_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+GBJEOBOH_01105	gene	762				
+GBJEOBOH_01105	CDS	762				hypothetical protein
+GBJEOBOH_01106	gene	309	aseR			
+GBJEOBOH_01106	CDS	309	aseR		COG0640	HTH-type transcriptional repressor AseR
+GBJEOBOH_01107	gene	243				
+GBJEOBOH_01107	CDS	243				hypothetical protein
+GBJEOBOH_01108	gene	960				
+GBJEOBOH_01108	CDS	960				hypothetical protein
+GBJEOBOH_01109	gene	933	fba			
+GBJEOBOH_01109	CDS	933	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+GBJEOBOH_01110	gene	930				
+GBJEOBOH_01110	CDS	930			COG3039	IS5 family transposase ISAae1
+GBJEOBOH_01111	gene	879				
+GBJEOBOH_01111	CDS	879				hypothetical protein
+GBJEOBOH_01112	gene	1755	ligB			
+GBJEOBOH_01112	CDS	1755	ligB	6.5.1.1	COG1793	DNA ligase B
+GBJEOBOH_01113	gene	501	DmdB			
+GBJEOBOH_01113	CDS	501	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+GBJEOBOH_01114	gene	519				
+GBJEOBOH_01114	CDS	519				hypothetical protein
+GBJEOBOH_01115	gene	2094	bcsB			
+GBJEOBOH_01115	CDS	2094	bcsB			Cyclic di-GMP-binding protein
+GBJEOBOH_01116	gene	978	bcsZ			
+GBJEOBOH_01116	CDS	978	bcsZ	3.2.1.4	COG3405	Endoglucanase
+GBJEOBOH_01117	gene	1962	bepA_4			
+GBJEOBOH_01117	CDS	1962	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+GBJEOBOH_01118	gene	993				
+GBJEOBOH_01118	CDS	993				hypothetical protein
+GBJEOBOH_01119	gene	735				
+GBJEOBOH_01119	CDS	735				Iron-sulfur cluster carrier protein
+GBJEOBOH_01120	gene	678				
+GBJEOBOH_01120	CDS	678				hypothetical protein
+GBJEOBOH_01121	gene	2280	bcsA			
+GBJEOBOH_01121	CDS	2280	bcsA	2.4.1.12	COG1215	Cellulose synthase catalytic subunit [UDP-forming]
+GBJEOBOH_01122	gene	180				
+GBJEOBOH_01122	CDS	180				hypothetical protein
+GBJEOBOH_01123	gene	840				
+GBJEOBOH_01123	CDS	840				hypothetical protein
+GBJEOBOH_01124	gene	321				
+GBJEOBOH_01124	CDS	321				hypothetical protein
+GBJEOBOH_01125	gene	1305	trpB_2			
+GBJEOBOH_01125	CDS	1305	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+GBJEOBOH_01126	gene	1086				
+GBJEOBOH_01126	CDS	1086				hypothetical protein
+GBJEOBOH_01127	gene	3498				
+GBJEOBOH_01127	CDS	3498				hypothetical protein
+GBJEOBOH_01128	gene	450	fur			
+GBJEOBOH_01128	CDS	450	fur		COG0735	Ferric uptake regulation protein
+GBJEOBOH_01129	gene	576	mobA			
+GBJEOBOH_01129	CDS	576	mobA	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+GBJEOBOH_01130	gene	900				
+GBJEOBOH_01130	CDS	900				hypothetical protein
+GBJEOBOH_01131	gene	594	tusA_3			
+GBJEOBOH_01131	CDS	594	tusA_3			Sulfur carrier protein TusA
+GBJEOBOH_01132	gene	1704	polX			
+GBJEOBOH_01132	CDS	1704	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+GBJEOBOH_01133	gene	729	pdxJ			
+GBJEOBOH_01133	CDS	729	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+GBJEOBOH_01134	gene	1113	hemW			
+GBJEOBOH_01134	CDS	1113	hemW		COG0635	Heme chaperone HemW
+GBJEOBOH_01135	gene	303				
+GBJEOBOH_01135	CDS	303				hypothetical protein
+GBJEOBOH_01136	gene	1071	lpxB			
+GBJEOBOH_01136	CDS	1071	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+GBJEOBOH_01137	gene	630				
+GBJEOBOH_01137	CDS	630				hypothetical protein
+GBJEOBOH_01138	gene	891	metF			
+GBJEOBOH_01138	CDS	891	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+GBJEOBOH_01139	gene	363				
+GBJEOBOH_01139	CDS	363				hypothetical protein
+GBJEOBOH_01140	gene	360				
+GBJEOBOH_01140	CDS	360				hypothetical protein
+GBJEOBOH_01141	gene	438				
+GBJEOBOH_01141	CDS	438				hypothetical protein
+GBJEOBOH_01142	gene	342				
+GBJEOBOH_01142	CDS	342				hypothetical protein
+GBJEOBOH_01143	gene	831				
+GBJEOBOH_01143	CDS	831				hypothetical protein
+GBJEOBOH_01144	gene	1854				
+GBJEOBOH_01144	CDS	1854				hypothetical protein
+GBJEOBOH_01145	gene	1755				
+GBJEOBOH_01145	CDS	1755			COG0747	putative ABC transporter-binding protein
+GBJEOBOH_01146	gene	291				
+GBJEOBOH_01146	CDS	291				hypothetical protein
+GBJEOBOH_01147	gene	3165				
+GBJEOBOH_01147	CDS	3165				hypothetical protein
+GBJEOBOH_01148	gene	588				
+GBJEOBOH_01148	CDS	588				hypothetical protein
+GBJEOBOH_01149	gene	2040	copA			
+GBJEOBOH_01149	CDS	2040	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+GBJEOBOH_01150	gene	555				
+GBJEOBOH_01150	CDS	555				hypothetical protein
+GBJEOBOH_01151	gene	2121				
+GBJEOBOH_01151	CDS	2121				hypothetical protein
+GBJEOBOH_01152	gene	420				
+GBJEOBOH_01152	CDS	420				hypothetical protein
+GBJEOBOH_01153	gene	1362	degP			
+GBJEOBOH_01153	CDS	1362	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+GBJEOBOH_01154	gene	933	sigA_1			
+GBJEOBOH_01154	CDS	933	sigA_1		COG0568	RNA polymerase sigma factor SigA
+GBJEOBOH_01155	gene	813				
+GBJEOBOH_01155	CDS	813				hypothetical protein
+GBJEOBOH_01156	gene	408				
+GBJEOBOH_01156	CDS	408				hypothetical protein
+GBJEOBOH_01157	gene	711				
+GBJEOBOH_01157	CDS	711				hypothetical protein
+GBJEOBOH_01158	gene	633	COQ5_2			
+GBJEOBOH_01158	CDS	633	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GBJEOBOH_01159	gene	888	gcvT			
+GBJEOBOH_01159	CDS	888	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+GBJEOBOH_01160	gene	1440				
+GBJEOBOH_01160	CDS	1440				hypothetical protein
+GBJEOBOH_01161	gene	849				
+GBJEOBOH_01161	CDS	849				hypothetical protein
+GBJEOBOH_01162	gene	750				
+GBJEOBOH_01162	CDS	750		5.4.99.-	COG1187	putative RNA pseudouridine synthase
+GBJEOBOH_01163	gene	393				
+GBJEOBOH_01163	CDS	393				hypothetical protein
+GBJEOBOH_01164	gene	369				
+GBJEOBOH_01164	CDS	369				hypothetical protein
+GBJEOBOH_01165	gene	771	cdaA			
+GBJEOBOH_01165	CDS	771	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+GBJEOBOH_01166	gene	1200				
+GBJEOBOH_01166	CDS	1200				hypothetical protein
+GBJEOBOH_01167	gene	210				
+GBJEOBOH_01167	CDS	210				hypothetical protein
+GBJEOBOH_01168	gene	1434	cfiB_1			
+GBJEOBOH_01168	CDS	1434	cfiB_1	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+GBJEOBOH_01169	gene	354				
+GBJEOBOH_01169	CDS	354				hypothetical protein
+GBJEOBOH_01170	gene	1407	dnaC			
+GBJEOBOH_01170	CDS	1407	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+GBJEOBOH_01171	gene	76				
+GBJEOBOH_01171	tRNA	76				tRNA-Asn(gtt)
+GBJEOBOH_01172	gene	789				
+GBJEOBOH_01172	CDS	789				hypothetical protein
+GBJEOBOH_01173	gene	1410	epsE_1			
+GBJEOBOH_01173	CDS	1410	epsE_1		COG2804	Type II secretion system protein E
+GBJEOBOH_01174	gene	522	smc_2			
+GBJEOBOH_01174	CDS	522	smc_2			Chromosome partition protein Smc
+GBJEOBOH_01175	gene	705				
+GBJEOBOH_01175	CDS	705				hypothetical protein
+GBJEOBOH_01176	gene	609	recR			
+GBJEOBOH_01176	CDS	609	recR		COG0353	Recombination protein RecR
+GBJEOBOH_01177	gene	300	ybaB			
+GBJEOBOH_01177	CDS	300	ybaB			Nucleoid-associated protein YbaB
+GBJEOBOH_01178	gene	591	pgsA2			
+GBJEOBOH_01178	CDS	591	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+GBJEOBOH_01179	gene	486				
+GBJEOBOH_01179	CDS	486				hypothetical protein
+GBJEOBOH_01180	gene	486	mshD			
+GBJEOBOH_01180	CDS	486	mshD	2.3.1.189		Mycothiol acetyltransferase
+GBJEOBOH_01181	gene	606	lolA			
+GBJEOBOH_01181	CDS	606	lolA			Outer-membrane lipoprotein carrier protein
+GBJEOBOH_01182	gene	531				
+GBJEOBOH_01182	CDS	531				hypothetical protein
+GBJEOBOH_01183	gene	285	ihfA			
+GBJEOBOH_01183	CDS	285	ihfA			Integration host factor subunit alpha
+GBJEOBOH_01184	gene	1608	rpsA			
+GBJEOBOH_01184	CDS	1608	rpsA		COG0539	30S ribosomal protein S1
+GBJEOBOH_01185	gene	774	trmD			
+GBJEOBOH_01185	CDS	774	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+GBJEOBOH_01186	gene	1728	sigA_2			
+GBJEOBOH_01186	CDS	1728	sigA_2		COG0568	RNA polymerase sigma factor SigA
+GBJEOBOH_01187	gene	1497	dnaG			
+GBJEOBOH_01187	CDS	1497	dnaG	2.7.7.-	COG0358	DNA primase
+GBJEOBOH_01188	gene	387				
+GBJEOBOH_01188	CDS	387		3.1.-.-	COG0824	Putative esterase
+GBJEOBOH_01189	gene	261				
+GBJEOBOH_01189	CDS	261			COG0350	DNA base-flipping protein
+GBJEOBOH_01190	gene	195				
+GBJEOBOH_01190	CDS	195				hypothetical protein
+GBJEOBOH_01191	gene	861	alsK			
+GBJEOBOH_01191	CDS	861	alsK	2.7.1.55	COG1940	D-allose kinase
+GBJEOBOH_01192	gene	396				
+GBJEOBOH_01192	CDS	396		3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+GBJEOBOH_01193	gene	186				
+GBJEOBOH_01193	CDS	186				hypothetical protein
+GBJEOBOH_01194	gene	642	sodB			
+GBJEOBOH_01194	CDS	642	sodB	1.15.1.1		Superoxide dismutase [Fe]
+GBJEOBOH_01195	gene	771				
+GBJEOBOH_01195	CDS	771				hypothetical protein
+GBJEOBOH_01196	gene	1158				
+GBJEOBOH_01196	CDS	1158				hypothetical protein
+GBJEOBOH_01197	gene	657	ktrA			
+GBJEOBOH_01197	CDS	657	ktrA		COG0569	Ktr system potassium uptake protein A
+GBJEOBOH_01198	gene	1332	ktrB			
+GBJEOBOH_01198	CDS	1332	ktrB		COG0168	Ktr system potassium uptake protein B
+GBJEOBOH_01199	gene	2091				
+GBJEOBOH_01199	CDS	2091				hypothetical protein
+GBJEOBOH_01200	gene	639	trmR			
+GBJEOBOH_01200	CDS	639	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+GBJEOBOH_01201	gene	879				
+GBJEOBOH_01201	CDS	879				hypothetical protein
+GBJEOBOH_01202	gene	996				
+GBJEOBOH_01202	CDS	996				hypothetical protein
+GBJEOBOH_01203	gene	660	iclR			
+GBJEOBOH_01203	CDS	660	iclR		COG1414	Transcriptional repressor IclR
+GBJEOBOH_01204	gene	1281	icd			
+GBJEOBOH_01204	CDS	1281	icd	1.1.1.42		Isocitrate dehydrogenase [NADP]
+GBJEOBOH_01205	gene	417	yhfA_1			
+GBJEOBOH_01205	CDS	417	yhfA_1		COG1765	Protein YhfA
+GBJEOBOH_01206	gene	495				
+GBJEOBOH_01206	CDS	495				hypothetical protein
+GBJEOBOH_01207	gene	1419	cfiB_2			
+GBJEOBOH_01207	CDS	1419	cfiB_2	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+GBJEOBOH_01208	gene	1968	cfiA_1			
+GBJEOBOH_01208	CDS	1968	cfiA_1	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+GBJEOBOH_01209	gene	585				
+GBJEOBOH_01209	CDS	585				hypothetical protein
+GBJEOBOH_01210	gene	918				
+GBJEOBOH_01210	CDS	918				hypothetical protein
+GBJEOBOH_01211	gene	891				
+GBJEOBOH_01211	CDS	891				hypothetical protein
+GBJEOBOH_01212	gene	813	cfr			
+GBJEOBOH_01212	CDS	813	cfr	2.1.1.224		Ribosomal RNA large subunit methyltransferase Cfr
+GBJEOBOH_01213	gene	1023				
+GBJEOBOH_01213	CDS	1023				hypothetical protein
+GBJEOBOH_01214	gene	744	mlaF			
+GBJEOBOH_01214	CDS	744	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+GBJEOBOH_01215	gene	894				
+GBJEOBOH_01215	CDS	894				hypothetical protein
+GBJEOBOH_01216	gene	513				
+GBJEOBOH_01216	CDS	513				hypothetical protein
+GBJEOBOH_01217	gene	1065	ypdF			
+GBJEOBOH_01217	CDS	1065	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+GBJEOBOH_01218	gene	1296	aroA1			
+GBJEOBOH_01218	CDS	1296	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+GBJEOBOH_01219	gene	339	fliN			
+GBJEOBOH_01219	CDS	339	fliN		COG1886	Flagellar motor switch protein FliN
+GBJEOBOH_01220	gene	1074	ispG			
+GBJEOBOH_01220	CDS	1074	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+GBJEOBOH_01221	gene	573				
+GBJEOBOH_01221	CDS	573				hypothetical protein
+GBJEOBOH_01222	gene	939				
+GBJEOBOH_01222	CDS	939				hypothetical protein
+GBJEOBOH_01223	gene	1425				
+GBJEOBOH_01223	CDS	1425				hypothetical protein
+GBJEOBOH_01224	gene	969	kdsD			
+GBJEOBOH_01224	CDS	969	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+GBJEOBOH_01225	gene	537	ppa			
+GBJEOBOH_01225	CDS	537	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+GBJEOBOH_01226	gene	789	trpA			
+GBJEOBOH_01226	CDS	789	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+GBJEOBOH_01227	gene	399	yhfA_2			
+GBJEOBOH_01227	CDS	399	yhfA_2		COG1765	Protein YhfA
+GBJEOBOH_01228	gene	315				
+GBJEOBOH_01228	CDS	315			COG4654	Cytochrome c-552
+GBJEOBOH_01229	gene	813	fabI			
+GBJEOBOH_01229	CDS	813	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+GBJEOBOH_01230	gene	795	griI			
+GBJEOBOH_01230	CDS	795	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+GBJEOBOH_01231	gene	963	cysM			
+GBJEOBOH_01231	CDS	963	cysM	2.5.1.47	COG0031	Cysteine synthase B
+GBJEOBOH_01232	gene	1098				
+GBJEOBOH_01232	CDS	1098				hypothetical protein
+GBJEOBOH_01233	gene	573	mglA_1			
+GBJEOBOH_01233	CDS	573	mglA_1		COG1100	Mutual gliding-motility protein MglA
+GBJEOBOH_01234	gene	1383				
+GBJEOBOH_01234	CDS	1383				hypothetical protein
+GBJEOBOH_01235	gene	1665				
+GBJEOBOH_01235	CDS	1665			COG1132	putative ABC transporter ATP-binding protein
+GBJEOBOH_01236	gene	4482	gltS			
+GBJEOBOH_01236	CDS	4482	gltS	1.4.7.1		Ferredoxin-dependent glutamate synthase 2
+GBJEOBOH_01237	gene	1137				
+GBJEOBOH_01237	CDS	1137				hypothetical protein
+GBJEOBOH_01238	gene	231				
+GBJEOBOH_01238	CDS	231				hypothetical protein
+GBJEOBOH_01239	gene	681				
+GBJEOBOH_01239	CDS	681				hypothetical protein
+GBJEOBOH_01240	gene	444				
+GBJEOBOH_01240	CDS	444				hypothetical protein
+GBJEOBOH_01241	gene	750				
+GBJEOBOH_01241	CDS	750			COG0217	putative transcriptional regulatory protein
+GBJEOBOH_01242	gene	1278	mutL			
+GBJEOBOH_01242	CDS	1278	mutL		COG0323	DNA mismatch repair protein MutL
+GBJEOBOH_01243	gene	552	mltC_1			
+GBJEOBOH_01243	CDS	552	mltC_1	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+GBJEOBOH_01244	gene	696	pyrF			
+GBJEOBOH_01244	CDS	696	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+GBJEOBOH_01245	gene	504				
+GBJEOBOH_01245	CDS	504				hypothetical protein
+GBJEOBOH_01246	gene	591	rsmG			
+GBJEOBOH_01246	CDS	591	rsmG	2.1.1.170		Ribosomal RNA small subunit methyltransferase G
+GBJEOBOH_01247	gene	690				
+GBJEOBOH_01247	CDS	690				hypothetical protein
+GBJEOBOH_01248	gene	1185	lolE			
+GBJEOBOH_01248	CDS	1185	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+GBJEOBOH_01249	gene	435	atpF_1			
+GBJEOBOH_01249	CDS	435	atpF_1		COG0711	ATP synthase subunit b
+GBJEOBOH_01250	gene	558	atpF_2			
+GBJEOBOH_01250	CDS	558	atpF_2			ATP synthase subunit b
+GBJEOBOH_01251	gene	546	atpD_1			
+GBJEOBOH_01251	CDS	546	atpD_1			ATP synthase subunit delta
+GBJEOBOH_01252	gene	429	ndk			
+GBJEOBOH_01252	CDS	429	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GBJEOBOH_01253	gene	651				
+GBJEOBOH_01253	CDS	651		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GBJEOBOH_01254	gene	360				
+GBJEOBOH_01254	CDS	360		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GBJEOBOH_01255	gene	315				
+GBJEOBOH_01255	CDS	315				hypothetical protein
+GBJEOBOH_01256	gene	1278	fliI			
+GBJEOBOH_01256	CDS	1278	fliI	7.1.2.2	COG1157	Flagellum-specific ATP synthase
+GBJEOBOH_01257	gene	684				
+GBJEOBOH_01257	CDS	684				hypothetical protein
+GBJEOBOH_01258	gene	207				
+GBJEOBOH_01258	CDS	207				hypothetical protein
+GBJEOBOH_01259	gene	951	dus			
+GBJEOBOH_01259	CDS	951	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+GBJEOBOH_01260	gene	468	glpE			
+GBJEOBOH_01260	CDS	468	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+GBJEOBOH_01261	gene	765	pppA			
+GBJEOBOH_01261	CDS	765	pppA		COG1989	Prepilin peptidase PppA
+GBJEOBOH_01262	gene	867	secF			
+GBJEOBOH_01262	CDS	867	secF		COG0341	Protein translocase subunit SecF
+GBJEOBOH_01263	gene	600	hpf			
+GBJEOBOH_01263	CDS	600	hpf		COG1544	Ribosome hibernation promotion factor
+GBJEOBOH_01264	gene	285				
+GBJEOBOH_01264	CDS	285				hypothetical protein
+GBJEOBOH_01265	gene	738	ilvE_1			
+GBJEOBOH_01265	CDS	738	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GBJEOBOH_01266	gene	543	dcd			
+GBJEOBOH_01266	CDS	543	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+GBJEOBOH_01267	gene	315				
+GBJEOBOH_01267	CDS	315				hypothetical protein
+GBJEOBOH_01268	gene	723	modA			
+GBJEOBOH_01268	CDS	723	modA		COG0725	Molybdate-binding protein ModA
+GBJEOBOH_01269	gene	696				
+GBJEOBOH_01269	CDS	696				hypothetical protein
+GBJEOBOH_01270	gene	1461	ubiD			
+GBJEOBOH_01270	CDS	1461	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GBJEOBOH_01271	gene	645	hisG			
+GBJEOBOH_01271	CDS	645	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+GBJEOBOH_01272	gene	1863	cfiA_2			
+GBJEOBOH_01272	CDS	1863	cfiA_2	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+GBJEOBOH_01273	gene	1242				
+GBJEOBOH_01273	CDS	1242				hypothetical protein
+GBJEOBOH_01274	gene	1158	sucC			
+GBJEOBOH_01274	CDS	1158	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+GBJEOBOH_01275	gene	918	sucD_1			
+GBJEOBOH_01275	CDS	918	sucD_1	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GBJEOBOH_01276	gene	231				
+GBJEOBOH_01276	CDS	231				hypothetical protein
+GBJEOBOH_01277	gene	243				
+GBJEOBOH_01277	CDS	243				hypothetical protein
+GBJEOBOH_01278	gene	750	rbn			
+GBJEOBOH_01278	CDS	750	rbn	3.1.26.11		Ribonuclease BN
+GBJEOBOH_01279	gene	381				
+GBJEOBOH_01279	CDS	381				putative protein
+GBJEOBOH_01280	gene	870	polA_1			
+GBJEOBOH_01280	CDS	870	polA_1	2.7.7.7	COG0258	DNA polymerase I
+GBJEOBOH_01281	gene	849	nfo			
+GBJEOBOH_01281	CDS	849	nfo	3.1.21.2	COG0648	putative endonuclease 4
+GBJEOBOH_01282	gene	978	nrnA			
+GBJEOBOH_01282	CDS	978	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+GBJEOBOH_01283	gene	492				
+GBJEOBOH_01283	CDS	492				hypothetical protein
+GBJEOBOH_01284	gene	1125	kamA_2			
+GBJEOBOH_01284	CDS	1125	kamA_2	5.4.3.2	COG1509	L-lysine 2,3-aminomutase
+GBJEOBOH_01285	gene	942	gpsA			
+GBJEOBOH_01285	CDS	942	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GBJEOBOH_01286	gene	186				
+GBJEOBOH_01286	CDS	186				hypothetical protein
+GBJEOBOH_01287	gene	936	prs			
+GBJEOBOH_01287	CDS	936	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GBJEOBOH_01288	gene	76				
+GBJEOBOH_01288	tRNA	76				tRNA-Gln(ttg)
+GBJEOBOH_01289	gene	2286	lipM_2			
+GBJEOBOH_01289	CDS	2286	lipM_2	2.3.1.181		Octanoyltransferase LipM
+GBJEOBOH_01290	gene	1182	glpC			
+GBJEOBOH_01290	CDS	1182	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+GBJEOBOH_01291	gene	930				
+GBJEOBOH_01291	CDS	930			COG3039	IS5 family transposase ISAae1
+GBJEOBOH_01292	gene	699	pglJ			
+GBJEOBOH_01292	CDS	699	pglJ	2.4.1.291	COG0438	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+GBJEOBOH_01293	gene	347	ssrA			
+GBJEOBOH_01293	tmRNA	347	ssrA			transfer-messenger RNA, SsrA
+GBJEOBOH_01294	gene	297	rplU			
+GBJEOBOH_01294	CDS	297	rplU		COG0261	50S ribosomal protein L21
+GBJEOBOH_01295	gene	450	rplO			
+GBJEOBOH_01295	CDS	450	rplO			50S ribosomal protein L15
+GBJEOBOH_01296	gene	378				
+GBJEOBOH_01296	CDS	378				hypothetical protein
+GBJEOBOH_01297	gene	627				
+GBJEOBOH_01297	CDS	627				hypothetical protein
+GBJEOBOH_01298	gene	375	rplR			
+GBJEOBOH_01298	CDS	375	rplR			50S ribosomal protein L18
+GBJEOBOH_01299	gene	552	rplF			
+GBJEOBOH_01299	CDS	552	rplF		COG0097	50S ribosomal protein L6
+GBJEOBOH_01300	gene	507	rpsH			
+GBJEOBOH_01300	CDS	507	rpsH		COG0096	30S ribosomal protein S8
+GBJEOBOH_01301	gene	189	rpsN1			
+GBJEOBOH_01301	CDS	189	rpsN1		COG0199	30S ribosomal protein S14
+GBJEOBOH_01302	gene	567	rplE			
+GBJEOBOH_01302	CDS	567	rplE			50S ribosomal protein L5
+GBJEOBOH_01303	gene	399	rplX			
+GBJEOBOH_01303	CDS	399	rplX			50S ribosomal protein L24
+GBJEOBOH_01304	gene	366	rplN			
+GBJEOBOH_01304	CDS	366	rplN		COG0093	50S ribosomal protein L14
+GBJEOBOH_01305	gene	498				
+GBJEOBOH_01305	CDS	498				hypothetical protein
+GBJEOBOH_01306	gene	948	lpxK			
+GBJEOBOH_01306	CDS	948	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+GBJEOBOH_01307	gene	486	gcvH_5			
+GBJEOBOH_01307	CDS	486	gcvH_5			Glycine cleavage system H protein
+GBJEOBOH_01308	gene	564	mtnB_1			
+GBJEOBOH_01308	CDS	564	mtnB_1	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+GBJEOBOH_01309	gene	723	bioW			
+GBJEOBOH_01309	CDS	723	bioW	6.2.1.14	COG1424	6-carboxyhexanoate--CoA ligase
+GBJEOBOH_01310	gene	519	yrdA			
+GBJEOBOH_01310	CDS	519	yrdA		COG0663	Protein YrdA
+GBJEOBOH_01311	gene	636	trmH			
+GBJEOBOH_01311	CDS	636	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+GBJEOBOH_01312	gene	213				
+GBJEOBOH_01312	CDS	213				hypothetical protein
+GBJEOBOH_01313	gene	1281				
+GBJEOBOH_01313	CDS	1281				hypothetical protein
+GBJEOBOH_01314	gene	1269				
+GBJEOBOH_01314	CDS	1269				hypothetical protein
+GBJEOBOH_01315	gene	1335	accC			
+GBJEOBOH_01315	CDS	1335	accC	6.3.4.14	COG0439	Biotin carboxylase
+GBJEOBOH_01316	gene	975	mdh_1			
+GBJEOBOH_01316	CDS	975	mdh_1	1.1.1.37	COG0039	Malate dehydrogenase
+GBJEOBOH_01317	gene	582				
+GBJEOBOH_01317	CDS	582				hypothetical protein
+GBJEOBOH_01318	gene	1917	thrS			
+GBJEOBOH_01318	CDS	1917	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+GBJEOBOH_01319	gene	882				
+GBJEOBOH_01319	CDS	882				hypothetical protein
+GBJEOBOH_01320	gene	495	dsbD_2			
+GBJEOBOH_01320	CDS	495	dsbD_2	1.8.1.8		Thiol:disulfide interchange protein DsbD
+GBJEOBOH_01321	gene	1209				
+GBJEOBOH_01321	CDS	1209				hypothetical protein
+GBJEOBOH_01322	gene	531	hslV			
+GBJEOBOH_01322	CDS	531	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+GBJEOBOH_01323	gene	73				
+GBJEOBOH_01323	tRNA	73				tRNA-Pro(cgg)
+GBJEOBOH_01324	gene	3021	clpX_2			
+GBJEOBOH_01324	CDS	3021	clpX_2			ATP-dependent Clp protease ATP-binding subunit ClpX
+GBJEOBOH_01325	gene	1812	aspS			
+GBJEOBOH_01325	CDS	1812	aspS	6.1.1.12		Aspartate--tRNA ligase
+GBJEOBOH_01326	gene	558	fumA			
+GBJEOBOH_01326	CDS	558	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+GBJEOBOH_01327	gene	798				
+GBJEOBOH_01327	CDS	798				hypothetical protein
+GBJEOBOH_01328	gene	1080	amiC			
+GBJEOBOH_01328	CDS	1080	amiC	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+GBJEOBOH_01329	gene	1659				
+GBJEOBOH_01329	CDS	1659				hypothetical protein
+GBJEOBOH_01330	gene	2649				
+GBJEOBOH_01330	CDS	2649				hypothetical protein
+GBJEOBOH_01331	gene	1443				
+GBJEOBOH_01331	CDS	1443				hypothetical protein
+GBJEOBOH_01332	gene	1545				
+GBJEOBOH_01332	CDS	1545				hypothetical protein
+GBJEOBOH_01333	gene	417				
+GBJEOBOH_01333	CDS	417				hypothetical protein
+GBJEOBOH_01334	gene	657				
+GBJEOBOH_01334	CDS	657				hypothetical protein
+GBJEOBOH_01335	gene	714	surA			
+GBJEOBOH_01335	CDS	714	surA	5.2.1.8		Chaperone SurA
+GBJEOBOH_01336	gene	891	prsA_2			
+GBJEOBOH_01336	CDS	891	prsA_2	5.2.1.8		Foldase protein PrsA
+GBJEOBOH_01337	gene	1580				
+GBJEOBOH_01337	rRNA	1580				16S ribosomal RNA
+GBJEOBOH_01338	gene	74				
+GBJEOBOH_01338	tRNA	74				tRNA-Ile(gat)
+GBJEOBOH_01339	gene	74				
+GBJEOBOH_01339	tRNA	74				tRNA-Ala(tgc)
+GBJEOBOH_01340	gene	2948				
+GBJEOBOH_01340	rRNA	2948				23S ribosomal RNA
+GBJEOBOH_01341	gene	112				
+GBJEOBOH_01341	rRNA	112				5S ribosomal RNA
+GBJEOBOH_01342	gene	77				
+GBJEOBOH_01342	tRNA	77				tRNA-Arg(tct)
+GBJEOBOH_01343	gene	1251	arnT_4			
+GBJEOBOH_01343	CDS	1251	arnT_4	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+GBJEOBOH_01344	gene	894	gtaB			
+GBJEOBOH_01344	CDS	894	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GBJEOBOH_01345	gene	525				
+GBJEOBOH_01345	CDS	525				hypothetical protein
+GBJEOBOH_01346	gene	624	ribE			
+GBJEOBOH_01346	CDS	624	ribE	2.5.1.9	COG0307	Riboflavin synthase
+GBJEOBOH_01347	gene	966	pfkA			
+GBJEOBOH_01347	CDS	966	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase
+GBJEOBOH_01348	gene	2286	metE			
+GBJEOBOH_01348	CDS	2286	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+GBJEOBOH_01349	gene	921	argF			
+GBJEOBOH_01349	CDS	921	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+GBJEOBOH_01350	gene	1083	flgI			
+GBJEOBOH_01350	CDS	1083	flgI			Flagellar P-ring protein
+GBJEOBOH_01351	gene	651	flgH			
+GBJEOBOH_01351	CDS	651	flgH			Flagellar L-ring protein
+GBJEOBOH_01352	gene	747	fabG			
+GBJEOBOH_01352	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GBJEOBOH_01353	gene	237	acpP			
+GBJEOBOH_01353	CDS	237	acpP		COG0236	Acyl carrier protein
+GBJEOBOH_01354	gene	1248	fabF			
+GBJEOBOH_01354	CDS	1248	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+GBJEOBOH_01355	gene	573	maf			
+GBJEOBOH_01355	CDS	573	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+GBJEOBOH_01356	gene	189				
+GBJEOBOH_01356	CDS	189				hypothetical protein
+GBJEOBOH_01357	gene	396				
+GBJEOBOH_01357	CDS	396				Bacteriohemerythrin
+GBJEOBOH_01358	gene	1365	ffh			
+GBJEOBOH_01358	CDS	1365	ffh		COG0541	Signal recognition particle protein
+GBJEOBOH_01359	gene	1158	truD			
+GBJEOBOH_01359	CDS	1158	truD	5.4.99.27		tRNA pseudouridine synthase D
+GBJEOBOH_01360	gene	1041	desV			
+GBJEOBOH_01360	CDS	1041	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+GBJEOBOH_01361	gene	1803	lepA			
+GBJEOBOH_01361	CDS	1803	lepA	3.6.5.-	COG0481	Elongation factor 4
+GBJEOBOH_01362	gene	927	panE			
+GBJEOBOH_01362	CDS	927	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+GBJEOBOH_01363	gene	345				
+GBJEOBOH_01363	CDS	345				hypothetical protein
+GBJEOBOH_01364	gene	111				
+GBJEOBOH_01364	CDS	111				hypothetical protein
+GBJEOBOH_01365	gene	306				
+GBJEOBOH_01365	CDS	306				hypothetical protein
+GBJEOBOH_01366	gene	240				
+GBJEOBOH_01366	CDS	240			COG0425	Putative sulfur carrier protein
+GBJEOBOH_01367	gene	2328	pheT			
+GBJEOBOH_01367	CDS	2328	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GBJEOBOH_01368	gene	561	yqgN			
+GBJEOBOH_01368	CDS	561	yqgN		COG0212	putative protein YqgN
+GBJEOBOH_01369	gene	1677	rny			
+GBJEOBOH_01369	CDS	1677	rny	3.1.-.-	COG1418	Ribonuclease Y
+GBJEOBOH_01370	gene	1095	dnaJ_2			
+GBJEOBOH_01370	CDS	1095	dnaJ_2		COG0484	Chaperone protein DnaJ
+GBJEOBOH_01371	gene	1203	cfa			
+GBJEOBOH_01371	CDS	1203	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+GBJEOBOH_01372	gene	870	ispH			
+GBJEOBOH_01372	CDS	870	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+GBJEOBOH_01373	gene	519				
+GBJEOBOH_01373	CDS	519				hypothetical protein
+GBJEOBOH_01374	gene	432				
+GBJEOBOH_01374	CDS	432				hypothetical protein
+	repeat_region	236				
+GBJEOBOH_01375	gene	756				
+GBJEOBOH_01375	CDS	756				hypothetical protein
+GBJEOBOH_01376	gene	1278				
+GBJEOBOH_01376	CDS	1278				hypothetical protein
+GBJEOBOH_01377	gene	612	pspB			
+GBJEOBOH_01377	CDS	612	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+GBJEOBOH_01378	gene	294				
+GBJEOBOH_01378	CDS	294				hypothetical protein
+GBJEOBOH_01379	gene	1410	murE			
+GBJEOBOH_01379	CDS	1410	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GBJEOBOH_01380	gene	93				
+GBJEOBOH_01380	tRNA	93				tRNA-Ser(tga)
+GBJEOBOH_01381	gene	309				
+GBJEOBOH_01381	CDS	309				hypothetical protein
+GBJEOBOH_01382	gene	234				
+GBJEOBOH_01382	CDS	234				hypothetical protein
+GBJEOBOH_01383	gene	234				
+GBJEOBOH_01383	CDS	234				hypothetical protein
+GBJEOBOH_01384	gene	156				
+GBJEOBOH_01384	CDS	156				hypothetical protein
+GBJEOBOH_01385	gene	1179	tyrS			
+GBJEOBOH_01385	CDS	1179	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+GBJEOBOH_01386	gene	552				
+GBJEOBOH_01386	CDS	552				hypothetical protein
+GBJEOBOH_01387	gene	564				
+GBJEOBOH_01387	CDS	564				hypothetical protein
+GBJEOBOH_01388	gene	1068	bpsA			
+GBJEOBOH_01388	CDS	1068	bpsA	2.5.1.128		N(4)-bis(aminopropyl)spermidine synthase
+GBJEOBOH_01389	gene	849	tyrC			
+GBJEOBOH_01389	CDS	849	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+GBJEOBOH_01390	gene	444	tolQ_1			
+GBJEOBOH_01390	CDS	444	tolQ_1			Tol-Pal system protein TolQ
+GBJEOBOH_01391	gene	951	rluD			
+GBJEOBOH_01391	CDS	951	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GBJEOBOH_01392	gene	846				
+GBJEOBOH_01392	CDS	846		3.4.-.-	COG1659	Maritimacin
+GBJEOBOH_01393	gene	2037	priA			
+GBJEOBOH_01393	CDS	2037	priA	3.6.4.-		primosomal protein N'
+GBJEOBOH_01394	gene	435				
+GBJEOBOH_01394	CDS	435				hypothetical protein
+GBJEOBOH_01395	gene	1095	ino1			
+GBJEOBOH_01395	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+GBJEOBOH_01396	gene	76				
+GBJEOBOH_01396	tRNA	76				tRNA-Lys(ctt)
+GBJEOBOH_01397	gene	77				
+GBJEOBOH_01397	tRNA	77				tRNA-Arg(acg)
+GBJEOBOH_01398	gene	2070	tkt			
+GBJEOBOH_01398	CDS	2070	tkt	2.2.1.1		Transketolase
+GBJEOBOH_01399	gene	76				
+GBJEOBOH_01399	tRNA	76				tRNA-His(gtg)
+GBJEOBOH_01400	gene	285	rpsT			
+GBJEOBOH_01400	CDS	285	rpsT		COG0268	30S ribosomal protein S20
+GBJEOBOH_01401	gene	774	rnhC			
+GBJEOBOH_01401	CDS	774	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+GBJEOBOH_01402	gene	168				
+GBJEOBOH_01402	CDS	168				hypothetical protein
+GBJEOBOH_01403	gene	1392				
+GBJEOBOH_01403	CDS	1392		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+GBJEOBOH_01404	gene	870	leuS_2			
+GBJEOBOH_01404	CDS	870	leuS_2	6.1.1.4	COG0495	Leucine--tRNA ligase
+GBJEOBOH_01405	gene	747				
+GBJEOBOH_01405	CDS	747				hypothetical protein
+GBJEOBOH_01406	gene	849	lpxC			
+GBJEOBOH_01406	CDS	849	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+GBJEOBOH_01407	gene	741	radA_2			
+GBJEOBOH_01407	CDS	741	radA_2			DNA repair protein RadA
+GBJEOBOH_01408	gene	297	rpmA			
+GBJEOBOH_01408	CDS	297	rpmA		COG0211	50S ribosomal protein L27
+GBJEOBOH_01409	gene	2394	glnE_1			
+GBJEOBOH_01409	CDS	2394	glnE_1		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+GBJEOBOH_01410	gene	465	glnE_2			
+GBJEOBOH_01410	CDS	465	glnE_2	2.7.7.42		Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+GBJEOBOH_01411	gene	711				
+GBJEOBOH_01411	CDS	711				hypothetical protein
+GBJEOBOH_01412	gene	528	infC			
+GBJEOBOH_01412	CDS	528	infC			Translation initiation factor IF-3
+GBJEOBOH_01413	gene	396				
+GBJEOBOH_01413	CDS	396				hypothetical protein
+GBJEOBOH_01414	gene	117				
+GBJEOBOH_01414	CDS	117				hypothetical protein
+GBJEOBOH_01415	gene	846	ttdA			
+GBJEOBOH_01415	CDS	846	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+GBJEOBOH_01416	gene	1008	mdh_2			
+GBJEOBOH_01416	CDS	1008	mdh_2	1.1.1.37	COG0039	Malate dehydrogenase
+GBJEOBOH_01417	gene	1980	leuC			
+GBJEOBOH_01417	CDS	1980	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+GBJEOBOH_01418	gene	774	trpC			
+GBJEOBOH_01418	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+GBJEOBOH_01419	gene	1500	murJ_2			
+GBJEOBOH_01419	CDS	1500	murJ_2		COG0728	Lipid II flippase MurJ
+GBJEOBOH_01420	gene	1146	fbp			
+GBJEOBOH_01420	CDS	1146	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+GBJEOBOH_01421	gene	384				
+GBJEOBOH_01421	CDS	384				hypothetical protein
+GBJEOBOH_01422	gene	1494	nifA			
+GBJEOBOH_01422	CDS	1494	nifA			Nif-specific regulatory protein
+GBJEOBOH_01423	gene	207				
+GBJEOBOH_01423	CDS	207				hypothetical protein
+GBJEOBOH_01424	gene	651				
+GBJEOBOH_01424	CDS	651				hypothetical protein
+GBJEOBOH_01425	gene	783	ymdB			
+GBJEOBOH_01425	CDS	783	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+GBJEOBOH_01426	gene	543				
+GBJEOBOH_01426	CDS	543				hypothetical protein
+GBJEOBOH_01427	gene	1080	mltC_2			
+GBJEOBOH_01427	CDS	1080	mltC_2	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+GBJEOBOH_01428	gene	393				
+GBJEOBOH_01428	CDS	393				hypothetical protein
+GBJEOBOH_01429	gene	981				
+GBJEOBOH_01429	CDS	981				hypothetical protein
+GBJEOBOH_01430	gene	882	rhdA_2			
+GBJEOBOH_01430	CDS	882	rhdA_2	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+GBJEOBOH_01431	gene	435				
+GBJEOBOH_01431	CDS	435				hypothetical protein
+GBJEOBOH_01432	gene	489				
+GBJEOBOH_01432	CDS	489				hypothetical protein
+GBJEOBOH_01433	gene	1779				
+GBJEOBOH_01433	CDS	1779				hypothetical protein
+GBJEOBOH_01434	gene	621				
+GBJEOBOH_01434	CDS	621				hypothetical protein
+GBJEOBOH_01435	gene	804	soxA2			
+GBJEOBOH_01435	CDS	804	soxA2	2.8.5.2		L-cysteine S-thiosulfotransferase subunit SoxA
+GBJEOBOH_01436	gene	333				
+GBJEOBOH_01436	CDS	333				hypothetical protein
+GBJEOBOH_01437	gene	453				
+GBJEOBOH_01437	CDS	453				hypothetical protein
+GBJEOBOH_01438	gene	408	dsbD_3			
+GBJEOBOH_01438	CDS	408	dsbD_3	1.8.1.8		Thiol:disulfide interchange protein DsbD
+GBJEOBOH_01439	gene	1308	hom			
+GBJEOBOH_01439	CDS	1308	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GBJEOBOH_01440	gene	732	zupT			
+GBJEOBOH_01440	CDS	732	zupT			Zinc transporter ZupT
+GBJEOBOH_01441	gene	552	engB			
+GBJEOBOH_01441	CDS	552	engB		COG0218	putative GTP-binding protein EngB
+GBJEOBOH_01442	gene	747	rsmA			
+GBJEOBOH_01442	CDS	747	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+GBJEOBOH_01443	gene	852	purU			
+GBJEOBOH_01443	CDS	852	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+GBJEOBOH_01444	gene	1278				
+GBJEOBOH_01444	CDS	1278				hypothetical protein
+GBJEOBOH_01445	gene	489				
+GBJEOBOH_01445	CDS	489				hypothetical protein
+GBJEOBOH_01446	gene	426	mglA_2			
+GBJEOBOH_01446	CDS	426	mglA_2		COG1100	Mutual gliding-motility protein MglA
+GBJEOBOH_01447	gene	1068				
+GBJEOBOH_01447	CDS	1068				hypothetical protein
+GBJEOBOH_01448	gene	900				
+GBJEOBOH_01448	CDS	900				hypothetical protein
+GBJEOBOH_01449	gene	237				
+GBJEOBOH_01449	CDS	237				hypothetical protein
+GBJEOBOH_01450	gene	1017	alr			
+GBJEOBOH_01450	CDS	1017	alr	5.1.1.1		Alanine racemase
+GBJEOBOH_01451	gene	693				
+GBJEOBOH_01451	CDS	693				hypothetical protein
+GBJEOBOH_01452	gene	426				
+GBJEOBOH_01452	CDS	426				hypothetical protein
+GBJEOBOH_01453	gene	408				
+GBJEOBOH_01453	CDS	408				hypothetical protein
+GBJEOBOH_01454	gene	483	rpsG_2			
+GBJEOBOH_01454	CDS	483	rpsG_2		COG0049	30S ribosomal protein S7
+GBJEOBOH_01455	gene	387	rpsL_2			
+GBJEOBOH_01455	CDS	387	rpsL_2			30S ribosomal protein S12
+GBJEOBOH_01456	gene	2238	purL			
+GBJEOBOH_01456	CDS	2238	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+GBJEOBOH_01457	gene	504	lspA			
+GBJEOBOH_01457	CDS	504	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+GBJEOBOH_01458	gene	840	dapF			
+GBJEOBOH_01458	CDS	840	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+GBJEOBOH_01459	gene	399	exbD			
+GBJEOBOH_01459	CDS	399	exbD		COG0848	Biopolymer transport protein ExbD
+GBJEOBOH_01460	gene	207	copZ			
+GBJEOBOH_01460	CDS	207	copZ			Copper chaperone CopZ
+GBJEOBOH_01461	gene	1122	prfB			
+GBJEOBOH_01461	CDS	1122	prfB			Peptide chain release factor 2
+GBJEOBOH_01462	gene	873				
+GBJEOBOH_01462	CDS	873				hypothetical protein
+GBJEOBOH_01463	gene	1035				
+GBJEOBOH_01463	CDS	1035				hypothetical protein
+GBJEOBOH_01464	gene	168				
+GBJEOBOH_01464	CDS	168				hypothetical protein
+GBJEOBOH_01465	gene	561				
+GBJEOBOH_01465	CDS	561				hypothetical protein
+GBJEOBOH_01466	gene	693				
+GBJEOBOH_01466	CDS	693				hypothetical protein
+GBJEOBOH_01467	gene	354				
+GBJEOBOH_01467	CDS	354				hypothetical protein
+GBJEOBOH_01468	gene	621				
+GBJEOBOH_01468	CDS	621				hypothetical protein
+GBJEOBOH_01469	gene	633				
+GBJEOBOH_01469	CDS	633				hypothetical protein
+GBJEOBOH_01470	gene	579	ilvH			
+GBJEOBOH_01470	CDS	579	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+GBJEOBOH_01471	gene	1878				
+GBJEOBOH_01471	CDS	1878				hypothetical protein
+GBJEOBOH_01472	gene	201				
+GBJEOBOH_01472	CDS	201				hypothetical protein
+GBJEOBOH_01473	gene	258				
+GBJEOBOH_01473	CDS	258				hypothetical protein
+GBJEOBOH_01474	gene	654				
+GBJEOBOH_01474	CDS	654				hypothetical protein
+GBJEOBOH_01475	gene	459				
+GBJEOBOH_01475	CDS	459				hypothetical protein
+GBJEOBOH_01476	gene	1422	ruvB			
+GBJEOBOH_01476	CDS	1422	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GBJEOBOH_01477	gene	264				
+GBJEOBOH_01477	CDS	264				hypothetical protein
+GBJEOBOH_01478	gene	1992	uvrB			
+GBJEOBOH_01478	CDS	1992	uvrB			UvrABC system protein B
+GBJEOBOH_01479	gene	351				
+GBJEOBOH_01479	CDS	351			COG0316	Protein
+GBJEOBOH_01480	gene	117				
+GBJEOBOH_01480	CDS	117				hypothetical protein
+GBJEOBOH_01481	gene	630				
+GBJEOBOH_01481	CDS	630				hypothetical protein
+GBJEOBOH_01482	gene	1449	flgE			
+GBJEOBOH_01482	CDS	1449	flgE		COG1749	Flagellar hook protein FlgE
+GBJEOBOH_01483	gene	486				
+GBJEOBOH_01483	CDS	486				hypothetical protein
+GBJEOBOH_01484	gene	1029				
+GBJEOBOH_01484	CDS	1029				hypothetical protein
+GBJEOBOH_01485	gene	1158				
+GBJEOBOH_01485	CDS	1158				hypothetical protein
+GBJEOBOH_01486	gene	1368				
+GBJEOBOH_01486	CDS	1368				hypothetical protein
+GBJEOBOH_01487	gene	324				
+GBJEOBOH_01487	CDS	324				hypothetical protein
+GBJEOBOH_01488	gene	366				
+GBJEOBOH_01488	CDS	366				hypothetical protein
+GBJEOBOH_01489	gene	1023	asd2			
+GBJEOBOH_01489	CDS	1023	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+GBJEOBOH_01490	gene	414	yccU			
+GBJEOBOH_01490	CDS	414	yccU		COG1832	putative protein YccU
+GBJEOBOH_01491	gene	2955	secA			
+GBJEOBOH_01491	CDS	2955	secA		COG0653	Protein translocase subunit SecA
+GBJEOBOH_01492	gene	1326	pmbA			
+GBJEOBOH_01492	CDS	1326	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+GBJEOBOH_01493	gene	606				
+GBJEOBOH_01493	CDS	606				hypothetical protein
+GBJEOBOH_01494	gene	1224				
+GBJEOBOH_01494	CDS	1224				hypothetical protein
+GBJEOBOH_01495	gene	885	rsmH			
+GBJEOBOH_01495	CDS	885	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+GBJEOBOH_01496	gene	435	rplM			
+GBJEOBOH_01496	CDS	435	rplM		COG0102	50S ribosomal protein L13
+GBJEOBOH_01497	gene	444	rpsI			
+GBJEOBOH_01497	CDS	444	rpsI		COG0103	30S ribosomal protein S9
+GBJEOBOH_01498	gene	1023	argC			
+GBJEOBOH_01498	CDS	1023	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+GBJEOBOH_01499	gene	1092	dnaN			
+GBJEOBOH_01499	CDS	1092	dnaN			Beta sliding clamp
+GBJEOBOH_01500	gene	222				
+GBJEOBOH_01500	CDS	222				hypothetical protein
+GBJEOBOH_01501	gene	753				
+GBJEOBOH_01501	CDS	753				hypothetical protein
+GBJEOBOH_01502	gene	1140	cpdA_2			
+GBJEOBOH_01502	CDS	1140	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GBJEOBOH_01503	gene	954	tilS			
+GBJEOBOH_01503	CDS	954	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+GBJEOBOH_01504	gene	1047	sucD_2			
+GBJEOBOH_01504	CDS	1047	sucD_2	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GBJEOBOH_01505	gene	969	nadA			
+GBJEOBOH_01505	CDS	969	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GBJEOBOH_01506	gene	723				
+GBJEOBOH_01506	CDS	723		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+GBJEOBOH_01507	gene	1107				
+GBJEOBOH_01507	CDS	1107				hypothetical protein
+GBJEOBOH_01508	gene	918	ilvE_2			
+GBJEOBOH_01508	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GBJEOBOH_01509	gene	576				
+GBJEOBOH_01509	CDS	576				hypothetical protein
+GBJEOBOH_01510	gene	1029	lapB			
+GBJEOBOH_01510	CDS	1029	lapB			Lipopolysaccharide assembly protein B
+GBJEOBOH_01511	gene	876	folD			
+GBJEOBOH_01511	CDS	876	folD		COG0190	Bifunctional protein FolD protein
+GBJEOBOH_01512	gene	969	rgtE			
+GBJEOBOH_01512	CDS	969	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+GBJEOBOH_01513	gene	507				
+GBJEOBOH_01513	CDS	507				hypothetical protein
+GBJEOBOH_01514	gene	408				
+GBJEOBOH_01514	CDS	408				hypothetical protein
+GBJEOBOH_01515	gene	1449	gcvPB			
+GBJEOBOH_01515	CDS	1449	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+GBJEOBOH_01516	gene	1602	serA			
+GBJEOBOH_01516	CDS	1602	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+GBJEOBOH_01517	gene	546	pyrE			
+GBJEOBOH_01517	CDS	546	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GBJEOBOH_01518	gene	1113	hflX			
+GBJEOBOH_01518	CDS	1113	hflX		COG2262	GTPase HflX
+GBJEOBOH_01519	gene	216	hfq_2			
+GBJEOBOH_01519	CDS	216	hfq_2		COG1923	RNA-binding protein Hfq
+GBJEOBOH_01520	gene	930				
+GBJEOBOH_01520	CDS	930				hypothetical protein
+GBJEOBOH_01521	gene	1116				
+GBJEOBOH_01521	CDS	1116				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+GBJEOBOH_01522	gene	1458				
+GBJEOBOH_01522	CDS	1458				hypothetical protein
+GBJEOBOH_01523	gene	306	czrA			
+GBJEOBOH_01523	CDS	306	czrA		COG0640	HTH-type transcriptional repressor CzrA
+GBJEOBOH_01524	gene	1038				
+GBJEOBOH_01524	CDS	1038				hypothetical protein
+GBJEOBOH_01525	gene	1302	der			
+GBJEOBOH_01525	CDS	1302	der		COG1160	GTPase Der
+GBJEOBOH_01526	gene	720	fliP			
+GBJEOBOH_01526	CDS	720	fliP		COG1338	Flagellar biosynthetic protein FliP
+GBJEOBOH_01527	gene	267				
+GBJEOBOH_01527	CDS	267				hypothetical protein
+GBJEOBOH_01528	gene	996	aroB'			
+GBJEOBOH_01528	CDS	996	aroB'	1.4.1.24		3-dehydroquinate synthase
+GBJEOBOH_01529	gene	891				
+GBJEOBOH_01529	CDS	891				hypothetical protein
+GBJEOBOH_01530	gene	690	coaX			
+GBJEOBOH_01530	CDS	690	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+GBJEOBOH_01531	gene	1566	apc4			
+GBJEOBOH_01531	CDS	1566	apc4	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+GBJEOBOH_01532	gene	75				
+GBJEOBOH_01532	tRNA	75				tRNA-Thr(tgt)
+GBJEOBOH_01533	gene	85				
+GBJEOBOH_01533	tRNA	85				tRNA-Tyr(gta)
+GBJEOBOH_01534	gene	76				
+GBJEOBOH_01534	tRNA	76				tRNA-Gly(tcc)
+GBJEOBOH_01535	gene	76				
+GBJEOBOH_01535	tRNA	76				tRNA-Thr(ggt)
+GBJEOBOH_01536	gene	1218	tuf_3			
+GBJEOBOH_01536	CDS	1218	tuf_3		COG0050	Elongation factor Tu
+GBJEOBOH_01537	gene	153	rpmG			
+GBJEOBOH_01537	CDS	153	rpmG		COG0267	50S ribosomal protein L33
+GBJEOBOH_01538	gene	76				
+GBJEOBOH_01538	tRNA	76				tRNA-Trp(cca)
+GBJEOBOH_01539	gene	198	secE			
+GBJEOBOH_01539	CDS	198	secE		COG0690	Protein translocase subunit SecE
+GBJEOBOH_01540	gene	747	nusG			
+GBJEOBOH_01540	CDS	747	nusG		COG0250	Transcription termination/antitermination protein NusG
+GBJEOBOH_01541	gene	438	rplK			
+GBJEOBOH_01541	CDS	438	rplK		COG0080	50S ribosomal protein L11
+GBJEOBOH_01542	gene	729	rplA			
+GBJEOBOH_01542	CDS	729	rplA		COG0081	50S ribosomal protein L1
+GBJEOBOH_01543	gene	600	rplJ			
+GBJEOBOH_01543	CDS	600	rplJ		COG0244	50S ribosomal protein L10
+GBJEOBOH_01544	gene	387	rplL			
+GBJEOBOH_01544	CDS	387	rplL			50S ribosomal protein L7/L12
+GBJEOBOH_01545	gene	4407	rpoB			
+GBJEOBOH_01545	CDS	4407	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+GBJEOBOH_01546	gene	4725	rpoC			
+GBJEOBOH_01546	CDS	4725	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GBJEOBOH_01547	gene	1683				
+GBJEOBOH_01547	CDS	1683				hypothetical protein
+GBJEOBOH_01548	gene	1038				
+GBJEOBOH_01548	CDS	1038		6.3.1.20		Lipoate--protein ligase 2
+GBJEOBOH_01549	gene	369				
+GBJEOBOH_01549	CDS	369				hypothetical protein
+GBJEOBOH_01550	gene	465				
+GBJEOBOH_01550	CDS	465				hypothetical protein
+GBJEOBOH_01551	gene	591	rnhB			
+GBJEOBOH_01551	CDS	591	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GBJEOBOH_01552	gene	774				
+GBJEOBOH_01552	CDS	774				hypothetical protein
+GBJEOBOH_01553	gene	78				
+GBJEOBOH_01553	tRNA	78				tRNA-Asp(gtc)
+GBJEOBOH_01554	gene	1119				
+GBJEOBOH_01554	CDS	1119				hypothetical protein
+GBJEOBOH_01555	gene	483				
+GBJEOBOH_01555	CDS	483				hypothetical protein
+GBJEOBOH_01556	gene	768	thiD			
+GBJEOBOH_01556	CDS	768	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+GBJEOBOH_01557	gene	777	fliR			
+GBJEOBOH_01557	CDS	777	fliR		COG1684	Flagellar biosynthetic protein FliR
+GBJEOBOH_01558	gene	270	fliQ			
+GBJEOBOH_01558	CDS	270	fliQ		COG1987	Flagellar biosynthetic protein FliQ
+	repeat_region	297				
+GBJEOBOH_01559	gene	1521	purH			
+GBJEOBOH_01559	CDS	1521	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+GBJEOBOH_01560	gene	1290				
+GBJEOBOH_01560	CDS	1290		3.4.24.-	COG0750	Putative zinc metalloprotease
+GBJEOBOH_01561	gene	405				
+GBJEOBOH_01561	CDS	405				hypothetical protein
+GBJEOBOH_01562	gene	606				
+GBJEOBOH_01562	CDS	606				hypothetical protein
+GBJEOBOH_01563	gene	1725	polA_2			
+GBJEOBOH_01563	CDS	1725	polA_2	2.7.7.7	COG0258	DNA polymerase I
+GBJEOBOH_01564	gene	618	hisI			
+GBJEOBOH_01564	CDS	618	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+GBJEOBOH_01565	gene	228				
+GBJEOBOH_01565	CDS	228				hypothetical protein
+GBJEOBOH_01566	gene	1185				
+GBJEOBOH_01566	CDS	1185		2.6.1.1		Aspartate aminotransferase
+GBJEOBOH_01567	gene	1701	epsE_2			
+GBJEOBOH_01567	CDS	1701	epsE_2		COG2804	Type II secretion system protein E
+GBJEOBOH_01568	gene	798	panB			
+GBJEOBOH_01568	CDS	798	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+GBJEOBOH_01569	gene	345				
+GBJEOBOH_01569	CDS	345				putative protein
+GBJEOBOH_01570	gene	552	mtnD			
+GBJEOBOH_01570	CDS	552	mtnD	1.13.11.54	COG1791	Acireductone dioxygenase
+GBJEOBOH_01571	gene	672	mtnC			
+GBJEOBOH_01571	CDS	672	mtnC	3.1.3.77		Enolase-phosphatase E1
+GBJEOBOH_01572	gene	366				
+GBJEOBOH_01572	CDS	366				hypothetical protein
+GBJEOBOH_01573	gene	627	mtnB_2			
+GBJEOBOH_01573	CDS	627	mtnB_2	4.2.1.109	COG0235	Methylthioribulose-1-phosphate dehydratase
+GBJEOBOH_01574	gene	285				
+GBJEOBOH_01574	CDS	285				hypothetical protein
+GBJEOBOH_01575	gene	927	mnmC			
+GBJEOBOH_01575	CDS	927	mnmC	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+GBJEOBOH_01576	gene	330				
+GBJEOBOH_01576	CDS	330				hypothetical protein
+GBJEOBOH_01577	gene	645				
+GBJEOBOH_01577	CDS	645				hypothetical protein
+GBJEOBOH_01578	gene	795	suhB			
+GBJEOBOH_01578	CDS	795	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+GBJEOBOH_01579	gene	591	coaE			
+GBJEOBOH_01579	CDS	591	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+GBJEOBOH_01580	gene	726				
+GBJEOBOH_01580	CDS	726				hypothetical protein
+GBJEOBOH_01581	gene	402				
+GBJEOBOH_01581	CDS	402				hypothetical protein
+GBJEOBOH_01582	gene	615	tolQ_2			
+GBJEOBOH_01582	CDS	615	tolQ_2		COG0811	Tol-Pal system protein TolQ
+GBJEOBOH_01583	gene	2562	cpoB_2			
+GBJEOBOH_01583	CDS	2562	cpoB_2			Cell division coordinator CpoB
+GBJEOBOH_01584	gene	639	pspA			
+GBJEOBOH_01584	CDS	639	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GBJEOBOH_01585	gene	909	htpX			
+GBJEOBOH_01585	CDS	909	htpX	3.4.24.-	COG0501	Protease HtpX 
+GBJEOBOH_01586	gene	648				
+GBJEOBOH_01586	CDS	648				hypothetical protein
+GBJEOBOH_01587	gene	906	era			
+GBJEOBOH_01587	CDS	906	era		COG1159	GTPase Era
+GBJEOBOH_01588	gene	690	cinA			
+GBJEOBOH_01588	CDS	690	cinA		COG1058	CinA-like protein
+GBJEOBOH_01589	gene	696				
+GBJEOBOH_01589	CDS	696				hypothetical protein
+GBJEOBOH_01590	gene	1557	flaA			
+GBJEOBOH_01590	CDS	1557	flaA		COG1344	Flagellin
+GBJEOBOH_01591	gene	366				
+GBJEOBOH_01591	CDS	366				hypothetical protein
+GBJEOBOH_01592	gene	1326				
+GBJEOBOH_01592	CDS	1326				hypothetical protein
+GBJEOBOH_01593	gene	375				
+GBJEOBOH_01593	CDS	375				hypothetical protein
+GBJEOBOH_01594	gene	315				
+GBJEOBOH_01594	CDS	315				hypothetical protein
+GBJEOBOH_01595	gene	462	ygfZ			
+GBJEOBOH_01595	CDS	462	ygfZ			tRNA-modifying protein YgfZ
+GBJEOBOH_01596	gene	450				
+GBJEOBOH_01596	CDS	450				hypothetical protein
+GBJEOBOH_01597	gene	510				
+GBJEOBOH_01597	CDS	510				hypothetical protein
+GBJEOBOH_01598	gene	825	rpsB			
+GBJEOBOH_01598	CDS	825	rpsB		COG0052	30S ribosomal protein S2
+GBJEOBOH_01599	gene	978	hslO			
+GBJEOBOH_01599	CDS	978	hslO		COG1281	33 kDa chaperonin
+GBJEOBOH_01600	gene	2817				
+GBJEOBOH_01600	CDS	2817				hypothetical protein
+GBJEOBOH_01601	gene	414				
+GBJEOBOH_01601	CDS	414				hypothetical protein
+GBJEOBOH_01602	gene	1053	flhB_2			
+GBJEOBOH_01602	CDS	1053	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+GBJEOBOH_01603	gene	1305	hemY			
+GBJEOBOH_01603	CDS	1305	hemY	1.3.3.4	COG1232	Protoporphyrinogen oxidase
+	repeat_region	161				
+GBJEOBOH_01604	gene	1014	pstS			
+GBJEOBOH_01604	CDS	1014	pstS		COG0226	Phosphate-binding protein PstS
+GBJEOBOH_01605	gene	963	pstC			
+GBJEOBOH_01605	CDS	963	pstC		COG0573	Phosphate transport system permease protein PstC
+GBJEOBOH_01606	gene	858	pstA			
+GBJEOBOH_01606	CDS	858	pstA		COG0581	Phosphate transport system permease protein PstA
+GBJEOBOH_01607	gene	432				
+GBJEOBOH_01607	CDS	432				hypothetical protein
+GBJEOBOH_01608	gene	1233	tldD			
+GBJEOBOH_01608	CDS	1233	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+GBJEOBOH_01609	gene	297				
+GBJEOBOH_01609	CDS	297			COG4274	Glutamine synthetase and cystathionine beta-lyase binding protein
+GBJEOBOH_01610	gene	1473	guaB			
+GBJEOBOH_01610	CDS	1473	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+GBJEOBOH_01611	gene	1095				
+GBJEOBOH_01611	CDS	1095				hypothetical protein
+GBJEOBOH_01612	gene	492	amhM			
+GBJEOBOH_01612	CDS	492	amhM		COG0490	Ammonium/H(+) antiporter subunit AmhM
+GBJEOBOH_01613	gene	1269	amhT			
+GBJEOBOH_01613	CDS	1269	amhT		COG0475	Ammonium/H(+) antiporter subunit AmhT
+GBJEOBOH_01614	gene	402				
+GBJEOBOH_01614	CDS	402				hypothetical protein
+GBJEOBOH_01615	gene	2412	infB			
+GBJEOBOH_01615	CDS	2412	infB			Translation initiation factor IF-2
+GBJEOBOH_01616	gene	660	queE			
+GBJEOBOH_01616	CDS	660	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+GBJEOBOH_01617	gene	651				
+GBJEOBOH_01617	CDS	651				hypothetical protein
+GBJEOBOH_01618	gene	1437	atpD_2			
+GBJEOBOH_01618	CDS	1437	atpD_2	7.1.2.2	COG0055	ATP synthase subunit beta
+GBJEOBOH_01619	gene	876	atpG_2			
+GBJEOBOH_01619	CDS	876	atpG_2		COG0224	ATP synthase gamma chain
+GBJEOBOH_01620	gene	450	rplI			
+GBJEOBOH_01620	CDS	450	rplI		COG0359	50S ribosomal protein L9
+GBJEOBOH_01621	gene	939	ccsA_2			
+GBJEOBOH_01621	CDS	939	ccsA_2			Cytochrome c biogenesis protein CcsA
+GBJEOBOH_01622	gene	1179	cdgJ_2			
+GBJEOBOH_01622	CDS	1179	cdgJ_2	3.1.4.52	COG3434	Cyclic di-GMP phosphodiesterase CdgJ
+GBJEOBOH_01623	gene	1233	fpgS			
+GBJEOBOH_01623	CDS	1233	fpgS	6.3.2.17		Folylpolyglutamate synthase
+GBJEOBOH_01624	gene	2118	rnr			
+GBJEOBOH_01624	CDS	2118	rnr	3.1.13.1	COG0557	Ribonuclease R
+GBJEOBOH_01625	gene	567	ycnK			
+GBJEOBOH_01625	CDS	567	ycnK		COG1349	HTH-type transcriptional repressor YcnK
+GBJEOBOH_01626	gene	726	flgG_2			
+GBJEOBOH_01626	CDS	726	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+GBJEOBOH_01627	gene	2379	recG			
+GBJEOBOH_01627	CDS	2379	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+GBJEOBOH_01628	gene	3351				
+GBJEOBOH_01628	CDS	3351				hypothetical protein
+GBJEOBOH_01629	gene	636				
+GBJEOBOH_01629	CDS	636				hypothetical protein
+GBJEOBOH_01630	gene	1458	recD2			
+GBJEOBOH_01630	CDS	1458	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+GBJEOBOH_01631	gene	636	plsC			
+GBJEOBOH_01631	CDS	636	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+GBJEOBOH_01632	gene	642				
+GBJEOBOH_01632	CDS	642				hypothetical protein
+GBJEOBOH_01633	gene	1365	dtd3			
+GBJEOBOH_01633	CDS	1365	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+GBJEOBOH_01634	gene	76				
+GBJEOBOH_01634	tRNA	76				tRNA-Val(tac)
+GBJEOBOH_01635	gene	78				
+GBJEOBOH_01635	tRNA	78				tRNA-Glu(ttc)
+GBJEOBOH_01636	gene	360				
+GBJEOBOH_01636	CDS	360				hypothetical protein
+GBJEOBOH_01637	gene	1431	gltD			
+GBJEOBOH_01637	CDS	1431	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+GBJEOBOH_01638	gene	471	ydjZ			
+GBJEOBOH_01638	CDS	471	ydjZ		COG0398	TVP38/TMEM64 family inner membrane protein YdjZ
+GBJEOBOH_01639	gene	339				
+GBJEOBOH_01639	CDS	339				hypothetical protein
+GBJEOBOH_01640	gene	819	argB			
+GBJEOBOH_01640	CDS	819	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+GBJEOBOH_01641	gene	1032	obg			
+GBJEOBOH_01641	CDS	1032	obg	3.6.5.-	COG0536	GTPase Obg
+GBJEOBOH_01642	gene	1176	rlmI_2			
+GBJEOBOH_01642	CDS	1176	rlmI_2	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+GBJEOBOH_01643	gene	1158	fieF			
+GBJEOBOH_01643	CDS	1158	fieF			Ferrous-iron efflux pump FieF
+GBJEOBOH_01644	gene	1248	murD			
+GBJEOBOH_01644	CDS	1248	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GBJEOBOH_01645	gene	615	trpF			
+GBJEOBOH_01645	CDS	615	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+GBJEOBOH_01646	gene	1542				
+GBJEOBOH_01646	CDS	1542				hypothetical protein
+GBJEOBOH_01647	gene	852				
+GBJEOBOH_01647	CDS	852				hypothetical protein
+GBJEOBOH_01648	gene	180				
+GBJEOBOH_01648	CDS	180				hypothetical protein
+GBJEOBOH_01649	gene	141				
+GBJEOBOH_01649	CDS	141				hypothetical protein
+GBJEOBOH_01650	gene	1614	ccs1			
+GBJEOBOH_01650	CDS	1614	ccs1			Cytochrome c biogenesis protein Ccs1
+GBJEOBOH_01651	gene	1065	hisC			
+GBJEOBOH_01651	CDS	1065	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+GBJEOBOH_01652	gene	255				
+GBJEOBOH_01652	CDS	255				hypothetical protein
+GBJEOBOH_01653	gene	504				
+GBJEOBOH_01653	CDS	504				hypothetical protein
+GBJEOBOH_01654	gene	357				
+GBJEOBOH_01654	CDS	357				hypothetical protein
+GBJEOBOH_01655	gene	552				
+GBJEOBOH_01655	CDS	552				hypothetical protein
+GBJEOBOH_01656	gene	474				
+GBJEOBOH_01656	CDS	474				hypothetical protein
+GBJEOBOH_01657	gene	1563	leuA			
+GBJEOBOH_01657	CDS	1563	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+GBJEOBOH_01658	gene	270				
+GBJEOBOH_01658	CDS	270				hypothetical protein
+GBJEOBOH_01659	gene	717				
+GBJEOBOH_01659	CDS	717				hypothetical protein
+GBJEOBOH_01660	gene	243				
+GBJEOBOH_01660	CDS	243				hypothetical protein
+GBJEOBOH_01661	gene	1245	alaC			
+GBJEOBOH_01661	CDS	1245	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+GBJEOBOH_01662	gene	363	dksA_2			
+GBJEOBOH_01662	CDS	363	dksA_2			RNA polymerase-binding transcription factor DksA
+GBJEOBOH_01663	gene	558	fldA			
+GBJEOBOH_01663	CDS	558	fldA		COG0655	Flavodoxin
+GBJEOBOH_01664	gene	840				
+GBJEOBOH_01664	CDS	840			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+GBJEOBOH_01665	gene	1473	pepA			
+GBJEOBOH_01665	CDS	1473	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+GBJEOBOH_01666	gene	1674	carB_2			
+GBJEOBOH_01666	CDS	1674	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+GBJEOBOH_01667	gene	735	prmA			
+GBJEOBOH_01667	CDS	735	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+GBJEOBOH_01668	gene	411	acsA_1			
+GBJEOBOH_01668	CDS	411	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GBJEOBOH_01669	gene	1533	acsA_2			
+GBJEOBOH_01669	CDS	1533	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GBJEOBOH_01670	gene	108				
+GBJEOBOH_01670	CDS	108				hypothetical protein
+GBJEOBOH_01671	gene	1398	actP			
+GBJEOBOH_01671	CDS	1398	actP		COG4147	Cation/acetate symporter ActP
+GBJEOBOH_01672	gene	1860				
+GBJEOBOH_01672	CDS	1860				hypothetical protein
+GBJEOBOH_01673	gene	633	polC_2			
+GBJEOBOH_01673	CDS	633	polC_2	2.7.7.7		DNA polymerase III PolC-type
+GBJEOBOH_01674	gene	993	hemB			
+GBJEOBOH_01674	CDS	993	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+GBJEOBOH_01675	gene	933	hdaH			
+GBJEOBOH_01675	CDS	933	hdaH	3.5.1.-		Histone deacetylase-like amidohydrolase
+GBJEOBOH_01676	gene	294				
+GBJEOBOH_01676	CDS	294				hypothetical protein
+GBJEOBOH_01677	gene	777				
+GBJEOBOH_01677	CDS	777				hypothetical protein
+GBJEOBOH_01678	gene	1371	MRI1			
+GBJEOBOH_01678	CDS	1371	MRI1	5.3.1.23		Methylthioribose-1-phosphate isomerase
+GBJEOBOH_01679	gene	1107	mshA_2			
+GBJEOBOH_01679	CDS	1107	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GBJEOBOH_01680	gene	651	purC			
+GBJEOBOH_01680	CDS	651	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GBJEOBOH_01681	gene	522				
+GBJEOBOH_01681	CDS	522				hypothetical protein
+GBJEOBOH_01682	gene	921	thiL			
+GBJEOBOH_01682	CDS	921	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+GBJEOBOH_01683	gene	1269				
+GBJEOBOH_01683	CDS	1269				hypothetical protein
+GBJEOBOH_01684	gene	918	oppF			
+GBJEOBOH_01684	CDS	918	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+GBJEOBOH_01685	gene	1422	hemN			
+GBJEOBOH_01685	CDS	1422	hemN	1.3.98.3		Oxygen-independent coproporphyrinogen III oxidase
+GBJEOBOH_01686	gene	126				
+GBJEOBOH_01686	CDS	126				hypothetical protein
+GBJEOBOH_01687	gene	198				
+GBJEOBOH_01687	CDS	198				hypothetical protein
+GBJEOBOH_01688	gene	1701	uvrC			
+GBJEOBOH_01688	CDS	1701	uvrC		COG0322	UvrABC system protein C
+GBJEOBOH_01689	gene	423				
+GBJEOBOH_01689	CDS	423				Protein archease
+GBJEOBOH_01690	gene	255				
+GBJEOBOH_01690	CDS	255				hypothetical protein
+GBJEOBOH_01691	gene	894	panS			
+GBJEOBOH_01691	CDS	894	panS		COG0385	Pantothenate precursors transporter PanS
+GBJEOBOH_01692	gene	129				
+GBJEOBOH_01692	CDS	129				hypothetical protein
+GBJEOBOH_01693	gene	354				
+GBJEOBOH_01693	CDS	354				hypothetical protein
+GBJEOBOH_01694	gene	894	fmt_2			
+GBJEOBOH_01694	CDS	894	fmt_2	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+GBJEOBOH_01695	gene	849	panC			
+GBJEOBOH_01695	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+GBJEOBOH_01696	gene	345				
+GBJEOBOH_01696	CDS	345				hypothetical protein
+GBJEOBOH_01697	gene	636	gloC			
+GBJEOBOH_01697	CDS	636	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+GBJEOBOH_01698	gene	762	proV			
+GBJEOBOH_01698	CDS	762	proV		COG4175	Glycine betaine/proline betaine transport system ATP-binding protein ProV
+GBJEOBOH_01699	gene	624	menH			
+GBJEOBOH_01699	CDS	624	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+GBJEOBOH_01700	gene	654	COQ5_3			
+GBJEOBOH_01700	CDS	654	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GBJEOBOH_01701	gene	306				
+GBJEOBOH_01701	CDS	306				hypothetical protein
+GBJEOBOH_01702	gene	1995	glyS			
+GBJEOBOH_01702	CDS	1995	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+GBJEOBOH_01703	gene	2571	ppsA			
+GBJEOBOH_01703	CDS	2571	ppsA	2.7.9.2		Phosphoenolpyruvate synthase
+GBJEOBOH_01704	gene	897				
+GBJEOBOH_01704	CDS	897				hypothetical protein
+GBJEOBOH_01705	gene	651				
+GBJEOBOH_01705	CDS	651				hypothetical protein
+GBJEOBOH_01706	gene	2079				
+GBJEOBOH_01706	CDS	2079				hypothetical protein
+GBJEOBOH_01707	gene	597	pal			
+GBJEOBOH_01707	CDS	597	pal			Peptidoglycan-associated lipoprotein
+GBJEOBOH_01708	gene	76				
+GBJEOBOH_01708	tRNA	76				tRNA-Lys(ttt)
+GBJEOBOH_01709	gene	76				
+GBJEOBOH_01709	tRNA	76				tRNA-Ala(ggc)
+GBJEOBOH_01710	gene	285	gatC			
+GBJEOBOH_01710	CDS	285	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+GBJEOBOH_01711	gene	1047	recA			
+GBJEOBOH_01711	CDS	1047	recA			Protein RecA
+GBJEOBOH_01712	gene	1113	pilT_2			
+GBJEOBOH_01712	CDS	1113	pilT_2		COG2805	Twitching mobility protein
+GBJEOBOH_01713	gene	669	cmk			
+GBJEOBOH_01713	CDS	669	cmk	2.7.4.25		Cytidylate kinase
+GBJEOBOH_01714	gene	537	pgsA			
+GBJEOBOH_01714	CDS	537	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GBJEOBOH_01715	gene	1617	recJ			
+GBJEOBOH_01715	CDS	1617	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+GBJEOBOH_01716	gene	483				
+GBJEOBOH_01716	CDS	483				hypothetical protein
+GBJEOBOH_01717	gene	1539				
+GBJEOBOH_01717	CDS	1539		2.7.7.-	COG0617	CC-adding tRNA nucleotidyltransferase
+GBJEOBOH_01718	gene	507				
+GBJEOBOH_01718	CDS	507		2.7.7.53	COG0537	AP-4-A phosphorylase
+GBJEOBOH_01719	gene	756	oppD			
+GBJEOBOH_01719	CDS	756	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+GBJEOBOH_01720	gene	627	upp			
+GBJEOBOH_01720	CDS	627	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+GBJEOBOH_01721	gene	570				
+GBJEOBOH_01721	CDS	570				hypothetical protein
+GBJEOBOH_01722	gene	738				
+GBJEOBOH_01722	CDS	738				hypothetical protein
+GBJEOBOH_01723	gene	873	mntA			
+GBJEOBOH_01723	CDS	873	mntA		COG0803	Manganese-binding lipoprotein MntA
+GBJEOBOH_01724	gene	1410				
+GBJEOBOH_01724	CDS	1410				hypothetical protein
+GBJEOBOH_01725	gene	264				
+GBJEOBOH_01725	CDS	264				hypothetical protein
+GBJEOBOH_01726	gene	720	cobB			
+GBJEOBOH_01726	CDS	720	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+GBJEOBOH_01727	gene	492	kdsC			
+GBJEOBOH_01727	CDS	492	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+GBJEOBOH_01728	gene	498				
+GBJEOBOH_01728	CDS	498				hypothetical protein
+GBJEOBOH_01729	gene	435	lptA			
+GBJEOBOH_01729	CDS	435	lptA			Lipopolysaccharide export system protein LptA
+GBJEOBOH_01730	gene	303	ihfB			
+GBJEOBOH_01730	CDS	303	ihfB		COG0776	Integration host factor subunit beta
+GBJEOBOH_01731	gene	73				
+GBJEOBOH_01731	tRNA	73				tRNA-Pro(tgg)
+GBJEOBOH_01732	gene	957				
+GBJEOBOH_01732	CDS	957				hypothetical protein
+GBJEOBOH_01733	gene	507	aroK			
+GBJEOBOH_01733	CDS	507	aroK	2.7.1.71	COG0703	Shikimate kinase
+GBJEOBOH_01734	gene	804	thiG			
+GBJEOBOH_01734	CDS	804	thiG	2.8.1.10	COG2022	Thiazole synthase
+GBJEOBOH_01735	gene	210	thiS			
+GBJEOBOH_01735	CDS	210	thiS		COG2104	Sulfur carrier protein ThiS
+GBJEOBOH_01736	gene	561	slmA			
+GBJEOBOH_01736	CDS	561	slmA			Nucleoid occlusion factor SlmA
+GBJEOBOH_01737	gene	453	moaE			
+GBJEOBOH_01737	CDS	453	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+GBJEOBOH_01738	gene	963	moaA			
+GBJEOBOH_01738	CDS	963	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+GBJEOBOH_01739	gene	579	kstR2			
+GBJEOBOH_01739	CDS	579	kstR2			HTH-type transcriptional repressor KstR2
+GBJEOBOH_01740	gene	1293	sqr_2			
+GBJEOBOH_01740	CDS	1293	sqr_2	1.8.5.4	COG0446	Sulfide-quinone reductase
+GBJEOBOH_01741	gene	777				
+GBJEOBOH_01741	CDS	777				hypothetical protein
+GBJEOBOH_01742	gene	798				
+GBJEOBOH_01742	CDS	798				hypothetical protein
+GBJEOBOH_01743	gene	711	ctaC			
+GBJEOBOH_01743	CDS	711	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+GBJEOBOH_01744	gene	1449	ctaD			
+GBJEOBOH_01744	CDS	1449	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+GBJEOBOH_01745	gene	126				
+GBJEOBOH_01745	CDS	126				hypothetical protein
+GBJEOBOH_01746	gene	153				
+GBJEOBOH_01746	CDS	153				hypothetical protein
+GBJEOBOH_01747	gene	258	cbaB			
+GBJEOBOH_01747	CDS	258	cbaB	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+GBJEOBOH_01748	gene	1770	cbaA			
+GBJEOBOH_01748	CDS	1770	cbaA	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+GBJEOBOH_01749	gene	699				
+GBJEOBOH_01749	CDS	699				hypothetical protein
+GBJEOBOH_01750	gene	771	uppP			
+GBJEOBOH_01750	CDS	771	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+GBJEOBOH_01751	gene	756				
+GBJEOBOH_01751	CDS	756				hypothetical protein
+GBJEOBOH_01752	gene	480				
+GBJEOBOH_01752	CDS	480				hypothetical protein
+GBJEOBOH_01753	gene	369	groS			
+GBJEOBOH_01753	CDS	369	groS			10 kDa chaperonin
+GBJEOBOH_01754	gene	1638	groL1			
+GBJEOBOH_01754	CDS	1638	groL1		COG0459	60 kDa chaperonin 1
+GBJEOBOH_01755	gene	639	recO			
+GBJEOBOH_01755	CDS	639	recO			DNA repair protein RecO
+GBJEOBOH_01756	gene	1197				
+GBJEOBOH_01756	CDS	1197				hypothetical protein
+GBJEOBOH_01757	gene	141				
+GBJEOBOH_01757	CDS	141				hypothetical protein
+	repeat_region	228				
+GBJEOBOH_01758	gene	249				
+GBJEOBOH_01758	CDS	249				hypothetical protein
+GBJEOBOH_01759	gene	435	vapC			
+GBJEOBOH_01759	CDS	435	vapC	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+GBJEOBOH_01760	gene	525				
+GBJEOBOH_01760	CDS	525				hypothetical protein
+GBJEOBOH_01761	gene	921				
+GBJEOBOH_01761	CDS	921				hypothetical protein
+GBJEOBOH_01762	gene	222				
+GBJEOBOH_01762	CDS	222				hypothetical protein
+GBJEOBOH_01763	gene	954				
+GBJEOBOH_01763	CDS	954				hypothetical protein
+GBJEOBOH_01764	gene	273				
+GBJEOBOH_01764	CDS	273				hypothetical protein
+GBJEOBOH_01765	gene	105				
+GBJEOBOH_01765	CDS	105				hypothetical protein
+GBJEOBOH_01766	gene	243				
+GBJEOBOH_01766	CDS	243				hypothetical protein
+GBJEOBOH_01767	gene	123				
+GBJEOBOH_01767	CDS	123				hypothetical protein
+GBJEOBOH_01768	gene	948	xerC_2			
+GBJEOBOH_01768	CDS	948	xerC_2			Tyrosine recombinase XerC
+GBJEOBOH_01769	gene	270				
+GBJEOBOH_01769	CDS	270				hypothetical protein
+GBJEOBOH_01770	gene	243				
+GBJEOBOH_01770	CDS	243				hypothetical protein
+GBJEOBOH_01771	gene	585				
+GBJEOBOH_01771	CDS	585				hypothetical protein
+GBJEOBOH_01772	gene	222				
+GBJEOBOH_01772	CDS	222				hypothetical protein
+GBJEOBOH_01773	gene	957				
+GBJEOBOH_01773	CDS	957				hypothetical protein
+GBJEOBOH_01774	gene	297				
+GBJEOBOH_01774	CDS	297				hypothetical protein
+GBJEOBOH_01775	gene	333				
+GBJEOBOH_01775	CDS	333				hypothetical protein
+GBJEOBOH_01776	gene	234				
+GBJEOBOH_01776	CDS	234				hypothetical protein
+GBJEOBOH_01777	gene	1047				
+GBJEOBOH_01777	CDS	1047				hypothetical protein
+GBJEOBOH_01778	gene	606				
+GBJEOBOH_01778	CDS	606				hypothetical protein
+GBJEOBOH_01779	gene	117				
+GBJEOBOH_01779	CDS	117				hypothetical protein
+GBJEOBOH_01780	gene	108				
+GBJEOBOH_01780	CDS	108				hypothetical protein
+GBJEOBOH_01781	gene	117				
+GBJEOBOH_01781	CDS	117				hypothetical protein
+GBJEOBOH_01782	gene	273				
+GBJEOBOH_01782	CDS	273				hypothetical protein
+GBJEOBOH_01783	gene	324				
+GBJEOBOH_01783	CDS	324				hypothetical protein
+GBJEOBOH_01784	gene	207				
+GBJEOBOH_01784	CDS	207				hypothetical protein
+GBJEOBOH_01785	gene	957				
+GBJEOBOH_01785	CDS	957				hypothetical protein
+GBJEOBOH_01786	gene	597				
+GBJEOBOH_01786	CDS	597				hypothetical protein
+GBJEOBOH_01787	gene	519				
+GBJEOBOH_01787	CDS	519				hypothetical protein
+GBJEOBOH_01788	gene	816				
+GBJEOBOH_01788	CDS	816				hypothetical protein
+GBJEOBOH_01789	gene	105				
+GBJEOBOH_01789	CDS	105				hypothetical protein
+GBJEOBOH_01790	gene	270				
+GBJEOBOH_01790	CDS	270				hypothetical protein
+GBJEOBOH_01791	gene	243				
+GBJEOBOH_01791	CDS	243				hypothetical protein
+GBJEOBOH_01792	gene	195				
+GBJEOBOH_01792	CDS	195				hypothetical protein
+GBJEOBOH_01793	gene	249				
+GBJEOBOH_01793	CDS	249				hypothetical protein
+GBJEOBOH_01794	gene	150				
+GBJEOBOH_01794	CDS	150				hypothetical protein
+GBJEOBOH_01795	gene	528				
+GBJEOBOH_01795	CDS	528				hypothetical protein
+GBJEOBOH_01796	gene	249				
+GBJEOBOH_01796	CDS	249				hypothetical protein
+GBJEOBOH_01797	gene	156				
+GBJEOBOH_01797	CDS	156				hypothetical protein
+GBJEOBOH_01798	gene	225				
+GBJEOBOH_01798	CDS	225				hypothetical protein
+GBJEOBOH_01799	gene	117				
+GBJEOBOH_01799	CDS	117				hypothetical protein
+GBJEOBOH_01800	gene	165				
+GBJEOBOH_01800	CDS	165				hypothetical protein
+GBJEOBOH_01801	gene	582				
+GBJEOBOH_01801	CDS	582				hypothetical protein
+GBJEOBOH_01802	gene	780				
+GBJEOBOH_01802	CDS	780				hypothetical protein
+GBJEOBOH_01803	gene	444				
+GBJEOBOH_01803	CDS	444				hypothetical protein
+GBJEOBOH_01804	gene	771				
+GBJEOBOH_01804	CDS	771				hypothetical protein
+GBJEOBOH_01805	gene	813				
+GBJEOBOH_01805	CDS	813				hypothetical protein
+GBJEOBOH_01806	gene	591				
+GBJEOBOH_01806	CDS	591				hypothetical protein
+GBJEOBOH_01807	gene	219				
+GBJEOBOH_01807	CDS	219				hypothetical protein
+GBJEOBOH_01808	gene	957				
+GBJEOBOH_01808	CDS	957				hypothetical protein
+GBJEOBOH_01809	gene	204				
+GBJEOBOH_01809	CDS	204				hypothetical protein
+GBJEOBOH_01810	gene	642				
+GBJEOBOH_01810	CDS	642				Iron-sulfur cluster carrier protein
+GBJEOBOH_01811	gene	165				
+GBJEOBOH_01811	CDS	165				hypothetical protein
+GBJEOBOH_01812	gene	438				
+GBJEOBOH_01812	CDS	438				hypothetical protein
+GBJEOBOH_01813	gene	441				
+GBJEOBOH_01813	CDS	441				hypothetical protein
+GBJEOBOH_01814	gene	963				
+GBJEOBOH_01814	CDS	963				hypothetical protein
+GBJEOBOH_01815	gene	696				
+GBJEOBOH_01815	CDS	696				hypothetical protein
+GBJEOBOH_01816	gene	99				
+GBJEOBOH_01816	CDS	99				hypothetical protein
+GBJEOBOH_01817	gene	153				
+GBJEOBOH_01817	CDS	153				hypothetical protein
+GBJEOBOH_01818	gene	930				
+GBJEOBOH_01818	CDS	930			COG3039	IS5 family transposase ISAae1
+GBJEOBOH_01819	gene	249				
+GBJEOBOH_01819	CDS	249				hypothetical protein
+GBJEOBOH_01820	gene	195				
+GBJEOBOH_01820	CDS	195				hypothetical protein
+GBJEOBOH_01821	gene	243				
+GBJEOBOH_01821	CDS	243				hypothetical protein
+GBJEOBOH_01822	gene	144				
+GBJEOBOH_01822	CDS	144				hypothetical protein

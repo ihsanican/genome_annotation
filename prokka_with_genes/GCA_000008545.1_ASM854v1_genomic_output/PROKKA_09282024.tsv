@@ -1,0 +1,3830 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+	repeat_region	2694				
+PCMIPHHC_00001	gene	1953				
+PCMIPHHC_00001	CDS	1953				hypothetical protein
+PCMIPHHC_00002	gene	1038				
+PCMIPHHC_00002	CDS	1038		5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+PCMIPHHC_00003	gene	1317				
+PCMIPHHC_00003	CDS	1317				hypothetical protein
+PCMIPHHC_00004	gene	675	kynB			
+PCMIPHHC_00004	CDS	675	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+PCMIPHHC_00005	gene	429				
+PCMIPHHC_00005	CDS	429				hypothetical protein
+PCMIPHHC_00006	gene	1824	hndC			
+PCMIPHHC_00006	CDS	1824	hndC	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+PCMIPHHC_00007	gene	381	hndB			
+PCMIPHHC_00007	CDS	381	hndB	1.12.1.3	COG3411	NADP-reducing hydrogenase subunit HndB
+PCMIPHHC_00008	gene	489	hndA_1			
+PCMIPHHC_00008	CDS	489	hndA_1	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+PCMIPHHC_00009	gene	762				
+PCMIPHHC_00009	CDS	762				hypothetical protein
+PCMIPHHC_00010	gene	837				
+PCMIPHHC_00010	CDS	837				hypothetical protein
+PCMIPHHC_00011	gene	579	porC			
+PCMIPHHC_00011	CDS	579	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+PCMIPHHC_00012	gene	300	porD			
+PCMIPHHC_00012	CDS	300	porD		COG1144	Pyruvate synthase subunit PorD
+PCMIPHHC_00013	gene	1179	porA			
+PCMIPHHC_00013	CDS	1179	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+PCMIPHHC_00014	gene	975	porB			
+PCMIPHHC_00014	CDS	975	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+PCMIPHHC_00015	gene	771	bacC_1			
+PCMIPHHC_00015	CDS	771	bacC_1	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+PCMIPHHC_00016	gene	384	crcB			
+PCMIPHHC_00016	CDS	384	crcB			Putative fluoride ion transporter CrcB
+PCMIPHHC_00017	gene	309				
+PCMIPHHC_00017	CDS	309				hypothetical protein
+PCMIPHHC_00018	gene	1533	mutL			
+PCMIPHHC_00018	CDS	1533	mutL			DNA mismatch repair protein MutL
+PCMIPHHC_00019	gene	1971	mcp1_1			
+PCMIPHHC_00019	CDS	1971	mcp1_1		COG0840	Methyl-accepting chemotaxis protein 1
+PCMIPHHC_00020	gene	1926				
+PCMIPHHC_00020	CDS	1926				hypothetical protein
+PCMIPHHC_00021	gene	2166	bglB			
+PCMIPHHC_00021	CDS	2166	bglB	3.2.1.21	COG1472	Thermostable beta-glucosidase B
+PCMIPHHC_00022	gene	207				
+PCMIPHHC_00022	CDS	207				hypothetical protein
+PCMIPHHC_00023	gene	807	oppF_1			
+PCMIPHHC_00023	CDS	807	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_00024	gene	993	oppD_1			
+PCMIPHHC_00024	CDS	993	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_00025	gene	843	oppC_1			
+PCMIPHHC_00025	CDS	843	oppC_1		COG1173	Oligopeptide transport system permease protein OppC
+PCMIPHHC_00026	gene	1017	gsiC_1			
+PCMIPHHC_00026	CDS	1017	gsiC_1		COG0601	Glutathione transport system permease protein GsiC
+PCMIPHHC_00027	gene	1815	oppA			
+PCMIPHHC_00027	CDS	1815	oppA		COG4166	Periplasmic oligopeptide-binding protein
+PCMIPHHC_00028	gene	1146	nagC_1			
+PCMIPHHC_00028	CDS	1146	nagC_1		COG1940	N-acetylglucosamine repressor
+PCMIPHHC_00029	gene	1188				
+PCMIPHHC_00029	CDS	1188				hypothetical protein
+PCMIPHHC_00030	gene	1074	rsxB_1			
+PCMIPHHC_00030	CDS	1074	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PCMIPHHC_00031	gene	1341				
+PCMIPHHC_00031	CDS	1341				hypothetical protein
+PCMIPHHC_00032	gene	525				
+PCMIPHHC_00032	CDS	525		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+PCMIPHHC_00033	gene	1251				
+PCMIPHHC_00033	CDS	1251		3.1.4.-	COG2206	3'3'-cGAMP-specific phosphodiesterase 1
+PCMIPHHC_00034	gene	363	queD			
+PCMIPHHC_00034	CDS	363	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+PCMIPHHC_00035	gene	780	folE2			
+PCMIPHHC_00035	CDS	780	folE2	3.5.4.16	COG1469	GTP cyclohydrolase FolE2
+PCMIPHHC_00036	gene	837	folP			
+PCMIPHHC_00036	CDS	837	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+PCMIPHHC_00037	gene	390	sulD			
+PCMIPHHC_00037	CDS	390	sulD		COG0801	Bifunctional folate synthesis protein
+PCMIPHHC_00038	gene	1080	ypdF			
+PCMIPHHC_00038	CDS	1080	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+PCMIPHHC_00039	gene	1740				
+PCMIPHHC_00039	CDS	1740			COG1132	putative ABC transporter ATP-binding protein
+PCMIPHHC_00040	gene	549				
+PCMIPHHC_00040	CDS	549				hypothetical protein
+PCMIPHHC_00041	gene	219				
+PCMIPHHC_00041	CDS	219				hypothetical protein
+PCMIPHHC_00042	gene	1218				
+PCMIPHHC_00042	CDS	1218				hypothetical protein
+PCMIPHHC_00043	gene	705	ndhI_1			
+PCMIPHHC_00043	CDS	705	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+PCMIPHHC_00044	gene	465				
+PCMIPHHC_00044	CDS	465				hypothetical protein
+PCMIPHHC_00045	gene	2010	feoB			
+PCMIPHHC_00045	CDS	2010	feoB		COG0370	Fe(2+) transporter FeoB
+PCMIPHHC_00046	gene	333				
+PCMIPHHC_00046	CDS	333				hypothetical protein
+PCMIPHHC_00047	gene	1095				
+PCMIPHHC_00047	CDS	1095				hypothetical protein
+PCMIPHHC_00048	gene	591				
+PCMIPHHC_00048	CDS	591				hypothetical protein
+PCMIPHHC_00049	gene	2025	aguA			
+PCMIPHHC_00049	CDS	2025	aguA	3.2.1.131	COG3661	Xylan alpha-(1->2)-glucuronosidase
+PCMIPHHC_00050	gene	1974	agpA_1			
+PCMIPHHC_00050	CDS	1974	agpA_1			Periplasmic alpha-galactoside-binding protein
+PCMIPHHC_00051	gene	1017	btuD_1			
+PCMIPHHC_00051	CDS	1017	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PCMIPHHC_00052	gene	996	oppD_2			
+PCMIPHHC_00052	CDS	996	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_00053	gene	1089				
+PCMIPHHC_00053	CDS	1089				hypothetical protein
+PCMIPHHC_00054	gene	987	gsiC_2			
+PCMIPHHC_00054	CDS	987	gsiC_2		COG0601	Glutathione transport system permease protein GsiC
+PCMIPHHC_00055	gene	3180	xynA			
+PCMIPHHC_00055	CDS	3180	xynA	3.2.1.8	COG3693	Endo-1,4-beta-xylanase A
+PCMIPHHC_00056	gene	540				
+PCMIPHHC_00056	CDS	540				hypothetical protein
+PCMIPHHC_00057	gene	447				
+PCMIPHHC_00057	CDS	447				hypothetical protein
+PCMIPHHC_00058	gene	1356	uxaC			
+PCMIPHHC_00058	CDS	1356	uxaC	5.3.1.12	COG1904	Uronate isomerase
+PCMIPHHC_00059	gene	741	xynR			
+PCMIPHHC_00059	CDS	741	xynR		COG1414	HTH-type transcriptional regulator XynR
+PCMIPHHC_00060	gene	612	kdgA			
+PCMIPHHC_00060	CDS	612	kdgA		COG0800	KHG/KDPG aldolase
+PCMIPHHC_00061	gene	1020	kdgK			
+PCMIPHHC_00061	CDS	1020	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+PCMIPHHC_00062	gene	1620	por			
+PCMIPHHC_00062	CDS	1620	por	1.1.1.-	COG0246	Polyol:NADP oxidoreductase
+PCMIPHHC_00063	gene	1083	uxuA			
+PCMIPHHC_00063	CDS	1083	uxuA	4.2.1.8	COG1312	Mannonate dehydratase
+PCMIPHHC_00064	gene	1044	xynZ			
+PCMIPHHC_00064	CDS	1044	xynZ	3.2.1.8	COG2382	Endo-1,4-beta-xylanase Z
+PCMIPHHC_00065	gene	1878				
+PCMIPHHC_00065	CDS	1878				hypothetical protein
+PCMIPHHC_00066	gene	1008	oppB_1			
+PCMIPHHC_00066	CDS	1008	oppB_1		COG0601	Oligopeptide transport system permease protein OppB
+PCMIPHHC_00067	gene	855				
+PCMIPHHC_00067	CDS	855			COG1173	Putative peptide transport permease protein
+PCMIPHHC_00068	gene	990	oppD_3			
+PCMIPHHC_00068	CDS	990	oppD_3		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_00069	gene	963	oppF_2			
+PCMIPHHC_00069	CDS	963	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_00070	gene	2337				
+PCMIPHHC_00070	CDS	2337		3.2.1.-		Beta-xylosidase
+PCMIPHHC_00071	gene	978	axeA_1			
+PCMIPHHC_00071	CDS	978	axeA_1	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+PCMIPHHC_00072	gene	771	fecE			
+PCMIPHHC_00072	CDS	771	fecE		COG1120	Fe(3+) dicitrate transport ATP-binding protein FecE
+PCMIPHHC_00073	gene	969	hmuU_1			
+PCMIPHHC_00073	CDS	969	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+PCMIPHHC_00074	gene	894	btuF			
+PCMIPHHC_00074	CDS	894	btuF		COG0614	Vitamin B12-binding protein
+PCMIPHHC_00075	gene	450	fliW			
+PCMIPHHC_00075	CDS	450	fliW		COG1699	Flagellar assembly factor FliW
+PCMIPHHC_00076	gene	915	flgL			
+PCMIPHHC_00076	CDS	915	flgL		COG1344	Flagellar hook-associated protein 3
+PCMIPHHC_00077	gene	2577				
+PCMIPHHC_00077	CDS	2577				hypothetical protein
+PCMIPHHC_00078	gene	351				
+PCMIPHHC_00078	CDS	351				hypothetical protein
+PCMIPHHC_00079	gene	279				
+PCMIPHHC_00079	CDS	279				hypothetical protein
+PCMIPHHC_00080	gene	1422	murJ			
+PCMIPHHC_00080	CDS	1422	murJ		COG0728	Lipid II flippase MurJ
+PCMIPHHC_00081	gene	834				
+PCMIPHHC_00081	CDS	834				hypothetical protein
+PCMIPHHC_00082	gene	3849	sctC			
+PCMIPHHC_00082	CDS	3849	sctC			Type 3 secretion system secretin
+PCMIPHHC_00083	gene	462				
+PCMIPHHC_00083	CDS	462				hypothetical protein
+PCMIPHHC_00084	gene	417				
+PCMIPHHC_00084	CDS	417				hypothetical protein
+PCMIPHHC_00085	gene	549				
+PCMIPHHC_00085	CDS	549				hypothetical protein
+PCMIPHHC_00086	gene	981				
+PCMIPHHC_00086	CDS	981				hypothetical protein
+PCMIPHHC_00087	gene	384				
+PCMIPHHC_00087	CDS	384				hypothetical protein
+PCMIPHHC_00088	gene	1200	epsF			
+PCMIPHHC_00088	CDS	1200	epsF		COG1459	Type II secretion system protein F
+PCMIPHHC_00089	gene	471				
+PCMIPHHC_00089	CDS	471				hypothetical protein
+PCMIPHHC_00090	gene	921	dusB			
+PCMIPHHC_00090	CDS	921	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+PCMIPHHC_00091	gene	591	nadD			
+PCMIPHHC_00091	CDS	591	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+PCMIPHHC_00092	gene	1308	obg			
+PCMIPHHC_00092	CDS	1308	obg	3.6.5.-	COG0536	GTPase Obg
+PCMIPHHC_00093	gene	765				
+PCMIPHHC_00093	CDS	765				hypothetical protein
+PCMIPHHC_00094	gene	2067	ligA			
+PCMIPHHC_00094	CDS	2067	ligA	6.5.1.2		DNA ligase
+PCMIPHHC_00095	gene	1869				
+PCMIPHHC_00095	CDS	1869				hypothetical protein
+PCMIPHHC_00096	gene	1080	tmpC			
+PCMIPHHC_00096	CDS	1080	tmpC		COG1744	Membrane lipoprotein TmpC
+PCMIPHHC_00097	gene	1509	mglA			
+PCMIPHHC_00097	CDS	1509	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+PCMIPHHC_00098	gene	1035				
+PCMIPHHC_00098	CDS	1035				hypothetical protein
+PCMIPHHC_00099	gene	960	rfuD			
+PCMIPHHC_00099	CDS	960	rfuD		COG1079	putative riboflavin import permease protein RfuD
+PCMIPHHC_00100	gene	1185				
+PCMIPHHC_00100	CDS	1185				hypothetical protein
+PCMIPHHC_00101	gene	573				
+PCMIPHHC_00101	CDS	573				hypothetical protein
+PCMIPHHC_00102	gene	1266	murAA			
+PCMIPHHC_00102	CDS	1266	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+PCMIPHHC_00103	gene	963				
+PCMIPHHC_00103	CDS	963				hypothetical protein
+PCMIPHHC_00104	gene	1137	nagC_2			
+PCMIPHHC_00104	CDS	1137	nagC_2		COG1940	N-acetylglucosamine repressor
+PCMIPHHC_00105	gene	1164	bdhA			
+PCMIPHHC_00105	CDS	1164	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+PCMIPHHC_00106	gene	954	rbsC_1			
+PCMIPHHC_00106	CDS	954	rbsC_1		COG1172	Ribose import permease protein RbsC
+PCMIPHHC_00107	gene	720				
+PCMIPHHC_00107	CDS	720				Bifunctional xylanase/deacetylase
+PCMIPHHC_00108	gene	972	alsB			
+PCMIPHHC_00108	CDS	972	alsB		COG1879	D-allose-binding periplasmic protein
+PCMIPHHC_00109	gene	1563	rbsA_1			
+PCMIPHHC_00109	CDS	1563	rbsA_1	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+PCMIPHHC_00110	gene	1479	xylB_1			
+PCMIPHHC_00110	CDS	1479	xylB_1	2.7.1.17	COG1070	Xylulose kinase
+PCMIPHHC_00111	gene	732				
+PCMIPHHC_00111	CDS	732				hypothetical protein
+PCMIPHHC_00112	gene	2484				
+PCMIPHHC_00112	CDS	2484				hypothetical protein
+PCMIPHHC_00113	gene	858				
+PCMIPHHC_00113	CDS	858				hypothetical protein
+PCMIPHHC_00114	gene	555				
+PCMIPHHC_00114	CDS	555		1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+PCMIPHHC_00115	gene	1098				
+PCMIPHHC_00115	CDS	1098				hypothetical protein
+PCMIPHHC_00116	gene	366	fur_1			
+PCMIPHHC_00116	CDS	366	fur_1		COG0735	Ferric uptake regulation protein
+PCMIPHHC_00117	gene	804	troA			
+PCMIPHHC_00117	CDS	804	troA		COG0803	Periplasmic zinc-binding protein TroA
+PCMIPHHC_00118	gene	723	znuC			
+PCMIPHHC_00118	CDS	723	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+PCMIPHHC_00119	gene	798	znuB			
+PCMIPHHC_00119	CDS	798	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+PCMIPHHC_00120	gene	663	ompR			
+PCMIPHHC_00120	CDS	663	ompR			Transcriptional regulatory protein OmpR
+PCMIPHHC_00121	gene	858				
+PCMIPHHC_00121	CDS	858				hypothetical protein
+PCMIPHHC_00122	gene	1389	oadA			
+PCMIPHHC_00122	CDS	1389	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+PCMIPHHC_00123	gene	1077	cpg2			
+PCMIPHHC_00123	CDS	1077	cpg2	3.4.17.11		Carboxypeptidase G2
+PCMIPHHC_00124	gene	1155				
+PCMIPHHC_00124	CDS	1155				hypothetical protein
+PCMIPHHC_00125	gene	777				
+PCMIPHHC_00125	CDS	777				hypothetical protein
+PCMIPHHC_00126	gene	585	entB			
+PCMIPHHC_00126	CDS	585	entB	6.3.2.14	COG1535	Enterobactin synthase component B
+PCMIPHHC_00127	gene	855	trxB_1			
+PCMIPHHC_00127	CDS	855	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+PCMIPHHC_00128	gene	1233				
+PCMIPHHC_00128	CDS	1233				IS200/IS605 family transposase ISTma1
+PCMIPHHC_00129	gene	990	rlmN_1			
+PCMIPHHC_00129	CDS	990	rlmN_1	2.1.1.192		Dual-specificity RNA methyltransferase RlmN
+PCMIPHHC_00130	gene	720	trpA			
+PCMIPHHC_00130	CDS	720	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+PCMIPHHC_00131	gene	1170	trpB_1			
+PCMIPHHC_00131	CDS	1170	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+PCMIPHHC_00132	gene	618	trpF			
+PCMIPHHC_00132	CDS	618	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+PCMIPHHC_00133	gene	693	trpC			
+PCMIPHHC_00133	CDS	693	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+PCMIPHHC_00134	gene	1641	trpGD			
+PCMIPHHC_00134	CDS	1641	trpGD		COG0512	Bifunctional protein TrpGD
+PCMIPHHC_00135	gene	1374	trpE			
+PCMIPHHC_00135	CDS	1374	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+PCMIPHHC_00136	gene	1353	cheB_1			
+PCMIPHHC_00136	CDS	1353	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+PCMIPHHC_00137	gene	77				
+PCMIPHHC_00137	tRNA	77				tRNA-Pro(tgg)
+PCMIPHHC_00138	gene	228				
+PCMIPHHC_00138	CDS	228				hypothetical protein
+PCMIPHHC_00139	gene	984	tsaD			
+PCMIPHHC_00139	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+PCMIPHHC_00140	gene	1221	clpX			
+PCMIPHHC_00140	CDS	1221	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+PCMIPHHC_00141	gene	333	rsfS			
+PCMIPHHC_00141	CDS	333	rsfS		COG0799	Ribosomal silencing factor RsfS
+PCMIPHHC_00142	gene	1821	glmS_1			
+PCMIPHHC_00142	CDS	1821	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PCMIPHHC_00143	gene	984	plsX			
+PCMIPHHC_00143	CDS	984	plsX	2.3.1.274		Phosphate acyltransferase
+PCMIPHHC_00144	gene	183	rpmF			
+PCMIPHHC_00144	CDS	183	rpmF			50S ribosomal protein L32
+PCMIPHHC_00145	gene	549				
+PCMIPHHC_00145	CDS	549				hypothetical protein
+PCMIPHHC_00146	gene	648				
+PCMIPHHC_00146	CDS	648				hypothetical protein
+PCMIPHHC_00147	gene	1872				
+PCMIPHHC_00147	CDS	1872				hypothetical protein
+PCMIPHHC_00148	gene	1659				
+PCMIPHHC_00148	CDS	1659				hypothetical protein
+PCMIPHHC_00149	gene	1305	phoA			
+PCMIPHHC_00149	CDS	1305	phoA	3.1.3.1	COG1785	Alkaline phosphatase 4
+PCMIPHHC_00150	gene	450				
+PCMIPHHC_00150	CDS	450		1.5.1.37		Flavin reductase
+PCMIPHHC_00151	gene	246				
+PCMIPHHC_00151	CDS	246				hypothetical protein
+PCMIPHHC_00152	gene	882	lgt			
+PCMIPHHC_00152	CDS	882	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+PCMIPHHC_00153	gene	591				
+PCMIPHHC_00153	CDS	591		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+PCMIPHHC_00154	gene	546				
+PCMIPHHC_00154	CDS	546			COG1259	putative protein
+PCMIPHHC_00155	gene	819				
+PCMIPHHC_00155	CDS	819				hypothetical protein
+PCMIPHHC_00156	gene	2316				
+PCMIPHHC_00156	CDS	2316				hypothetical protein
+PCMIPHHC_00157	gene	837				
+PCMIPHHC_00157	CDS	837				hypothetical protein
+PCMIPHHC_00158	gene	789				
+PCMIPHHC_00158	CDS	789				hypothetical protein
+PCMIPHHC_00159	gene	567	ruvA			
+PCMIPHHC_00159	CDS	567	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+PCMIPHHC_00160	gene	1308	fpgS			
+PCMIPHHC_00160	CDS	1308	fpgS	6.3.2.17		Folylpolyglutamate synthase
+PCMIPHHC_00161	gene	1173	deoB			
+PCMIPHHC_00161	CDS	1173	deoB	5.4.2.7	COG1015	Phosphopentomutase
+PCMIPHHC_00162	gene	2475	leuS			
+PCMIPHHC_00162	CDS	2475	leuS	6.1.1.4		Leucine--tRNA ligase
+PCMIPHHC_00163	gene	627	rex1			
+PCMIPHHC_00163	CDS	627	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+PCMIPHHC_00164	gene	222				
+PCMIPHHC_00164	CDS	222				hypothetical protein
+PCMIPHHC_00165	gene	456				
+PCMIPHHC_00165	CDS	456				hypothetical protein
+PCMIPHHC_00166	gene	1215	ahcY			
+PCMIPHHC_00166	CDS	1215	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+PCMIPHHC_00167	gene	3315	rgy			
+PCMIPHHC_00167	CDS	3315	rgy		COG1110	Reverse gyrase
+PCMIPHHC_00168	gene	2181	hppA			
+PCMIPHHC_00168	CDS	2181	hppA	7.2.3.-	COG3808	K(+)-stimulated pyrophosphate-energized sodium pump
+PCMIPHHC_00169	gene	267	acpP_1			
+PCMIPHHC_00169	CDS	267	acpP_1			Acyl carrier protein
+PCMIPHHC_00170	gene	882				
+PCMIPHHC_00170	CDS	882				hypothetical protein
+PCMIPHHC_00171	gene	852				
+PCMIPHHC_00171	CDS	852				hypothetical protein
+PCMIPHHC_00172	gene	2211	priA			
+PCMIPHHC_00172	CDS	2211	priA	3.6.4.-		primosomal protein N'
+PCMIPHHC_00173	gene	1556				
+PCMIPHHC_00173	rRNA	1556				16S ribosomal RNA
+PCMIPHHC_00174	gene	77				
+PCMIPHHC_00174	tRNA	77				tRNA-Ile(gat)
+PCMIPHHC_00175	gene	76				
+PCMIPHHC_00175	tRNA	76				tRNA-Ala(tgc)
+PCMIPHHC_00176	gene	3017				
+PCMIPHHC_00176	rRNA	3017				23S ribosomal RNA
+PCMIPHHC_00177	gene	105				
+PCMIPHHC_00177	rRNA	105				5S ribosomal RNA
+PCMIPHHC_00178	gene	279				
+PCMIPHHC_00178	CDS	279				hypothetical protein
+PCMIPHHC_00179	gene	570				
+PCMIPHHC_00179	CDS	570				hypothetical protein
+PCMIPHHC_00180	gene	975				
+PCMIPHHC_00180	CDS	975				hypothetical protein
+PCMIPHHC_00181	gene	1194	miaB_1			
+PCMIPHHC_00181	CDS	1194	miaB_1	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PCMIPHHC_00182	gene	783	ramA			
+PCMIPHHC_00182	CDS	783	ramA	3.5.1.100		(R)-stereoselective amidase
+PCMIPHHC_00183	gene	1290	glmM			
+PCMIPHHC_00183	CDS	1290	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+PCMIPHHC_00184	gene	396				
+PCMIPHHC_00184	CDS	396				hypothetical protein
+PCMIPHHC_00185	gene	1107				
+PCMIPHHC_00185	CDS	1107		3.1.4.-	COG3437	Cyclic di-GMP phosphodiesterase
+PCMIPHHC_00186	gene	1428	sasA_1			
+PCMIPHHC_00186	CDS	1428	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+PCMIPHHC_00187	gene	76				
+PCMIPHHC_00187	tRNA	76				tRNA-Ala(cgc)
+PCMIPHHC_00188	gene	432				
+PCMIPHHC_00188	CDS	432			COG1720	S-adenosyl-L-methionine-binding protein
+PCMIPHHC_00189	gene	1077				
+PCMIPHHC_00189	CDS	1077			COG0614	putative protein
+PCMIPHHC_00190	gene	1032	hmuU_2			
+PCMIPHHC_00190	CDS	1032	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+PCMIPHHC_00191	gene	786	hmuV			
+PCMIPHHC_00191	CDS	786	hmuV	3.6.3.-	COG4559	Hemin import ATP-binding protein HmuV
+PCMIPHHC_00192	gene	264	spoVS_1			
+PCMIPHHC_00192	CDS	264	spoVS_1		COG2359	Stage V sporulation protein S
+PCMIPHHC_00193	gene	77				
+PCMIPHHC_00193	tRNA	77				tRNA-Arg(tcg)
+PCMIPHHC_00194	gene	76				
+PCMIPHHC_00194	tRNA	76				tRNA-His(gtg)
+PCMIPHHC_00195	gene	77				
+PCMIPHHC_00195	tRNA	77				tRNA-Arg(tct)
+PCMIPHHC_00196	gene	76				
+PCMIPHHC_00196	tRNA	76				tRNA-Gly(tcc)
+PCMIPHHC_00197	gene	789	fetB			
+PCMIPHHC_00197	CDS	789	fetB		COG0390	putative iron export permease protein FetB
+PCMIPHHC_00198	gene	621	lolD			
+PCMIPHHC_00198	CDS	621	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+PCMIPHHC_00199	gene	90				
+PCMIPHHC_00199	tRNA	90				tRNA-Ser(gct)
+PCMIPHHC_00200	gene	77				
+PCMIPHHC_00200	tRNA	77				tRNA-Arg(gcg)
+PCMIPHHC_00201	gene	492				
+PCMIPHHC_00201	CDS	492				hypothetical protein
+PCMIPHHC_00202	gene	915	ttuA			
+PCMIPHHC_00202	CDS	915	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+PCMIPHHC_00203	gene	2463	clpC_1			
+PCMIPHHC_00203	CDS	2463	clpC_1		COG0542	Negative regulator of genetic competence ClpC/MecB
+PCMIPHHC_00204	gene	1323	radA			
+PCMIPHHC_00204	CDS	1323	radA	3.6.4.-	COG1066	DNA repair protein RadA
+PCMIPHHC_00205	gene	1059	disA			
+PCMIPHHC_00205	CDS	1059	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+PCMIPHHC_00206	gene	1749	hndD_1			
+PCMIPHHC_00206	CDS	1749	hndD_1	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+PCMIPHHC_00207	gene	903				
+PCMIPHHC_00207	CDS	903				hypothetical protein
+PCMIPHHC_00208	gene	732	ssuC			
+PCMIPHHC_00208	CDS	732	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+PCMIPHHC_00209	gene	693	btuD_2			
+PCMIPHHC_00209	CDS	693	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PCMIPHHC_00210	gene	2307	recG			
+PCMIPHHC_00210	CDS	2307	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+PCMIPHHC_00211	gene	513	hpt			
+PCMIPHHC_00211	CDS	513	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+PCMIPHHC_00212	gene	627				
+PCMIPHHC_00212	CDS	627				hypothetical protein
+PCMIPHHC_00213	gene	1347	pyk			
+PCMIPHHC_00213	CDS	1347	pyk	2.7.1.40	COG0469	Pyruvate kinase
+PCMIPHHC_00214	gene	960	pfkA			
+PCMIPHHC_00214	CDS	960	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase
+PCMIPHHC_00215	gene	210				
+PCMIPHHC_00215	CDS	210				hypothetical protein
+PCMIPHHC_00216	gene	1095	gcvT			
+PCMIPHHC_00216	CDS	1095	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+PCMIPHHC_00217	gene	369	gcvH			
+PCMIPHHC_00217	CDS	369	gcvH		COG0509	Glycine cleavage system H protein
+PCMIPHHC_00218	gene	1314	gcvPA			
+PCMIPHHC_00218	CDS	1314	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+PCMIPHHC_00219	gene	1425	gcvPB			
+PCMIPHHC_00219	CDS	1425	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+PCMIPHHC_00220	gene	387	yabJ			
+PCMIPHHC_00220	CDS	387	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+PCMIPHHC_00221	gene	861	glyQ			
+PCMIPHHC_00221	CDS	861	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+PCMIPHHC_00222	gene	2019	glyS			
+PCMIPHHC_00222	CDS	2019	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+PCMIPHHC_00223	gene	1317	yscN			
+PCMIPHHC_00223	CDS	1317	yscN	7.1.2.2		putative ATP synthase YscN
+PCMIPHHC_00224	gene	711				
+PCMIPHHC_00224	CDS	711				hypothetical protein
+PCMIPHHC_00225	gene	1008	fliG			
+PCMIPHHC_00225	CDS	1008	fliG		COG1536	Flagellar motor switch protein FliG
+PCMIPHHC_00226	gene	1599	fliF			
+PCMIPHHC_00226	CDS	1599	fliF		COG1766	Flagellar M-ring protein
+PCMIPHHC_00227	gene	801	ecfA2			
+PCMIPHHC_00227	CDS	801	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+PCMIPHHC_00228	gene	234				
+PCMIPHHC_00228	CDS	234				hypothetical protein
+PCMIPHHC_00229	gene	696	birA			
+PCMIPHHC_00229	CDS	696	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+PCMIPHHC_00230	gene	939	dcyD			
+PCMIPHHC_00230	CDS	939	dcyD	4.4.1.15	COG2515	D-cysteine desulfhydrase
+PCMIPHHC_00231	gene	675	ydfK			
+PCMIPHHC_00231	CDS	675	ydfK		COG1811	putative membrane protein YdfK
+PCMIPHHC_00232	gene	225	hndA_2			
+PCMIPHHC_00232	CDS	225	hndA_2	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+PCMIPHHC_00233	gene	252	hndA_3			
+PCMIPHHC_00233	CDS	252	hndA_3	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+PCMIPHHC_00234	gene	1638	rsxC_1			
+PCMIPHHC_00234	CDS	1638	rsxC_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit C
+PCMIPHHC_00235	gene	858				
+PCMIPHHC_00235	CDS	858				hypothetical protein
+PCMIPHHC_00236	gene	477				
+PCMIPHHC_00236	CDS	477				hypothetical protein
+PCMIPHHC_00237	gene	1374	murC			
+PCMIPHHC_00237	CDS	1374	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+PCMIPHHC_00238	gene	1020	murG			
+PCMIPHHC_00238	CDS	1020	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PCMIPHHC_00239	gene	1095	ftsW			
+PCMIPHHC_00239	CDS	1095	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+PCMIPHHC_00240	gene	1293	murD			
+PCMIPHHC_00240	CDS	1293	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PCMIPHHC_00241	gene	909	mraY			
+PCMIPHHC_00241	CDS	909	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PCMIPHHC_00242	gene	1281	murF			
+PCMIPHHC_00242	CDS	1281	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PCMIPHHC_00243	gene	1473	murE			
+PCMIPHHC_00243	CDS	1473	murE	6.3.2.37	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--LD-lysine ligase
+PCMIPHHC_00244	gene	543				
+PCMIPHHC_00244	CDS	543				hypothetical protein
+PCMIPHHC_00245	gene	1113	glgC_1			
+PCMIPHHC_00245	CDS	1113	glgC_1	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+PCMIPHHC_00246	gene	1272	glgC_2			
+PCMIPHHC_00246	CDS	1272	glgC_2	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+PCMIPHHC_00247	gene	1026				
+PCMIPHHC_00247	CDS	1026				hypothetical protein
+PCMIPHHC_00248	gene	258				
+PCMIPHHC_00248	CDS	258				hypothetical protein
+PCMIPHHC_00249	gene	849				
+PCMIPHHC_00249	CDS	849				hypothetical protein
+PCMIPHHC_00250	gene	1308	rnfC			
+PCMIPHHC_00250	CDS	1308	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+PCMIPHHC_00251	gene	957	rnfD			
+PCMIPHHC_00251	CDS	957	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+PCMIPHHC_00252	gene	675	rsxG			
+PCMIPHHC_00252	CDS	675	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+PCMIPHHC_00253	gene	603	rnfE			
+PCMIPHHC_00253	CDS	603	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+PCMIPHHC_00254	gene	576	rsxA			
+PCMIPHHC_00254	CDS	576	rsxA	7.-.-.-	COG4657	Ion-translocating oxidoreductase complex subunit A
+PCMIPHHC_00255	gene	294	rsxB_2			
+PCMIPHHC_00255	CDS	294	rsxB_2	7.-.-.-	COG2878	Ion-translocating oxidoreductase complex subunit B
+PCMIPHHC_00256	gene	1014				
+PCMIPHHC_00256	CDS	1014				hypothetical protein
+PCMIPHHC_00257	gene	216	csrA			
+PCMIPHHC_00257	CDS	216	csrA		COG1551	Translational regulator CsrA
+PCMIPHHC_00258	gene	291	gatC			
+PCMIPHHC_00258	CDS	291	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+PCMIPHHC_00259	gene	327				
+PCMIPHHC_00259	CDS	327				hypothetical protein
+PCMIPHHC_00260	gene	408	smpB			
+PCMIPHHC_00260	CDS	408	smpB		COG0691	SsrA-binding protein
+PCMIPHHC_00261	gene	96				
+PCMIPHHC_00261	CDS	96				hypothetical protein
+PCMIPHHC_00262	gene	213	rpmB			
+PCMIPHHC_00262	CDS	213	rpmB		COG0227	50S ribosomal protein L28
+PCMIPHHC_00263	gene	393				
+PCMIPHHC_00263	CDS	393				hypothetical protein
+PCMIPHHC_00264	gene	729	yhaM_1			
+PCMIPHHC_00264	CDS	729	yhaM_1	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+PCMIPHHC_00265	gene	309	yhaM_2			
+PCMIPHHC_00265	CDS	309	yhaM_2	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+PCMIPHHC_00266	gene	1902	topA			
+PCMIPHHC_00266	CDS	1902	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+PCMIPHHC_00267	gene	885	ddlB			
+PCMIPHHC_00267	CDS	885	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+PCMIPHHC_00268	gene	669				
+PCMIPHHC_00268	CDS	669				hypothetical protein
+PCMIPHHC_00269	gene	1209				
+PCMIPHHC_00269	CDS	1209				hypothetical protein
+PCMIPHHC_00270	gene	1101	dnaN			
+PCMIPHHC_00270	CDS	1101	dnaN		COG0592	Beta sliding clamp
+PCMIPHHC_00271	gene	1881	mnmG			
+PCMIPHHC_00271	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PCMIPHHC_00272	gene	720	rsuA			
+PCMIPHHC_00272	CDS	720	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+PCMIPHHC_00273	gene	1674	uvrC			
+PCMIPHHC_00273	CDS	1674	uvrC		COG0322	UvrABC system protein C
+PCMIPHHC_00274	gene	273	hup			
+PCMIPHHC_00274	CDS	273	hup		COG0776	DNA-binding protein HU
+PCMIPHHC_00275	gene	1353	mnmE			
+PCMIPHHC_00275	CDS	1353	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+PCMIPHHC_00276	gene	2307	metH			
+PCMIPHHC_00276	CDS	2307	metH	2.1.1.13	COG0646	Methionine synthase
+PCMIPHHC_00277	gene	609				
+PCMIPHHC_00277	CDS	609				hypothetical protein
+PCMIPHHC_00278	gene	846	yitJ			
+PCMIPHHC_00278	CDS	846	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+PCMIPHHC_00279	gene	1233				
+PCMIPHHC_00279	CDS	1233				hypothetical protein
+PCMIPHHC_00280	gene	2646	ppdK			
+PCMIPHHC_00280	CDS	2646	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+PCMIPHHC_00281	gene	942	fba			
+PCMIPHHC_00281	CDS	942	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+PCMIPHHC_00282	gene	1212	ackA			
+PCMIPHHC_00282	CDS	1212	ackA	2.7.2.1	COG0282	Acetate kinase
+PCMIPHHC_00283	gene	1023	araR			
+PCMIPHHC_00283	CDS	1023	araR		COG1609	Arabinose metabolism transcriptional repressor
+PCMIPHHC_00284	gene	1491	araA			
+PCMIPHHC_00284	CDS	1491	araA	5.3.1.4		L-arabinose isomerase
+PCMIPHHC_00285	gene	279				
+PCMIPHHC_00285	CDS	279				hypothetical protein
+PCMIPHHC_00286	gene	1020				
+PCMIPHHC_00286	CDS	1020				hypothetical protein
+PCMIPHHC_00287	gene	885	sugA_1			
+PCMIPHHC_00287	CDS	885	sugA_1		COG1175	Trehalose transport system permease protein SugA
+PCMIPHHC_00288	gene	843	dasC			
+PCMIPHHC_00288	CDS	843	dasC		COG0395	Diacetylchitobiose uptake system permease protein DasC
+PCMIPHHC_00289	gene	1863	hypBA1			
+PCMIPHHC_00289	CDS	1863	hypBA1	3.2.1.185		Non-reducing end beta-L-arabinofuranosidase
+PCMIPHHC_00290	gene	1455	abfA			
+PCMIPHHC_00290	CDS	1455	abfA	3.2.1.55	COG3534	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+PCMIPHHC_00291	gene	1071	mro			
+PCMIPHHC_00291	CDS	1071	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+PCMIPHHC_00292	gene	639	ulaF			
+PCMIPHHC_00292	CDS	639	ulaF	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase UlaF
+PCMIPHHC_00293	gene	1521	xylB_2			
+PCMIPHHC_00293	CDS	1521	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+PCMIPHHC_00294	gene	1212				
+PCMIPHHC_00294	CDS	1212				hypothetical protein
+PCMIPHHC_00295	gene	453				
+PCMIPHHC_00295	CDS	453				hypothetical protein
+PCMIPHHC_00296	gene	1734				
+PCMIPHHC_00296	CDS	1734			COG1132	putative ABC transporter ATP-binding protein
+PCMIPHHC_00297	gene	1797				
+PCMIPHHC_00297	CDS	1797			COG1132	putative ABC transporter ATP-binding protein
+PCMIPHHC_00298	gene	1260	pfp			
+PCMIPHHC_00298	CDS	1260	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+PCMIPHHC_00299	gene	1104	gltA			
+PCMIPHHC_00299	CDS	1104	gltA	2.3.3.16	COG0372	Citrate synthase
+PCMIPHHC_00300	gene	1257	leuC			
+PCMIPHHC_00300	CDS	1257	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+PCMIPHHC_00301	gene	501	DmdB_1			
+PCMIPHHC_00301	CDS	501	DmdB_1	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+PCMIPHHC_00302	gene	1248	proA			
+PCMIPHHC_00302	CDS	1248	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+PCMIPHHC_00303	gene	1056	proB			
+PCMIPHHC_00303	CDS	1056	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+PCMIPHHC_00304	gene	657	tal			
+PCMIPHHC_00304	CDS	657	tal	2.2.1.2	COG0176	Transaldolase
+PCMIPHHC_00305	gene	948	scrK			
+PCMIPHHC_00305	CDS	948	scrK	2.7.1.4	COG0524	Fructokinase
+PCMIPHHC_00306	gene	774	gdh			
+PCMIPHHC_00306	CDS	774	gdh	1.1.1.16		Galactitol 2-dehydrogenase
+PCMIPHHC_00307	gene	954				
+PCMIPHHC_00307	CDS	954		1.1.1.407	COG1063	D-altritol 5-dehydrogenase
+PCMIPHHC_00308	gene	1035	purR_1			
+PCMIPHHC_00308	CDS	1035	purR_1		COG1609	HTH-type transcriptional repressor PurR
+PCMIPHHC_00309	gene	1836				
+PCMIPHHC_00309	CDS	1836				hypothetical protein
+PCMIPHHC_00310	gene	1005	yejB			
+PCMIPHHC_00310	CDS	1005	yejB		COG4174	Inner membrane ABC transporter permease protein YejB
+PCMIPHHC_00311	gene	870				
+PCMIPHHC_00311	CDS	870			COG1173	Putative peptide transport permease protein
+PCMIPHHC_00312	gene	987	oppD_4			
+PCMIPHHC_00312	CDS	987	oppD_4		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_00313	gene	951	btuD_3			
+PCMIPHHC_00313	CDS	951	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PCMIPHHC_00314	gene	2124	xghA			
+PCMIPHHC_00314	CDS	2124	xghA	3.2.1.-		Xyloglucanase Xgh74A
+PCMIPHHC_00315	gene	1341				
+PCMIPHHC_00315	CDS	1341				hypothetical protein
+PCMIPHHC_00316	gene	1422	fucI			
+PCMIPHHC_00316	CDS	1422	fucI	5.3.1.25		L-fucose isomerase
+PCMIPHHC_00317	gene	2295	yicI			
+PCMIPHHC_00317	CDS	2295	yicI	3.2.1.177	COG1501	Alpha-xylosidase
+PCMIPHHC_00318	gene	1977	agpA_2			
+PCMIPHHC_00318	CDS	1977	agpA_2			Periplasmic alpha-galactoside-binding protein
+PCMIPHHC_00319	gene	2019	bgaP			
+PCMIPHHC_00319	CDS	2019	bgaP	3.2.1.23		Beta-galactosidase BgaP
+PCMIPHHC_00320	gene	489				
+PCMIPHHC_00320	CDS	489				hypothetical protein
+PCMIPHHC_00321	gene	978				
+PCMIPHHC_00321	CDS	978		1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+PCMIPHHC_00322	gene	960	gpr			
+PCMIPHHC_00322	CDS	960	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+PCMIPHHC_00323	gene	180				
+PCMIPHHC_00323	CDS	180				hypothetical protein
+PCMIPHHC_00324	gene	252				
+PCMIPHHC_00324	CDS	252				hypothetical protein
+PCMIPHHC_00325	gene	327				
+PCMIPHHC_00325	CDS	327				hypothetical protein
+PCMIPHHC_00326	gene	2181	copA			
+PCMIPHHC_00326	CDS	2181	copA	7.2.2.8		putative copper-importing P-type ATPase A
+PCMIPHHC_00327	gene	624	COQ5_1			
+PCMIPHHC_00327	CDS	624	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+PCMIPHHC_00328	gene	237				
+PCMIPHHC_00328	CDS	237				hypothetical protein
+PCMIPHHC_00329	gene	204				
+PCMIPHHC_00329	CDS	204				hypothetical protein
+PCMIPHHC_00330	gene	585				
+PCMIPHHC_00330	CDS	585				hypothetical protein
+PCMIPHHC_00331	gene	1011	dctP			
+PCMIPHHC_00331	CDS	1011	dctP		COG1638	C4-dicarboxylate-binding periplasmic protein DctP
+PCMIPHHC_00332	gene	1284	siaM			
+PCMIPHHC_00332	CDS	1284	siaM		COG1593	Sialic acid TRAP transporter large permease protein SiaM
+PCMIPHHC_00333	gene	756	bacC_2			
+PCMIPHHC_00333	CDS	756	bacC_2	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+PCMIPHHC_00334	gene	843	ybbH			
+PCMIPHHC_00334	CDS	843	ybbH		COG1737	putative HTH-type transcriptional regulator YbbH
+PCMIPHHC_00335	gene	984				
+PCMIPHHC_00335	CDS	984		1.1.1.81	COG0111	Hydroxypyruvate reductase
+PCMIPHHC_00336	gene	77				
+PCMIPHHC_00336	tRNA	77				tRNA-Thr(ggt)
+PCMIPHHC_00337	gene	675				
+PCMIPHHC_00337	CDS	675				hypothetical protein
+PCMIPHHC_00338	gene	1305	pyrC_1			
+PCMIPHHC_00338	CDS	1305	pyrC_1			Dihydroorotase
+PCMIPHHC_00339	gene	564	pyrE			
+PCMIPHHC_00339	CDS	564	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+PCMIPHHC_00340	gene	606	pyrF			
+PCMIPHHC_00340	CDS	606	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+PCMIPHHC_00341	gene	813	pyrD			
+PCMIPHHC_00341	CDS	813	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PCMIPHHC_00342	gene	642	pyrK			
+PCMIPHHC_00342	CDS	642	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PCMIPHHC_00343	gene	1131	pyrC_2			
+PCMIPHHC_00343	CDS	1131	pyrC_2	3.5.2.3	COG0044	Dihydroorotase
+PCMIPHHC_00344	gene	1239	estD			
+PCMIPHHC_00344	CDS	1239	estD	3.1.1.1	COG1073	Esterase EstD
+PCMIPHHC_00345	gene	1704				
+PCMIPHHC_00345	CDS	1704				hypothetical protein
+PCMIPHHC_00346	gene	384				
+PCMIPHHC_00346	CDS	384				hypothetical protein
+PCMIPHHC_00347	gene	285				
+PCMIPHHC_00347	CDS	285				hypothetical protein
+PCMIPHHC_00348	gene	255				
+PCMIPHHC_00348	CDS	255				hypothetical protein
+PCMIPHHC_00349	gene	177				
+PCMIPHHC_00349	CDS	177				hypothetical protein
+PCMIPHHC_00350	gene	1242	entS_1			
+PCMIPHHC_00350	CDS	1242	entS_1			Enterobactin exporter EntS
+PCMIPHHC_00351	gene	1017	aroF			
+PCMIPHHC_00351	CDS	1017	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+PCMIPHHC_00352	gene	762	tyrA			
+PCMIPHHC_00352	CDS	762	tyrA	1.3.1.12	COG0287	Prephenate dehydrogenase
+PCMIPHHC_00353	gene	1266	aroA1			
+PCMIPHHC_00353	CDS	1266	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+PCMIPHHC_00354	gene	762	aroE			
+PCMIPHHC_00354	CDS	762	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+PCMIPHHC_00355	gene	1131	aroC			
+PCMIPHHC_00355	CDS	1131	aroC	4.2.3.5	COG0082	Chorismate synthase
+PCMIPHHC_00356	gene	1479	aroB			
+PCMIPHHC_00356	CDS	1479	aroB	4.2.3.4		3-dehydroquinate synthase
+PCMIPHHC_00357	gene	435	aroQ			
+PCMIPHHC_00357	CDS	435	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+PCMIPHHC_00358	gene	603				
+PCMIPHHC_00358	CDS	603				hypothetical protein
+	repeat_region	562				
+PCMIPHHC_00359	gene	1215	macB			
+PCMIPHHC_00359	CDS	1215	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+PCMIPHHC_00360	gene	705	yknY_1			
+PCMIPHHC_00360	CDS	705	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PCMIPHHC_00361	gene	1008	mdtA			
+PCMIPHHC_00361	CDS	1008	mdtA			Multidrug resistance protein MdtA
+PCMIPHHC_00362	gene	1263				
+PCMIPHHC_00362	CDS	1263				hypothetical protein
+PCMIPHHC_00363	gene	987				
+PCMIPHHC_00363	CDS	987				hypothetical protein
+PCMIPHHC_00364	gene	1206	tdcB			
+PCMIPHHC_00364	CDS	1206	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+PCMIPHHC_00365	gene	207				
+PCMIPHHC_00365	CDS	207				hypothetical protein
+PCMIPHHC_00366	gene	915	ytlR			
+PCMIPHHC_00366	CDS	915	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+PCMIPHHC_00367	gene	1071				
+PCMIPHHC_00367	CDS	1071				hypothetical protein
+PCMIPHHC_00368	gene	351	mazG_1			
+PCMIPHHC_00368	CDS	351	mazG_1	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+PCMIPHHC_00369	gene	324				
+PCMIPHHC_00369	CDS	324				hypothetical protein
+PCMIPHHC_00370	gene	843	nfo			
+PCMIPHHC_00370	CDS	843	nfo	3.1.21.2	COG0648	putative endonuclease 4
+PCMIPHHC_00371	gene	1650	rqcH			
+PCMIPHHC_00371	CDS	1650	rqcH			Rqc2 RqcH
+PCMIPHHC_00372	gene	1326	mgtA			
+PCMIPHHC_00372	CDS	1326	mgtA	2.4.1.25	COG0366	4-alpha-glucanotransferase
+PCMIPHHC_00373	gene	1356	apeA			
+PCMIPHHC_00373	CDS	1356	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+PCMIPHHC_00374	gene	642	nth_1			
+PCMIPHHC_00374	CDS	642	nth_1	4.2.99.18	COG0177	Endonuclease III
+PCMIPHHC_00375	gene	678				
+PCMIPHHC_00375	CDS	678				putative protein
+PCMIPHHC_00376	gene	1110				
+PCMIPHHC_00376	CDS	1110				hypothetical protein
+PCMIPHHC_00377	gene	444				
+PCMIPHHC_00377	CDS	444				hypothetical protein
+PCMIPHHC_00378	gene	729	kaiC			
+PCMIPHHC_00378	CDS	729	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+PCMIPHHC_00379	gene	459	argR			
+PCMIPHHC_00379	CDS	459	argR		COG1438	Arginine repressor
+PCMIPHHC_00380	gene	3003	swrC			
+PCMIPHHC_00380	CDS	3003	swrC		COG0841	Swarming motility protein SwrC
+PCMIPHHC_00381	gene	1791	dnaK			
+PCMIPHHC_00381	CDS	1791	dnaK		COG0443	Chaperone protein DnaK
+PCMIPHHC_00382	gene	444				
+PCMIPHHC_00382	CDS	444				hypothetical protein
+PCMIPHHC_00383	gene	588	pduL			
+PCMIPHHC_00383	CDS	588	pduL	2.3.1.222	COG4869	Phosphate propanoyltransferase
+PCMIPHHC_00384	gene	726	yfcA			
+PCMIPHHC_00384	CDS	726	yfcA		COG0730	putative membrane transporter protein YfcA
+	repeat_region	566				
+PCMIPHHC_00385	gene	624	gpsA_1			
+PCMIPHHC_00385	CDS	624	gpsA_1	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PCMIPHHC_00386	gene	330	gpsA_2			
+PCMIPHHC_00386	CDS	330	gpsA_2	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PCMIPHHC_00387	gene	1332	npr			
+PCMIPHHC_00387	CDS	1332	npr	1.11.1.1	COG0446	NADH peroxidase
+PCMIPHHC_00388	gene	210				
+PCMIPHHC_00388	CDS	210				hypothetical protein
+PCMIPHHC_00389	gene	129				
+PCMIPHHC_00389	CDS	129				hypothetical protein
+PCMIPHHC_00390	gene	1350	pdhD			
+PCMIPHHC_00390	CDS	1350	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+PCMIPHHC_00391	gene	663	nth_2			
+PCMIPHHC_00391	CDS	663	nth_2	4.2.99.18		Endonuclease III
+PCMIPHHC_00392	gene	501	nox			
+PCMIPHHC_00392	CDS	501	nox	1.6.99.3	COG0778	NADH dehydrogenase
+PCMIPHHC_00393	gene	552				
+PCMIPHHC_00393	CDS	552				hypothetical protein
+PCMIPHHC_00394	gene	1956				
+PCMIPHHC_00394	CDS	1956				hypothetical protein
+PCMIPHHC_00395	gene	966	rutE			
+PCMIPHHC_00395	CDS	966	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+PCMIPHHC_00396	gene	1011				
+PCMIPHHC_00396	CDS	1011				hypothetical protein
+PCMIPHHC_00397	gene	1086				
+PCMIPHHC_00397	CDS	1086				hypothetical protein
+PCMIPHHC_00398	gene	918	lnrL_1			
+PCMIPHHC_00398	CDS	918	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+	repeat_region	1629				
+PCMIPHHC_00399	gene	1221	treT			
+PCMIPHHC_00399	CDS	1221	treT	2.4.1.245		Trehalose synthase
+PCMIPHHC_00400	gene	1116				
+PCMIPHHC_00400	CDS	1116				hypothetical protein
+PCMIPHHC_00401	gene	738				
+PCMIPHHC_00401	CDS	738				hypothetical protein
+PCMIPHHC_00402	gene	1278	padH			
+PCMIPHHC_00402	CDS	1278	padH	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit epsilon
+PCMIPHHC_00403	gene	456	cooF			
+PCMIPHHC_00403	CDS	456	cooF		COG1142	Iron-sulfur protein
+PCMIPHHC_00404	gene	1524	rsxB_3			
+PCMIPHHC_00404	CDS	1524	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PCMIPHHC_00405	gene	1134	purF_1			
+PCMIPHHC_00405	CDS	1134	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+PCMIPHHC_00406	gene	74				
+PCMIPHHC_00406	tRNA	74				tRNA-Gln(ctg)
+PCMIPHHC_00407	gene	678	czcR			
+PCMIPHHC_00407	CDS	678	czcR			Transcriptional activator protein CzcR
+PCMIPHHC_00408	gene	1218	sasA_2			
+PCMIPHHC_00408	CDS	1218	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+PCMIPHHC_00409	gene	555	tdk			
+PCMIPHHC_00409	CDS	555	tdk	2.7.1.21	COG1435	Thymidine kinase
+PCMIPHHC_00410	gene	1308	amtB			
+PCMIPHHC_00410	CDS	1308	amtB			Ammonia channel
+PCMIPHHC_00411	gene	342	glnB			
+PCMIPHHC_00411	CDS	342	glnB		COG0347	Nitrogen regulatory protein P-II
+PCMIPHHC_00412	gene	510	tadA			
+PCMIPHHC_00412	CDS	510	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+PCMIPHHC_00413	gene	801				
+PCMIPHHC_00413	CDS	801				hypothetical protein
+PCMIPHHC_00414	gene	603	padE_1			
+PCMIPHHC_00414	CDS	603	padE_1	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit gamma
+PCMIPHHC_00415	gene	483				
+PCMIPHHC_00415	CDS	483				hypothetical protein
+PCMIPHHC_00416	gene	1035	cheB_2			
+PCMIPHHC_00416	CDS	1035	cheB_2	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+PCMIPHHC_00417	gene	816				
+PCMIPHHC_00417	CDS	816				hypothetical protein
+PCMIPHHC_00418	gene	450				
+PCMIPHHC_00418	CDS	450				hypothetical protein
+PCMIPHHC_00419	gene	1152	nagK			
+PCMIPHHC_00419	CDS	1152	nagK	2.7.1.59		N-acetyl-D-glucosamine kinase
+PCMIPHHC_00420	gene	1188	iolM			
+PCMIPHHC_00420	CDS	1188	iolM	1.1.1.-	COG1063	scyllo-inosose 3-dehydrogenase
+PCMIPHHC_00421	gene	972	iolN			
+PCMIPHHC_00421	CDS	972	iolN	3.7.1.-	COG1402	3-dehydro-scyllo-inosose hydrolase
+PCMIPHHC_00422	gene	1005	iolG_1			
+PCMIPHHC_00422	CDS	1005	iolG_1	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+PCMIPHHC_00423	gene	861				
+PCMIPHHC_00423	CDS	861				hypothetical protein
+PCMIPHHC_00424	gene	813	iolO			
+PCMIPHHC_00424	CDS	813	iolO	5.1.3.-	COG1082	5-keto-L-gluconate epimerase
+PCMIPHHC_00425	gene	822	efeU			
+PCMIPHHC_00425	CDS	822	efeU		COG0672	Ferrous iron permease EfeU
+PCMIPHHC_00426	gene	1332				
+PCMIPHHC_00426	CDS	1332				hypothetical protein
+PCMIPHHC_00427	gene	885	melD_1			
+PCMIPHHC_00427	CDS	885	melD_1		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+PCMIPHHC_00428	gene	849	sugB_1			
+PCMIPHHC_00428	CDS	849	sugB_1		COG0395	Trehalose transport system permease protein SugB
+PCMIPHHC_00429	gene	1080	ugpC			
+PCMIPHHC_00429	CDS	1080	ugpC	7.6.2.10	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+PCMIPHHC_00430	gene	915				
+PCMIPHHC_00430	CDS	915				hypothetical protein
+PCMIPHHC_00431	gene	1095	gldA			
+PCMIPHHC_00431	CDS	1095	gldA	1.1.1.6	COG0371	Glycerol dehydrogenase
+PCMIPHHC_00432	gene	891				
+PCMIPHHC_00432	CDS	891				hypothetical protein
+PCMIPHHC_00433	gene	987	iolG_2			
+PCMIPHHC_00433	CDS	987	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+PCMIPHHC_00434	gene	1218	iolG_3			
+PCMIPHHC_00434	CDS	1218	iolG_3	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+PCMIPHHC_00435	gene	1995				
+PCMIPHHC_00435	CDS	1995				hypothetical protein
+PCMIPHHC_00436	gene	1308	namA			
+PCMIPHHC_00436	CDS	1308	namA	1.6.99.1		NADPH dehydrogenase
+PCMIPHHC_00437	gene	1971	mcp1_2			
+PCMIPHHC_00437	CDS	1971	mcp1_2		COG0840	Methyl-accepting chemotaxis protein 1
+PCMIPHHC_00438	gene	816	araQ_1			
+PCMIPHHC_00438	CDS	816	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+PCMIPHHC_00439	gene	861	melD_2			
+PCMIPHHC_00439	CDS	861	melD_2		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+PCMIPHHC_00440	gene	1272				
+PCMIPHHC_00440	CDS	1272				hypothetical protein
+PCMIPHHC_00441	gene	1098	pelA			
+PCMIPHHC_00441	CDS	1098	pelA	4.2.2.22	COG3866	Pectate trisaccharide-lyase
+PCMIPHHC_00442	gene	1413	aglA_1			
+PCMIPHHC_00442	CDS	1413	aglA_1	3.2.1.20	COG1486	Alpha-glucosidase
+PCMIPHHC_00443	gene	480	axeA_2			
+PCMIPHHC_00443	CDS	480	axeA_2	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+PCMIPHHC_00444	gene	1098	camD			
+PCMIPHHC_00444	CDS	1098	camD	1.1.1.327		5-exo-hydroxycamphor dehydrogenase
+PCMIPHHC_00445	gene	1341	pehX			
+PCMIPHHC_00445	CDS	1341	pehX	3.2.1.82		Exo-poly-alpha-D-galacturonosidase
+PCMIPHHC_00446	gene	1410	gndA			
+PCMIPHHC_00446	CDS	1410	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+PCMIPHHC_00447	gene	645	rspR			
+PCMIPHHC_00447	CDS	645	rspR		COG1802	HTH-type transcriptional repressor RspR
+PCMIPHHC_00448	gene	1446				
+PCMIPHHC_00448	CDS	1446				hypothetical protein
+PCMIPHHC_00449	gene	759	gno			
+PCMIPHHC_00449	CDS	759	gno	1.1.1.-		Gluconate 5-dehydrogenase
+PCMIPHHC_00450	gene	1278				
+PCMIPHHC_00450	CDS	1278				hypothetical protein
+PCMIPHHC_00451	gene	1431	xylB_3			
+PCMIPHHC_00451	CDS	1431	xylB_3	2.7.1.17	COG1070	Xylulose kinase
+PCMIPHHC_00452	gene	1377	aspA			
+PCMIPHHC_00452	CDS	1377	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+PCMIPHHC_00453	gene	1215	der_1			
+PCMIPHHC_00453	CDS	1215	der_1			GTPase Der
+PCMIPHHC_00454	gene	516	purE			
+PCMIPHHC_00454	CDS	516	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+PCMIPHHC_00455	gene	1143	purK			
+PCMIPHHC_00455	CDS	1143	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+PCMIPHHC_00456	gene	2136	bamA			
+PCMIPHHC_00456	CDS	2136	bamA			Outer membrane protein assembly factor BamA
+PCMIPHHC_00457	gene	663	thyX			
+PCMIPHHC_00457	CDS	663	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+PCMIPHHC_00458	gene	153				
+PCMIPHHC_00458	CDS	153				hypothetical protein
+PCMIPHHC_00459	gene	76				
+PCMIPHHC_00459	tRNA	76				tRNA-Met(cat)
+PCMIPHHC_00460	gene	73				
+PCMIPHHC_00460	tRNA	73				tRNA-Met(cat)
+PCMIPHHC_00461	gene	76				
+PCMIPHHC_00461	tRNA	76				tRNA-Thr(tgt)
+PCMIPHHC_00462	gene	87				
+PCMIPHHC_00462	tRNA	87				tRNA-Tyr(gta)
+PCMIPHHC_00463	gene	150	rpmG2			
+PCMIPHHC_00463	CDS	150	rpmG2			50S ribosomal protein L33 2
+PCMIPHHC_00464	gene	76				
+PCMIPHHC_00464	tRNA	76				tRNA-Trp(cca)
+PCMIPHHC_00465	gene	198	secE			
+PCMIPHHC_00465	CDS	198	secE			Protein translocase subunit SecE
+PCMIPHHC_00466	gene	1062	nusG			
+PCMIPHHC_00466	CDS	1062	nusG		COG0250	Transcription termination/antitermination protein NusG
+PCMIPHHC_00467	gene	426	rplK			
+PCMIPHHC_00467	CDS	426	rplK		COG0080	50S ribosomal protein L11
+PCMIPHHC_00468	gene	702	rplA			
+PCMIPHHC_00468	CDS	702	rplA		COG0081	50S ribosomal protein L1
+PCMIPHHC_00469	gene	540	rplJ			
+PCMIPHHC_00469	CDS	540	rplJ		COG0244	50S ribosomal protein L10
+PCMIPHHC_00470	gene	387	rplL			
+PCMIPHHC_00470	CDS	387	rplL		COG0222	50S ribosomal protein L7/L12
+PCMIPHHC_00471	gene	3792	rpoB			
+PCMIPHHC_00471	CDS	3792	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+PCMIPHHC_00472	gene	5073	rpoC			
+PCMIPHHC_00472	CDS	5073	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+PCMIPHHC_00473	gene	1845	dppA_1			
+PCMIPHHC_00473	CDS	1845	dppA_1		COG0747	Periplasmic dipeptide transport protein
+PCMIPHHC_00474	gene	2529	dnaE2			
+PCMIPHHC_00474	CDS	2529	dnaE2	2.7.7.7		Error-prone DNA polymerase
+PCMIPHHC_00475	gene	846	rluD			
+PCMIPHHC_00475	CDS	846	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PCMIPHHC_00476	gene	561	lspA			
+PCMIPHHC_00476	CDS	561	lspA	3.4.23.36		Lipoprotein signal peptidase
+PCMIPHHC_00477	gene	849	cheR			
+PCMIPHHC_00477	CDS	849	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+PCMIPHHC_00478	gene	717				
+PCMIPHHC_00478	CDS	717				hypothetical protein
+PCMIPHHC_00479	gene	762				
+PCMIPHHC_00479	CDS	762			COG0217	putative transcriptional regulatory protein
+PCMIPHHC_00480	gene	1338				
+PCMIPHHC_00480	CDS	1338				hypothetical protein
+PCMIPHHC_00481	gene	369	phoP_1			
+PCMIPHHC_00481	CDS	369	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PCMIPHHC_00482	gene	594				
+PCMIPHHC_00482	CDS	594				hypothetical protein
+PCMIPHHC_00483	gene	897				
+PCMIPHHC_00483	CDS	897				hypothetical protein
+PCMIPHHC_00484	gene	630				
+PCMIPHHC_00484	CDS	630				hypothetical protein
+PCMIPHHC_00485	gene	567	pdxT			
+PCMIPHHC_00485	CDS	567	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+PCMIPHHC_00486	gene	882	pdxS			
+PCMIPHHC_00486	CDS	882	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+PCMIPHHC_00487	gene	1296				
+PCMIPHHC_00487	CDS	1296				hypothetical protein
+PCMIPHHC_00488	gene	89				
+PCMIPHHC_00488	tRNA	89				tRNA-Ser(tga)
+PCMIPHHC_00489	gene	1254				
+PCMIPHHC_00489	CDS	1254				hypothetical protein
+PCMIPHHC_00490	gene	1203	omp-alpha_1			
+PCMIPHHC_00490	CDS	1203	omp-alpha_1			Outer membrane protein alpha
+PCMIPHHC_00491	gene	1206	tyrS			
+PCMIPHHC_00491	CDS	1206	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+PCMIPHHC_00492	gene	204	secG			
+PCMIPHHC_00492	CDS	204	secG			Protein-export membrane protein SecG
+PCMIPHHC_00493	gene	2751	uvrA			
+PCMIPHHC_00493	CDS	2751	uvrA		COG0178	UvrABC system protein A
+PCMIPHHC_00494	gene	1149				
+PCMIPHHC_00494	CDS	1149				hypothetical protein
+PCMIPHHC_00495	gene	75				
+PCMIPHHC_00495	tRNA	75				tRNA-Gly(gcc)
+PCMIPHHC_00496	gene	87				
+PCMIPHHC_00496	tRNA	87				tRNA-Leu(tag)
+PCMIPHHC_00497	gene	76				
+PCMIPHHC_00497	tRNA	76				tRNA-Lys(ttt)
+PCMIPHHC_00498	gene	4248				
+PCMIPHHC_00498	CDS	4248				hypothetical protein
+PCMIPHHC_00499	gene	708	tauB			
+PCMIPHHC_00499	CDS	708	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+PCMIPHHC_00500	gene	951	thiY			
+PCMIPHHC_00500	CDS	951	thiY		COG0715	Formylaminopyrimidine-binding protein
+PCMIPHHC_00501	gene	753	ribX			
+PCMIPHHC_00501	CDS	753	ribX			Riboflavin transport system permease protein RibX
+PCMIPHHC_00502	gene	285				
+PCMIPHHC_00502	CDS	285				hypothetical protein
+PCMIPHHC_00503	gene	309	sufT			
+PCMIPHHC_00503	CDS	309	sufT			Fe-S protein maturation auxiliary factor SufT
+PCMIPHHC_00504	gene	849	prmC			
+PCMIPHHC_00504	CDS	849	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+PCMIPHHC_00505	gene	480				
+PCMIPHHC_00505	CDS	480				hypothetical protein
+PCMIPHHC_00506	gene	735	cobB			
+PCMIPHHC_00506	CDS	735	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+PCMIPHHC_00507	gene	606				
+PCMIPHHC_00507	CDS	606				hypothetical protein
+PCMIPHHC_00508	gene	987	trpS			
+PCMIPHHC_00508	CDS	987	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+PCMIPHHC_00509	gene	690	scpA			
+PCMIPHHC_00509	CDS	690	scpA			Segregation and condensation protein A
+PCMIPHHC_00510	gene	504	scpB			
+PCMIPHHC_00510	CDS	504	scpB		COG1386	Segregation and condensation protein B
+PCMIPHHC_00511	gene	1257				
+PCMIPHHC_00511	CDS	1257				hypothetical protein
+PCMIPHHC_00512	gene	561	polC_1			
+PCMIPHHC_00512	CDS	561	polC_1	2.7.7.7		DNA polymerase III PolC-type
+PCMIPHHC_00513	gene	855				
+PCMIPHHC_00513	CDS	855				hypothetical protein
+PCMIPHHC_00514	gene	993	oppD_5			
+PCMIPHHC_00514	CDS	993	oppD_5		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_00515	gene	489				
+PCMIPHHC_00515	CDS	489				hypothetical protein
+PCMIPHHC_00516	gene	1155	oppF_3			
+PCMIPHHC_00516	CDS	1155	oppF_3		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_00517	gene	1005	dppD			
+PCMIPHHC_00517	CDS	1005	dppD		COG0444	Dipeptide transport ATP-binding protein DppD
+PCMIPHHC_00518	gene	942	gsiD			
+PCMIPHHC_00518	CDS	942	gsiD		COG1173	Glutathione transport system permease protein GsiD
+PCMIPHHC_00519	gene	1038	dppB_1			
+PCMIPHHC_00519	CDS	1038	dppB_1		COG0601	Dipeptide transport system permease protein DppB
+PCMIPHHC_00520	gene	356	ssrA			
+PCMIPHHC_00520	tmRNA	356	ssrA			transfer-messenger RNA, SsrA
+PCMIPHHC_00521	gene	279	groS			
+PCMIPHHC_00521	CDS	279	groS		COG0234	10 kDa chaperonin
+PCMIPHHC_00522	gene	1617	groL			
+PCMIPHHC_00522	CDS	1617	groL			60 kDa chaperonin
+PCMIPHHC_00523	gene	198				
+PCMIPHHC_00523	CDS	198				hypothetical protein
+PCMIPHHC_00524	gene	1800	ymdB			
+PCMIPHHC_00524	CDS	1800	ymdB	3.1.1.106		O-acetyl-ADP-ribose deacetylase
+PCMIPHHC_00525	gene	930	galE1			
+PCMIPHHC_00525	CDS	930	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+PCMIPHHC_00526	gene	519	mntR			
+PCMIPHHC_00526	CDS	519	mntR			HTH-type transcriptional regulator MntR
+PCMIPHHC_00527	gene	579	tmung			
+PCMIPHHC_00527	CDS	579	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+PCMIPHHC_00528	gene	375				
+PCMIPHHC_00528	CDS	375				hypothetical protein
+PCMIPHHC_00529	gene	1506	comM			
+PCMIPHHC_00529	CDS	1506	comM		COG0606	Competence protein ComM
+PCMIPHHC_00530	gene	1734	proS			
+PCMIPHHC_00530	CDS	1734	proS	6.1.1.15		Proline--tRNA ligase
+PCMIPHHC_00531	gene	912				
+PCMIPHHC_00531	CDS	912				hypothetical protein
+PCMIPHHC_00532	gene	1056				
+PCMIPHHC_00532	CDS	1056				hypothetical protein
+PCMIPHHC_00533	gene	615				
+PCMIPHHC_00533	CDS	615				hypothetical protein
+PCMIPHHC_00534	gene	195				
+PCMIPHHC_00534	CDS	195				hypothetical protein
+PCMIPHHC_00535	gene	930				
+PCMIPHHC_00535	CDS	930				hypothetical protein
+PCMIPHHC_00536	gene	1077	mnmA			
+PCMIPHHC_00536	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+PCMIPHHC_00537	gene	531	hslV			
+PCMIPHHC_00537	CDS	531	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+PCMIPHHC_00538	gene	1392	hslU			
+PCMIPHHC_00538	CDS	1392	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+PCMIPHHC_00539	gene	630				
+PCMIPHHC_00539	CDS	630				hypothetical protein
+PCMIPHHC_00540	gene	765	rsmJ			
+PCMIPHHC_00540	CDS	765	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+PCMIPHHC_00541	gene	918	miaA			
+PCMIPHHC_00541	CDS	918	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PCMIPHHC_00542	gene	273	hfq			
+PCMIPHHC_00542	CDS	273	hfq		COG1923	RNA-binding protein Hfq
+PCMIPHHC_00543	gene	1221	hflX			
+PCMIPHHC_00543	CDS	1221	hflX		COG2262	GTPase HflX
+PCMIPHHC_00544	gene	942	fmt			
+PCMIPHHC_00544	CDS	942	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+PCMIPHHC_00545	gene	213				
+PCMIPHHC_00545	CDS	213				hypothetical protein
+PCMIPHHC_00546	gene	1170	oppF_4			
+PCMIPHHC_00546	CDS	1170	oppF_4		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_00547	gene	1740				
+PCMIPHHC_00547	CDS	1740			COG0747	putative ABC transporter-binding protein
+PCMIPHHC_00548	gene	966	gsiC_3			
+PCMIPHHC_00548	CDS	966	gsiC_3		COG0601	Glutathione transport system permease protein GsiC
+PCMIPHHC_00549	gene	1551				
+PCMIPHHC_00549	CDS	1551				hypothetical protein
+PCMIPHHC_00550	gene	582	sigH			
+PCMIPHHC_00550	CDS	582	sigH		COG1595	RNA polymerase sigma-H factor
+PCMIPHHC_00551	gene	618				
+PCMIPHHC_00551	CDS	618				hypothetical protein
+PCMIPHHC_00552	gene	585				
+PCMIPHHC_00552	CDS	585				hypothetical protein
+PCMIPHHC_00553	gene	2277	smc_1			
+PCMIPHHC_00553	CDS	2277	smc_1			Chromosome partition protein Smc
+PCMIPHHC_00554	gene	855	czcD			
+PCMIPHHC_00554	CDS	855	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+PCMIPHHC_00555	gene	1269	trpB_2			
+PCMIPHHC_00555	CDS	1269	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+PCMIPHHC_00556	gene	819	ttdA			
+PCMIPHHC_00556	CDS	819	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+PCMIPHHC_00557	gene	495	fumB			
+PCMIPHHC_00557	CDS	495	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+PCMIPHHC_00558	gene	1131				
+PCMIPHHC_00558	CDS	1131		1.1.1.38		NAD-dependent malic enzyme
+PCMIPHHC_00559	gene	1239				
+PCMIPHHC_00559	CDS	1239				hypothetical protein
+PCMIPHHC_00560	gene	735	lnrL_2			
+PCMIPHHC_00560	CDS	735	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+PCMIPHHC_00561	gene	846	thrB			
+PCMIPHHC_00561	CDS	846	thrB	2.7.1.39	COG0083	Homoserine kinase
+PCMIPHHC_00562	gene	1041	thrC			
+PCMIPHHC_00562	CDS	1041	thrC	4.2.3.1	COG0498	Threonine synthase
+PCMIPHHC_00563	gene	2163	pyrH_1			
+PCMIPHHC_00563	CDS	2163	pyrH_1			Uridylate kinase
+PCMIPHHC_00564	gene	1746	ilvB			
+PCMIPHHC_00564	CDS	1746	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+PCMIPHHC_00565	gene	516	ilvH			
+PCMIPHHC_00565	CDS	516	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+PCMIPHHC_00566	gene	1011	ilvC			
+PCMIPHHC_00566	CDS	1011	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+PCMIPHHC_00567	gene	1665	ilvD			
+PCMIPHHC_00567	CDS	1665	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+PCMIPHHC_00568	gene	1617	cimA			
+PCMIPHHC_00568	CDS	1617	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+PCMIPHHC_00569	gene	1542	leuA			
+PCMIPHHC_00569	CDS	1542	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+PCMIPHHC_00570	gene	1254	dmdA			
+PCMIPHHC_00570	CDS	1254	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+PCMIPHHC_00571	gene	498	DmdB_2			
+PCMIPHHC_00571	CDS	498	DmdB_2	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+PCMIPHHC_00572	gene	1065	leuB			
+PCMIPHHC_00572	CDS	1065	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+PCMIPHHC_00573	gene	3300	carB			
+PCMIPHHC_00573	CDS	3300	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+PCMIPHHC_00574	gene	1179	carA			
+PCMIPHHC_00574	CDS	1179	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+PCMIPHHC_00575	gene	732				
+PCMIPHHC_00575	CDS	732				hypothetical protein
+PCMIPHHC_00576	gene	549				
+PCMIPHHC_00576	CDS	549				hypothetical protein
+PCMIPHHC_00577	gene	1056	corA			
+PCMIPHHC_00577	CDS	1056	corA		COG0598	Cobalt/magnesium transport protein CorA
+PCMIPHHC_00578	gene	540				
+PCMIPHHC_00578	CDS	540				hypothetical protein
+PCMIPHHC_00579	gene	552				
+PCMIPHHC_00579	CDS	552				hypothetical protein
+PCMIPHHC_00580	gene	1380				
+PCMIPHHC_00580	CDS	1380				hypothetical protein
+PCMIPHHC_00581	gene	462				
+PCMIPHHC_00581	CDS	462				hypothetical protein
+PCMIPHHC_00582	gene	669	sfsA			
+PCMIPHHC_00582	CDS	669	sfsA		COG1489	Sugar fermentation stimulation protein A
+PCMIPHHC_00583	gene	195				
+PCMIPHHC_00583	CDS	195				hypothetical protein
+PCMIPHHC_00584	gene	414	cymR_1			
+PCMIPHHC_00584	CDS	414	cymR_1			HTH-type transcriptional regulator CymR
+PCMIPHHC_00585	gene	1665				
+PCMIPHHC_00585	CDS	1665				hypothetical protein
+PCMIPHHC_00586	gene	657				
+PCMIPHHC_00586	CDS	657				hypothetical protein
+PCMIPHHC_00587	gene	885	ftsY			
+PCMIPHHC_00587	CDS	885	ftsY		COG0552	Signal recognition particle receptor FtsY
+PCMIPHHC_00588	gene	1380				
+PCMIPHHC_00588	CDS	1380				hypothetical protein
+PCMIPHHC_00589	gene	1152	epsN			
+PCMIPHHC_00589	CDS	1152	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+PCMIPHHC_00590	gene	1464	lnt			
+PCMIPHHC_00590	CDS	1464	lnt	2.3.1.269		Apolipoprotein N-acyltransferase
+PCMIPHHC_00591	gene	1008	queA			
+PCMIPHHC_00591	CDS	1008	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PCMIPHHC_00592	gene	498	ruvC			
+PCMIPHHC_00592	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+PCMIPHHC_00593	gene	4104	polC_2			
+PCMIPHHC_00593	CDS	4104	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PCMIPHHC_00594	gene	540				
+PCMIPHHC_00594	CDS	540				hypothetical protein
+PCMIPHHC_00595	gene	768	proC			
+PCMIPHHC_00595	CDS	768	proC	1.5.1.2		Pyrroline-5-carboxylate reductase
+PCMIPHHC_00596	gene	76				
+PCMIPHHC_00596	tRNA	76				tRNA-Thr(cgt)
+PCMIPHHC_00597	gene	1224	tilS			
+PCMIPHHC_00597	CDS	1224	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+PCMIPHHC_00598	gene	1833	ftsH			
+PCMIPHHC_00598	CDS	1833	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+PCMIPHHC_00599	gene	423				
+PCMIPHHC_00599	CDS	423				hypothetical protein
+PCMIPHHC_00600	gene	1461				
+PCMIPHHC_00600	CDS	1461				hypothetical protein
+PCMIPHHC_00601	gene	1305	wbpA			
+PCMIPHHC_00601	CDS	1305	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+PCMIPHHC_00602	gene	708	glpG			
+PCMIPHHC_00602	CDS	708	glpG	3.4.21.105		Rhomboid protease GlpG
+PCMIPHHC_00603	gene	1062	iolX			
+PCMIPHHC_00603	CDS	1062	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+PCMIPHHC_00604	gene	906	eamA			
+PCMIPHHC_00604	CDS	906	eamA		COG0697	putative amino-acid metabolite efflux pump
+PCMIPHHC_00605	gene	1638				
+PCMIPHHC_00605	CDS	1638		3.6.1.1		Cobalt-dependent inorganic pyrophosphatase
+PCMIPHHC_00606	gene	1008	mreB			
+PCMIPHHC_00606	CDS	1008	mreB		COG1077	Cell shape-determining protein MreB
+PCMIPHHC_00607	gene	177				
+PCMIPHHC_00607	CDS	177				hypothetical protein
+PCMIPHHC_00608	gene	480				
+PCMIPHHC_00608	CDS	480				hypothetical protein
+PCMIPHHC_00609	gene	345				
+PCMIPHHC_00609	CDS	345				hypothetical protein
+PCMIPHHC_00610	gene	1674	mrdA			
+PCMIPHHC_00610	CDS	1674	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+PCMIPHHC_00611	gene	729	glnQ			
+PCMIPHHC_00611	CDS	729	glnQ			Glutamine transport ATP-binding protein GlnQ
+PCMIPHHC_00612	gene	651	yecS			
+PCMIPHHC_00612	CDS	651	yecS		COG0765	L-cystine transport system permease protein YecS
+PCMIPHHC_00613	gene	741	artJ			
+PCMIPHHC_00613	CDS	741	artJ		COG0834	ABC transporter arginine-binding protein 1
+PCMIPHHC_00614	gene	1317	pbuG			
+PCMIPHHC_00614	CDS	1317	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+PCMIPHHC_00615	gene	1260				
+PCMIPHHC_00615	CDS	1260				hypothetical protein
+PCMIPHHC_00616	gene	1263				
+PCMIPHHC_00616	CDS	1263				hypothetical protein
+PCMIPHHC_00617	gene	453				
+PCMIPHHC_00617	CDS	453				hypothetical protein
+PCMIPHHC_00618	gene	1638				
+PCMIPHHC_00618	CDS	1638				hypothetical protein
+PCMIPHHC_00619	gene	1641				
+PCMIPHHC_00619	CDS	1641				hypothetical protein
+PCMIPHHC_00620	gene	1344				
+PCMIPHHC_00620	CDS	1344				hypothetical protein
+PCMIPHHC_00621	gene	309				
+PCMIPHHC_00621	CDS	309				hypothetical protein
+PCMIPHHC_00622	gene	456				
+PCMIPHHC_00622	CDS	456				hypothetical protein
+PCMIPHHC_00623	gene	387	rpsF			
+PCMIPHHC_00623	CDS	387	rpsF		COG0360	30S ribosomal protein S6
+PCMIPHHC_00624	gene	426	ssb			
+PCMIPHHC_00624	CDS	426	ssb		COG0629	Single-stranded DNA-binding protein
+PCMIPHHC_00625	gene	228	rpsR			
+PCMIPHHC_00625	CDS	228	rpsR			30S ribosomal protein S18
+PCMIPHHC_00626	gene	348				
+PCMIPHHC_00626	CDS	348				hypothetical protein
+PCMIPHHC_00627	gene	876	gloB_1			
+PCMIPHHC_00627	CDS	876	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+PCMIPHHC_00628	gene	711				
+PCMIPHHC_00628	CDS	711				queuosine precursor transporter
+PCMIPHHC_00629	gene	1092	gtf3			
+PCMIPHHC_00629	CDS	1092	gtf3	2.4.1.-		Glucosyltransferase 3
+PCMIPHHC_00630	gene	1125	wbpI			
+PCMIPHHC_00630	CDS	1125	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+PCMIPHHC_00631	gene	411				
+PCMIPHHC_00631	CDS	411				hypothetical protein
+PCMIPHHC_00632	gene	351				
+PCMIPHHC_00632	CDS	351				hypothetical protein
+PCMIPHHC_00633	gene	1134				
+PCMIPHHC_00633	CDS	1134				hypothetical protein
+PCMIPHHC_00634	gene	1398				
+PCMIPHHC_00634	CDS	1398				hypothetical protein
+PCMIPHHC_00635	gene	3798				
+PCMIPHHC_00635	CDS	3798				hypothetical protein
+PCMIPHHC_00636	gene	1194	tuaC			
+PCMIPHHC_00636	CDS	1194	tuaC	2.4.-.-	COG0438	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+PCMIPHHC_00637	gene	1440				
+PCMIPHHC_00637	CDS	1440				hypothetical protein
+PCMIPHHC_00638	gene	858				
+PCMIPHHC_00638	CDS	858				hypothetical protein
+PCMIPHHC_00639	gene	1167	mshA_1			
+PCMIPHHC_00639	CDS	1167	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PCMIPHHC_00640	gene	1047	mshA_2			
+PCMIPHHC_00640	CDS	1047	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PCMIPHHC_00641	gene	1152				
+PCMIPHHC_00641	CDS	1152				hypothetical protein
+PCMIPHHC_00642	gene	1146				
+PCMIPHHC_00642	CDS	1146				hypothetical protein
+PCMIPHHC_00643	gene	1176	mshA_3			
+PCMIPHHC_00643	CDS	1176	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PCMIPHHC_00644	gene	1062				
+PCMIPHHC_00644	CDS	1062				hypothetical protein
+PCMIPHHC_00645	gene	1257				
+PCMIPHHC_00645	CDS	1257				hypothetical protein
+PCMIPHHC_00646	gene	1041				
+PCMIPHHC_00646	CDS	1041		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+PCMIPHHC_00647	gene	1305				
+PCMIPHHC_00647	CDS	1305				hypothetical protein
+PCMIPHHC_00648	gene	1227				
+PCMIPHHC_00648	CDS	1227				hypothetical protein
+PCMIPHHC_00649	gene	411				
+PCMIPHHC_00649	CDS	411				hypothetical protein
+PCMIPHHC_00650	gene	363				
+PCMIPHHC_00650	CDS	363				hypothetical protein
+PCMIPHHC_00651	gene	234				
+PCMIPHHC_00651	CDS	234				hypothetical protein
+PCMIPHHC_00652	gene	210				
+PCMIPHHC_00652	CDS	210				hypothetical protein
+PCMIPHHC_00653	gene	126				
+PCMIPHHC_00653	CDS	126				hypothetical protein
+PCMIPHHC_00654	gene	2979				
+PCMIPHHC_00654	CDS	2979				hypothetical protein
+PCMIPHHC_00655	gene	1203				
+PCMIPHHC_00655	CDS	1203				hypothetical protein
+PCMIPHHC_00656	gene	606	yihX			
+PCMIPHHC_00656	CDS	606	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+PCMIPHHC_00657	gene	624				
+PCMIPHHC_00657	CDS	624				hypothetical protein
+PCMIPHHC_00658	gene	798				
+PCMIPHHC_00658	CDS	798				hypothetical protein
+PCMIPHHC_00659	gene	1407				
+PCMIPHHC_00659	CDS	1407				hypothetical protein
+PCMIPHHC_00660	gene	1923				
+PCMIPHHC_00660	CDS	1923				hypothetical protein
+PCMIPHHC_00661	gene	846	nadE_1			
+PCMIPHHC_00661	CDS	846	nadE_1	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+PCMIPHHC_00662	gene	531				
+PCMIPHHC_00662	CDS	531				hypothetical protein
+PCMIPHHC_00663	gene	483	ispF			
+PCMIPHHC_00663	CDS	483	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+PCMIPHHC_00664	gene	399				
+PCMIPHHC_00664	CDS	399				hypothetical protein
+PCMIPHHC_00665	gene	489				
+PCMIPHHC_00665	CDS	489				hypothetical protein
+PCMIPHHC_00666	gene	735				
+PCMIPHHC_00666	CDS	735				hypothetical protein
+PCMIPHHC_00667	gene	807	yidA			
+PCMIPHHC_00667	CDS	807	yidA	3.1.3.23	COG0561	Sugar phosphatase YidA
+PCMIPHHC_00668	gene	861	clsA			
+PCMIPHHC_00668	CDS	861	clsA	2.7.8.-		Cardiolipin synthase A
+PCMIPHHC_00669	gene	1332	miaB_2			
+PCMIPHHC_00669	CDS	1332	miaB_2	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PCMIPHHC_00670	gene	882	speE			
+PCMIPHHC_00670	CDS	882	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+PCMIPHHC_00671	gene	393	speH			
+PCMIPHHC_00671	CDS	393	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+PCMIPHHC_00672	gene	567	puuR			
+PCMIPHHC_00672	CDS	567	puuR			HTH-type transcriptional regulator PuuR
+PCMIPHHC_00673	gene	513	rbr2			
+PCMIPHHC_00673	CDS	513	rbr2	1.11.1.1	COG1592	Rubrerythrin-2
+PCMIPHHC_00674	gene	396				
+PCMIPHHC_00674	CDS	396		1.15.1.2	COG2033	Putative superoxide reductase
+PCMIPHHC_00675	gene	162	rd			
+PCMIPHHC_00675	CDS	162	rd	1.-.-.-	COG1773	Rubredoxin
+PCMIPHHC_00676	gene	792	flA			
+PCMIPHHC_00676	CDS	792	flA	2.5.1.63	COG1912	5'-fluoro-5'-deoxy-adenosine synthase
+PCMIPHHC_00677	gene	930				
+PCMIPHHC_00677	CDS	930				hypothetical protein
+PCMIPHHC_00678	gene	246	acpP_2			
+PCMIPHHC_00678	CDS	246	acpP_2		COG0236	Acyl carrier protein
+PCMIPHHC_00679	gene	1569				
+PCMIPHHC_00679	CDS	1569				hypothetical protein
+PCMIPHHC_00680	gene	432				
+PCMIPHHC_00680	CDS	432				hypothetical protein
+PCMIPHHC_00681	gene	843	cysK			
+PCMIPHHC_00681	CDS	843	cysK	2.5.1.47		Cysteine synthase
+PCMIPHHC_00682	gene	663	cysE			
+PCMIPHHC_00682	CDS	663	cysE	2.3.1.30		Serine acetyltransferase
+PCMIPHHC_00683	gene	771	ycfH			
+PCMIPHHC_00683	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+PCMIPHHC_00684	gene	1134	wbpE			
+PCMIPHHC_00684	CDS	1134	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+PCMIPHHC_00685	gene	600				
+PCMIPHHC_00685	CDS	600				hypothetical protein
+PCMIPHHC_00686	gene	471				
+PCMIPHHC_00686	CDS	471				hypothetical protein
+PCMIPHHC_00687	gene	915				
+PCMIPHHC_00687	CDS	915				hypothetical protein
+PCMIPHHC_00688	gene	1944				
+PCMIPHHC_00688	CDS	1944				hypothetical protein
+PCMIPHHC_00689	gene	675				
+PCMIPHHC_00689	CDS	675				hypothetical protein
+PCMIPHHC_00690	gene	1647				
+PCMIPHHC_00690	CDS	1647				hypothetical protein
+PCMIPHHC_00691	gene	150	flgE			
+PCMIPHHC_00691	CDS	150	flgE		COG1749	Flagellar hook protein FlgE
+PCMIPHHC_00692	gene	204	swrD			
+PCMIPHHC_00692	CDS	204	swrD		COG1582	Swarming motility protein SwrD
+PCMIPHHC_00693	gene	789	pomA			
+PCMIPHHC_00693	CDS	789	pomA		COG1291	Chemotaxis protein PomA
+PCMIPHHC_00694	gene	867				
+PCMIPHHC_00694	CDS	867				hypothetical protein
+PCMIPHHC_00695	gene	510				
+PCMIPHHC_00695	CDS	510				hypothetical protein
+PCMIPHHC_00696	gene	987	fliM			
+PCMIPHHC_00696	CDS	987	fliM		COG1868	Flagellar motor switch protein FliM
+PCMIPHHC_00697	gene	489	cheC_1			
+PCMIPHHC_00697	CDS	489	cheC_1	3.-.-.-	COG1776	CheY-P phosphatase CheC
+PCMIPHHC_00698	gene	546				
+PCMIPHHC_00698	CDS	546				hypothetical protein
+PCMIPHHC_00699	gene	741	ccrA			
+PCMIPHHC_00699	CDS	741	ccrA	3.5.2.6		Metallo-beta-lactamase type 2
+PCMIPHHC_00700	gene	951				
+PCMIPHHC_00700	CDS	951				hypothetical protein
+PCMIPHHC_00701	gene	618				
+PCMIPHHC_00701	CDS	618				hypothetical protein
+PCMIPHHC_00702	gene	465				
+PCMIPHHC_00702	CDS	465				hypothetical protein
+PCMIPHHC_00703	gene	594				
+PCMIPHHC_00703	CDS	594				hypothetical protein
+PCMIPHHC_00704	gene	1437	ruvB_1			
+PCMIPHHC_00704	CDS	1437	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+PCMIPHHC_00705	gene	357				
+PCMIPHHC_00705	CDS	357			COG0718	Nucleoid-associated protein
+PCMIPHHC_00706	gene	1002	gap			
+PCMIPHHC_00706	CDS	1002	gap	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+PCMIPHHC_00707	gene	1965	pgk/tpi			
+PCMIPHHC_00707	CDS	1965	pgk/tpi		COG0126	Bifunctional PGK/TIM
+PCMIPHHC_00708	gene	450	yqeY			
+PCMIPHHC_00708	CDS	450	yqeY		COG1610	putative protein YqeY
+PCMIPHHC_00709	gene	651	yfiC			
+PCMIPHHC_00709	CDS	651	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PCMIPHHC_00710	gene	510	acpS			
+PCMIPHHC_00710	CDS	510	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+PCMIPHHC_00711	gene	273				
+PCMIPHHC_00711	CDS	273				hypothetical protein
+PCMIPHHC_00712	gene	1278	tig			
+PCMIPHHC_00712	CDS	1278	tig	5.2.1.8	COG0544	Trigger factor
+PCMIPHHC_00713	gene	612	clpP			
+PCMIPHHC_00713	CDS	612	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+PCMIPHHC_00714	gene	654				
+PCMIPHHC_00714	CDS	654				hypothetical protein
+PCMIPHHC_00715	gene	267				
+PCMIPHHC_00715	CDS	267				hypothetical protein
+PCMIPHHC_00716	gene	750	fliP			
+PCMIPHHC_00716	CDS	750	fliP		COG1338	Flagellar biosynthetic protein FliP
+PCMIPHHC_00717	gene	294				
+PCMIPHHC_00717	CDS	294				hypothetical protein
+PCMIPHHC_00718	gene	363	cheY			
+PCMIPHHC_00718	CDS	363	cheY		COG0784	Chemotaxis protein CheY
+PCMIPHHC_00719	gene	447	cheW_1			
+PCMIPHHC_00719	CDS	447	cheW_1		COG0835	Chemotaxis protein CheW
+PCMIPHHC_00720	gene	2016	cheA			
+PCMIPHHC_00720	CDS	2016	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+PCMIPHHC_00721	gene	1227	cinA			
+PCMIPHHC_00721	CDS	1227	cinA		COG1058	CinA-like protein
+PCMIPHHC_00722	gene	954	pcm			
+PCMIPHHC_00722	CDS	954	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+PCMIPHHC_00723	gene	678	yknY_2			
+PCMIPHHC_00723	CDS	678	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PCMIPHHC_00724	gene	2559				
+PCMIPHHC_00724	CDS	2559				hypothetical protein
+PCMIPHHC_00725	gene	687	rsmG			
+PCMIPHHC_00725	CDS	687	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+PCMIPHHC_00726	gene	711	lipM			
+PCMIPHHC_00726	CDS	711	lipM	2.3.1.181		Octanoyltransferase LipM
+PCMIPHHC_00727	gene	669	rsmI			
+PCMIPHHC_00727	CDS	669	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+PCMIPHHC_00728	gene	432				
+PCMIPHHC_00728	CDS	432				hypothetical protein
+PCMIPHHC_00729	gene	1215	smc_2			
+PCMIPHHC_00729	CDS	1215	smc_2			Chromosome partition protein Smc
+PCMIPHHC_00730	gene	765				
+PCMIPHHC_00730	CDS	765				hypothetical protein
+PCMIPHHC_00731	gene	696				
+PCMIPHHC_00731	CDS	696				hypothetical protein
+PCMIPHHC_00732	gene	618	lptD_1			
+PCMIPHHC_00732	CDS	618	lptD_1			LPS-assembly protein LptD
+PCMIPHHC_00733	gene	2592				
+PCMIPHHC_00733	CDS	2592		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+PCMIPHHC_00734	gene	1548				
+PCMIPHHC_00734	CDS	1548		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+PCMIPHHC_00735	gene	306				
+PCMIPHHC_00735	CDS	306				hypothetical protein
+PCMIPHHC_00736	gene	405	cfiA			
+PCMIPHHC_00736	CDS	405	cfiA	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+PCMIPHHC_00737	gene	453	cheW_2			
+PCMIPHHC_00737	CDS	453	cheW_2		COG0835	Chemotaxis protein CheW
+PCMIPHHC_00738	gene	1383	cysS			
+PCMIPHHC_00738	CDS	1383	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PCMIPHHC_00739	gene	1284	glyA			
+PCMIPHHC_00739	CDS	1284	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+PCMIPHHC_00740	gene	630	upp			
+PCMIPHHC_00740	CDS	630	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+PCMIPHHC_00741	gene	2133	rnr			
+PCMIPHHC_00741	CDS	2133	rnr	3.1.13.1	COG0557	Ribonuclease R
+PCMIPHHC_00742	gene	420				
+PCMIPHHC_00742	CDS	420				hypothetical protein
+PCMIPHHC_00743	gene	930	yrbG			
+PCMIPHHC_00743	CDS	930	yrbG		COG0530	Inner membrane protein YrbG
+PCMIPHHC_00744	gene	858				
+PCMIPHHC_00744	CDS	858				hypothetical protein
+PCMIPHHC_00745	gene	1389	tldD			
+PCMIPHHC_00745	CDS	1389	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+PCMIPHHC_00746	gene	1308				
+PCMIPHHC_00746	CDS	1308				hypothetical protein
+PCMIPHHC_00747	gene	831				
+PCMIPHHC_00747	CDS	831				hypothetical protein
+PCMIPHHC_00748	gene	2145	relA			
+PCMIPHHC_00748	CDS	2145	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+PCMIPHHC_00749	gene	450	dtd			
+PCMIPHHC_00749	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+PCMIPHHC_00750	gene	570	queH			
+PCMIPHHC_00750	CDS	570	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+PCMIPHHC_00751	gene	774				
+PCMIPHHC_00751	CDS	774				hypothetical protein
+PCMIPHHC_00752	gene	411	rsbW			
+PCMIPHHC_00752	CDS	411	rsbW	2.7.11.1		Serine-protein kinase RsbW
+PCMIPHHC_00753	gene	1308	trmFO			
+PCMIPHHC_00753	CDS	1308	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+PCMIPHHC_00754	gene	1368				
+PCMIPHHC_00754	CDS	1368				hypothetical protein
+PCMIPHHC_00755	gene	834				
+PCMIPHHC_00755	CDS	834				hypothetical protein
+PCMIPHHC_00756	gene	1188				
+PCMIPHHC_00756	CDS	1188				hypothetical protein
+PCMIPHHC_00757	gene	486				
+PCMIPHHC_00757	CDS	486				hypothetical protein
+PCMIPHHC_00758	gene	840				
+PCMIPHHC_00758	CDS	840				hypothetical protein
+PCMIPHHC_00759	gene	1923	thrZ			
+PCMIPHHC_00759	CDS	1923	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+PCMIPHHC_00760	gene	486	coaD			
+PCMIPHHC_00760	CDS	486	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+PCMIPHHC_00761	gene	630	pphA			
+PCMIPHHC_00761	CDS	630	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+PCMIPHHC_00762	gene	645				
+PCMIPHHC_00762	CDS	645				hypothetical protein
+PCMIPHHC_00763	gene	1221				
+PCMIPHHC_00763	CDS	1221		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+PCMIPHHC_00764	gene	429				
+PCMIPHHC_00764	CDS	429				hypothetical protein
+PCMIPHHC_00765	gene	387				
+PCMIPHHC_00765	CDS	387				hypothetical protein
+PCMIPHHC_00766	gene	1209				
+PCMIPHHC_00766	CDS	1209		3.4.21.-		putative CtpA-like serine protease
+PCMIPHHC_00767	gene	789	trmI			
+PCMIPHHC_00767	CDS	789	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+PCMIPHHC_00768	gene	447				
+PCMIPHHC_00768	CDS	447				hypothetical protein
+PCMIPHHC_00769	gene	879				
+PCMIPHHC_00769	CDS	879				hypothetical protein
+PCMIPHHC_00770	gene	1668	udk			
+PCMIPHHC_00770	CDS	1668	udk	2.7.1.48		Uridine kinase
+PCMIPHHC_00771	gene	74				
+PCMIPHHC_00771	tRNA	74				tRNA-Gln(ttg)
+PCMIPHHC_00772	gene	1416	aglA_2			
+PCMIPHHC_00772	CDS	1416	aglA_2	3.2.1.20	COG1486	Alpha-glucosidase
+PCMIPHHC_00773	gene	663	menG			
+PCMIPHHC_00773	CDS	663	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+PCMIPHHC_00774	gene	1077	nasB			
+PCMIPHHC_00774	CDS	1077	nasB		COG1251	Assimilatory nitrate reductase electron transfer subunit
+PCMIPHHC_00775	gene	1197	fprA			
+PCMIPHHC_00775	CDS	1197	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+PCMIPHHC_00776	gene	3135	COQ3			
+PCMIPHHC_00776	CDS	3135	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+PCMIPHHC_00777	gene	2583				
+PCMIPHHC_00777	CDS	2583				hypothetical protein
+PCMIPHHC_00778	gene	1164	fliC			
+PCMIPHHC_00778	CDS	1164	fliC			A-type flagellin
+PCMIPHHC_00779	gene	765	lpxD			
+PCMIPHHC_00779	CDS	765	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+PCMIPHHC_00780	gene	1197				
+PCMIPHHC_00780	CDS	1197				hypothetical protein
+PCMIPHHC_00781	gene	1248				
+PCMIPHHC_00781	CDS	1248				hypothetical protein
+PCMIPHHC_00782	gene	789	rpsB			
+PCMIPHHC_00782	CDS	789	rpsB			30S ribosomal protein S2
+PCMIPHHC_00783	gene	321				
+PCMIPHHC_00783	CDS	321				hypothetical protein
+PCMIPHHC_00784	gene	723				
+PCMIPHHC_00784	CDS	723				hypothetical protein
+PCMIPHHC_00785	gene	798	lnrL_3			
+PCMIPHHC_00785	CDS	798	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+PCMIPHHC_00786	gene	366	ytrA			
+PCMIPHHC_00786	CDS	366	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+PCMIPHHC_00787	gene	1914	glgE			
+PCMIPHHC_00787	CDS	1914	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+PCMIPHHC_00788	gene	789	rbgA			
+PCMIPHHC_00788	CDS	789	rbgA		COG1161	Ribosome biogenesis GTPase A
+PCMIPHHC_00789	gene	1416	pgcA			
+PCMIPHHC_00789	CDS	1416	pgcA	5.4.2.2		Phosphoglucomutase
+PCMIPHHC_00790	gene	1800				
+PCMIPHHC_00790	CDS	1800				hypothetical protein
+PCMIPHHC_00791	gene	939				
+PCMIPHHC_00791	CDS	939				hypothetical protein
+PCMIPHHC_00792	gene	816				
+PCMIPHHC_00792	CDS	816				hypothetical protein
+PCMIPHHC_00793	gene	222				
+PCMIPHHC_00793	CDS	222				hypothetical protein
+PCMIPHHC_00794	gene	315				
+PCMIPHHC_00794	CDS	315				hypothetical protein
+PCMIPHHC_00795	gene	2073	infB			
+PCMIPHHC_00795	CDS	2073	infB			Translation initiation factor IF-2
+PCMIPHHC_00796	gene	1209				
+PCMIPHHC_00796	CDS	1209				hypothetical protein
+PCMIPHHC_00797	gene	408				
+PCMIPHHC_00797	CDS	408				hypothetical protein
+PCMIPHHC_00798	gene	603				
+PCMIPHHC_00798	CDS	603				hypothetical protein
+PCMIPHHC_00799	gene	744				
+PCMIPHHC_00799	CDS	744				hypothetical protein
+PCMIPHHC_00800	gene	474	bcp			
+PCMIPHHC_00800	CDS	474	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+PCMIPHHC_00801	gene	216				
+PCMIPHHC_00801	CDS	216				hypothetical protein
+PCMIPHHC_00802	gene	1005				
+PCMIPHHC_00802	CDS	1005				hypothetical protein
+PCMIPHHC_00803	gene	516				
+PCMIPHHC_00803	CDS	516				hypothetical protein
+PCMIPHHC_00804	gene	780				
+PCMIPHHC_00804	CDS	780		3.4.-.-	COG1659	Maritimacin
+PCMIPHHC_00805	gene	345				
+PCMIPHHC_00805	CDS	345				hypothetical protein
+PCMIPHHC_00806	gene	747	thi4			
+PCMIPHHC_00806	CDS	747	thi4	2.4.2.59		Thiamine thiazole synthase
+PCMIPHHC_00807	gene	1275	thiC			
+PCMIPHHC_00807	CDS	1275	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+PCMIPHHC_00808	gene	747				
+PCMIPHHC_00808	CDS	747				hypothetical protein
+PCMIPHHC_00809	gene	1197	thiDN			
+PCMIPHHC_00809	CDS	1197	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+PCMIPHHC_00810	gene	414	queF			
+PCMIPHHC_00810	CDS	414	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+PCMIPHHC_00811	gene	639				
+PCMIPHHC_00811	CDS	639				queuosine precursor transporter
+PCMIPHHC_00812	gene	753	ybhF			
+PCMIPHHC_00812	CDS	753	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+PCMIPHHC_00813	gene	1467				
+PCMIPHHC_00813	CDS	1467				hypothetical protein
+PCMIPHHC_00814	gene	813	RBKS			
+PCMIPHHC_00814	CDS	813	RBKS	2.7.1.15		Ribokinase
+PCMIPHHC_00815	gene	1017				
+PCMIPHHC_00815	CDS	1017				hypothetical protein
+PCMIPHHC_00816	gene	684	comB			
+PCMIPHHC_00816	CDS	684	comB	3.1.3.71	COG2045	putative 2-phosphosulfolactate phosphatase
+PCMIPHHC_00817	gene	882	fabD			
+PCMIPHHC_00817	CDS	882	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+PCMIPHHC_00818	gene	510	bioY			
+PCMIPHHC_00818	CDS	510	bioY		COG1268	Biotin transporter BioY
+PCMIPHHC_00819	gene	945				
+PCMIPHHC_00819	CDS	945		1.6.5.11	COG2070	NADH:quinone reductase
+PCMIPHHC_00820	gene	414	fabZ			
+PCMIPHHC_00820	CDS	414	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PCMIPHHC_00821	gene	1239	fabF			
+PCMIPHHC_00821	CDS	1239	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PCMIPHHC_00822	gene	1575	pyrG			
+PCMIPHHC_00822	CDS	1575	pyrG	6.3.4.2	COG0504	CTP synthase
+PCMIPHHC_00823	gene	702	hisK			
+PCMIPHHC_00823	CDS	702	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+PCMIPHHC_00824	gene	924	tagO			
+PCMIPHHC_00824	CDS	924	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+PCMIPHHC_00825	gene	3198				
+PCMIPHHC_00825	CDS	3198				hypothetical protein
+PCMIPHHC_00826	gene	648				
+PCMIPHHC_00826	CDS	648		1.11.1.15	COG0450	Peroxiredoxin
+PCMIPHHC_00827	gene	1053				
+PCMIPHHC_00827	CDS	1053				hypothetical protein
+PCMIPHHC_00828	gene	1398	nagZ			
+PCMIPHHC_00828	CDS	1398	nagZ	3.2.1.52		Beta-hexosaminidase
+PCMIPHHC_00829	gene	1263				
+PCMIPHHC_00829	CDS	1263				hypothetical protein
+PCMIPHHC_00830	gene	903	lacF_1			
+PCMIPHHC_00830	CDS	903	lacF_1			Lactose transport system permease protein LacF
+PCMIPHHC_00831	gene	816	araQ_2			
+PCMIPHHC_00831	CDS	816	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+PCMIPHHC_00832	gene	993	glmS_2			
+PCMIPHHC_00832	CDS	993	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PCMIPHHC_00833	gene	1095	nagA			
+PCMIPHHC_00833	CDS	1095	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+PCMIPHHC_00834	gene	1401	yeeO			
+PCMIPHHC_00834	CDS	1401	yeeO		COG0534	putative FMN/FAD exporter YeeO
+PCMIPHHC_00835	gene	429				
+PCMIPHHC_00835	CDS	429				hypothetical protein
+PCMIPHHC_00836	gene	2025				
+PCMIPHHC_00836	CDS	2025				hypothetical protein
+PCMIPHHC_00837	gene	87				
+PCMIPHHC_00837	tRNA	87				tRNA-Leu(cag)
+PCMIPHHC_00838	gene	732	tarA			
+PCMIPHHC_00838	CDS	732	tarA	2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+PCMIPHHC_00839	gene	1200				
+PCMIPHHC_00839	CDS	1200				Uracil permease
+PCMIPHHC_00840	gene	1188	adh2			
+PCMIPHHC_00840	CDS	1188	adh2	1.1.1.192	COG1979	Long-chain-alcohol dehydrogenase 2
+PCMIPHHC_00841	gene	89				
+PCMIPHHC_00841	tRNA	89				tRNA-Ser(cga)
+PCMIPHHC_00842	gene	978	pheS			
+PCMIPHHC_00842	CDS	978	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+PCMIPHHC_00843	gene	2367	pheT			
+PCMIPHHC_00843	CDS	2367	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+PCMIPHHC_00844	gene	573	betI			
+PCMIPHHC_00844	CDS	573	betI			HTH-type transcriptional regulator BetI
+PCMIPHHC_00845	gene	1449	moaA_1			
+PCMIPHHC_00845	CDS	1449	moaA_1			GTP 3',8-cyclase
+PCMIPHHC_00846	gene	972	albA			
+PCMIPHHC_00846	CDS	972	albA	1.21.98.-	COG0535	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+PCMIPHHC_00847	gene	171				
+PCMIPHHC_00847	CDS	171				hypothetical protein
+PCMIPHHC_00848	gene	705				
+PCMIPHHC_00848	CDS	705				hypothetical protein
+PCMIPHHC_00849	gene	960	lacC			
+PCMIPHHC_00849	CDS	960	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+PCMIPHHC_00850	gene	453	IMPDH_1			
+PCMIPHHC_00850	CDS	453	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+PCMIPHHC_00851	gene	1305	mtaB			
+PCMIPHHC_00851	CDS	1305	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+PCMIPHHC_00852	gene	822	ilvE			
+PCMIPHHC_00852	CDS	822	ilvE	2.6.1.42	COG0115	putative branched-chain-amino-acid aminotransferase
+PCMIPHHC_00853	gene	306				
+PCMIPHHC_00853	CDS	306				hypothetical protein
+PCMIPHHC_00854	gene	1911	gyrB			
+PCMIPHHC_00854	CDS	1911	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+PCMIPHHC_00855	gene	555				
+PCMIPHHC_00855	CDS	555				hypothetical protein
+PCMIPHHC_00856	gene	1251	ftsA_1			
+PCMIPHHC_00856	CDS	1251	ftsA_1		COG0849	Cell division protein FtsA
+PCMIPHHC_00857	gene	1056	ftsZ			
+PCMIPHHC_00857	CDS	1056	ftsZ		COG0206	Cell division protein FtsZ
+PCMIPHHC_00858	gene	1701				
+PCMIPHHC_00858	CDS	1701				hypothetical protein
+PCMIPHHC_00859	gene	1206				
+PCMIPHHC_00859	CDS	1206				hypothetical protein
+PCMIPHHC_00860	gene	939	mrdB			
+PCMIPHHC_00860	CDS	939	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+PCMIPHHC_00861	gene	636				
+PCMIPHHC_00861	CDS	636				hypothetical protein
+PCMIPHHC_00862	gene	1371				
+PCMIPHHC_00862	CDS	1371				hypothetical protein
+PCMIPHHC_00863	gene	762				
+PCMIPHHC_00863	CDS	762				hypothetical protein
+PCMIPHHC_00864	gene	915				
+PCMIPHHC_00864	CDS	915		2.1.2.5	COG3643	Glutamate formimidoyltransferase
+PCMIPHHC_00865	gene	456	rlmH			
+PCMIPHHC_00865	CDS	456	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+PCMIPHHC_00866	gene	1368				
+PCMIPHHC_00866	CDS	1368				hypothetical protein
+PCMIPHHC_00867	gene	399	cdd			
+PCMIPHHC_00867	CDS	399	cdd	3.5.4.5	COG0295	Cytidine deaminase
+PCMIPHHC_00868	gene	906	era			
+PCMIPHHC_00868	CDS	906	era		COG1159	GTPase Era
+PCMIPHHC_00869	gene	1092	yqeH			
+PCMIPHHC_00869	CDS	1092	yqeH		COG1161	putative protein YqeH
+PCMIPHHC_00870	gene	1110	dnaJ_1			
+PCMIPHHC_00870	CDS	1110	dnaJ_1		COG0484	Chaperone protein DnaJ
+PCMIPHHC_00871	gene	519	grpE			
+PCMIPHHC_00871	CDS	519	grpE		COG0576	Protein GrpE
+PCMIPHHC_00872	gene	1017	hrcA			
+PCMIPHHC_00872	CDS	1017	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+PCMIPHHC_00873	gene	87				
+PCMIPHHC_00873	tRNA	87				tRNA-Leu(caa)
+PCMIPHHC_00874	gene	1008	ywlC			
+PCMIPHHC_00874	CDS	1008	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+PCMIPHHC_00875	gene	1470	sasA_3			
+PCMIPHHC_00875	CDS	1470	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+PCMIPHHC_00876	gene	879				
+PCMIPHHC_00876	CDS	879				hypothetical protein
+PCMIPHHC_00877	gene	396	rbfA			
+PCMIPHHC_00877	CDS	396	rbfA		COG0858	Ribosome-binding factor A
+PCMIPHHC_00878	gene	930	truB			
+PCMIPHHC_00878	CDS	930	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+PCMIPHHC_00879	gene	882	ribF			
+PCMIPHHC_00879	CDS	882	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+PCMIPHHC_00880	gene	507				
+PCMIPHHC_00880	CDS	507				hypothetical protein
+PCMIPHHC_00881	gene	351				
+PCMIPHHC_00881	CDS	351				hypothetical protein
+PCMIPHHC_00882	gene	1398	secDF			
+PCMIPHHC_00882	CDS	1398	secDF		COG0341	Protein translocase subunit SecDF
+PCMIPHHC_00883	gene	882	secF			
+PCMIPHHC_00883	CDS	882	secF		COG0341	Protein translocase subunit SecF
+PCMIPHHC_00884	gene	1068	cugP			
+PCMIPHHC_00884	CDS	1068	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+PCMIPHHC_00885	gene	450	rplI			
+PCMIPHHC_00885	CDS	450	rplI			50S ribosomal protein L9
+PCMIPHHC_00886	gene	843	rbn			
+PCMIPHHC_00886	CDS	843	rbn	3.1.26.11		Ribonuclease BN
+PCMIPHHC_00887	gene	423				
+PCMIPHHC_00887	CDS	423				hypothetical protein
+PCMIPHHC_00888	gene	918				
+PCMIPHHC_00888	CDS	918			COG0330	putative protein
+PCMIPHHC_00889	gene	483				
+PCMIPHHC_00889	CDS	483				hypothetical protein
+PCMIPHHC_00890	gene	666				
+PCMIPHHC_00890	CDS	666				hypothetical protein
+PCMIPHHC_00891	gene	954	trxB_2			
+PCMIPHHC_00891	CDS	954	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+PCMIPHHC_00892	gene	1752	spoVD			
+PCMIPHHC_00892	CDS	1752	spoVD		COG0768	Stage V sporulation protein D
+PCMIPHHC_00893	gene	900	rsmH			
+PCMIPHHC_00893	CDS	900	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+PCMIPHHC_00894	gene	945	clpC_2			
+PCMIPHHC_00894	CDS	945	clpC_2		COG0542	Negative regulator of genetic competence ClpC/MecB
+PCMIPHHC_00895	gene	1395	clpB			
+PCMIPHHC_00895	CDS	1395	clpB		COG0542	Chaperone protein ClpB
+PCMIPHHC_00896	gene	621	tsaB			
+PCMIPHHC_00896	CDS	621	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PCMIPHHC_00897	gene	477				
+PCMIPHHC_00897	CDS	477				hypothetical protein
+PCMIPHHC_00898	gene	921	mneS			
+PCMIPHHC_00898	CDS	921	mneS		COG0053	Manganese efflux system protein MneS
+PCMIPHHC_00899	gene	1290	eno			
+PCMIPHHC_00899	CDS	1290	eno	4.2.1.11	COG0148	Enolase
+PCMIPHHC_00900	gene	1155	korA_1			
+PCMIPHHC_00900	CDS	1155	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+PCMIPHHC_00901	gene	198	cutD			
+PCMIPHHC_00901	CDS	198	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+PCMIPHHC_00902	gene	1125	gcdB			
+PCMIPHHC_00902	CDS	1125	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+PCMIPHHC_00903	gene	915	metAA			
+PCMIPHHC_00903	CDS	915	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+PCMIPHHC_00904	gene	1293				
+PCMIPHHC_00904	CDS	1293		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+PCMIPHHC_00905	gene	741	coaX			
+PCMIPHHC_00905	CDS	741	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+PCMIPHHC_00906	gene	1344				
+PCMIPHHC_00906	CDS	1344				hypothetical protein
+PCMIPHHC_00907	gene	558				
+PCMIPHHC_00907	CDS	558				hypothetical protein
+PCMIPHHC_00908	gene	1932	mtgA			
+PCMIPHHC_00908	CDS	1932	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+PCMIPHHC_00909	gene	411	ogt			
+PCMIPHHC_00909	CDS	411	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+PCMIPHHC_00910	gene	522				
+PCMIPHHC_00910	CDS	522				hypothetical protein
+PCMIPHHC_00911	gene	1131	dxr			
+PCMIPHHC_00911	CDS	1131	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PCMIPHHC_00912	gene	1506				
+PCMIPHHC_00912	CDS	1506				hypothetical protein
+PCMIPHHC_00913	gene	1035	ispG			
+PCMIPHHC_00913	CDS	1035	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+PCMIPHHC_00914	gene	606				
+PCMIPHHC_00914	CDS	606				hypothetical protein
+PCMIPHHC_00915	gene	714	uppP			
+PCMIPHHC_00915	CDS	714	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+PCMIPHHC_00916	gene	624				
+PCMIPHHC_00916	CDS	624				hypothetical protein
+PCMIPHHC_00917	gene	1461	glgA			
+PCMIPHHC_00917	CDS	1461	glgA	2.4.1.21	COG0297	Glycogen synthase
+PCMIPHHC_00918	gene	1011	galT_1			
+PCMIPHHC_00918	CDS	1011	galT_1	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+PCMIPHHC_00919	gene	276	spoVS_2			
+PCMIPHHC_00919	CDS	276	spoVS_2		COG2359	Stage V sporulation protein S
+PCMIPHHC_00920	gene	231				
+PCMIPHHC_00920	CDS	231				hypothetical protein
+PCMIPHHC_00921	gene	666				
+PCMIPHHC_00921	CDS	666				hypothetical protein
+PCMIPHHC_00922	gene	483				
+PCMIPHHC_00922	CDS	483				hypothetical protein
+PCMIPHHC_00923	gene	663	fliA			
+PCMIPHHC_00923	CDS	663	fliA		COG1191	RNA polymerase sigma factor FliA
+PCMIPHHC_00924	gene	474	cheD			
+PCMIPHHC_00924	CDS	474	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+PCMIPHHC_00925	gene	618	cheC_2			
+PCMIPHHC_00925	CDS	618	cheC_2	3.-.-.-	COG1776	CheY-P phosphatase CheC
+PCMIPHHC_00926	gene	690	ycgR			
+PCMIPHHC_00926	CDS	690	ycgR			Flagellar brake protein YcgR
+PCMIPHHC_00927	gene	828	ylxH			
+PCMIPHHC_00927	CDS	828	ylxH		COG0455	Flagellum site-determining protein YlxH
+PCMIPHHC_00928	gene	1137	flhF			
+PCMIPHHC_00928	CDS	1137	flhF		COG1419	Flagellar biosynthesis protein FlhF
+PCMIPHHC_00929	gene	2037	flhA			
+PCMIPHHC_00929	CDS	2037	flhA		COG1298	Flagellar biosynthesis protein FlhA
+PCMIPHHC_00930	gene	951	flhB_1			
+PCMIPHHC_00930	CDS	951	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+PCMIPHHC_00931	gene	771	fliR			
+PCMIPHHC_00931	CDS	771	fliR		COG1684	Flagellar biosynthetic protein FliR
+PCMIPHHC_00932	gene	1032	mtnA			
+PCMIPHHC_00932	CDS	1032	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+PCMIPHHC_00933	gene	990	prsA			
+PCMIPHHC_00933	CDS	990	prsA	5.2.1.8		Foldase protein PrsA
+PCMIPHHC_00934	gene	768	mazG_2			
+PCMIPHHC_00934	CDS	768	mazG_2	3.6.1.1	COG1694	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG
+PCMIPHHC_00935	gene	642				
+PCMIPHHC_00935	CDS	642				hypothetical protein
+PCMIPHHC_00936	gene	717	rnhB			
+PCMIPHHC_00936	CDS	717	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+PCMIPHHC_00937	gene	855				
+PCMIPHHC_00937	CDS	855				hypothetical protein
+PCMIPHHC_00938	gene	930	cysP			
+PCMIPHHC_00938	CDS	930	cysP		COG0306	Sulfate permease CysP
+PCMIPHHC_00939	gene	1986	mcp1_3			
+PCMIPHHC_00939	CDS	1986	mcp1_3		COG0840	Methyl-accepting chemotaxis protein 1
+PCMIPHHC_00940	gene	417	yhfA			
+PCMIPHHC_00940	CDS	417	yhfA		COG1765	Protein YhfA
+PCMIPHHC_00941	gene	1080	adh1			
+PCMIPHHC_00941	CDS	1080	adh1	1.1.1.192	COG1454	Long-chain-alcohol dehydrogenase 1
+PCMIPHHC_00942	gene	465				
+PCMIPHHC_00942	CDS	465				hypothetical protein
+PCMIPHHC_00943	gene	1491	nnr			
+PCMIPHHC_00943	CDS	1491	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PCMIPHHC_00944	gene	1134	cpoB			
+PCMIPHHC_00944	CDS	1134	cpoB			Cell division coordinator CpoB
+PCMIPHHC_00945	gene	861				
+PCMIPHHC_00945	CDS	861				hypothetical protein
+PCMIPHHC_00946	gene	942	trmB			
+PCMIPHHC_00946	CDS	942	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+PCMIPHHC_00947	gene	1323	dnaA			
+PCMIPHHC_00947	CDS	1323	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+PCMIPHHC_00948	gene	183	fdx			
+PCMIPHHC_00948	CDS	183	fdx		COG1141	Ferredoxin
+PCMIPHHC_00949	gene	741				
+PCMIPHHC_00949	CDS	741				hypothetical protein
+PCMIPHHC_00950	gene	1194				
+PCMIPHHC_00950	CDS	1194				hypothetical protein
+PCMIPHHC_00951	gene	1056				
+PCMIPHHC_00951	CDS	1056				hypothetical protein
+PCMIPHHC_00952	gene	408				
+PCMIPHHC_00952	CDS	408				hypothetical protein
+PCMIPHHC_00953	gene	459				
+PCMIPHHC_00953	CDS	459				hypothetical protein
+PCMIPHHC_00954	gene	1170	tolB			
+PCMIPHHC_00954	CDS	1170	tolB			Tol-Pal system protein TolB
+PCMIPHHC_00955	gene	1278				
+PCMIPHHC_00955	CDS	1278			COG1055	putative transporter
+PCMIPHHC_00956	gene	438				
+PCMIPHHC_00956	CDS	438				hypothetical protein
+PCMIPHHC_00957	gene	1221	mtaD			
+PCMIPHHC_00957	CDS	1221	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+PCMIPHHC_00958	gene	357				
+PCMIPHHC_00958	CDS	357				hypothetical protein
+PCMIPHHC_00959	gene	642	COQ5_2			
+PCMIPHHC_00959	CDS	642	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+PCMIPHHC_00960	gene	345	panD			
+PCMIPHHC_00960	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+PCMIPHHC_00961	gene	915	rluC			
+PCMIPHHC_00961	CDS	915	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+PCMIPHHC_00962	gene	1233				
+PCMIPHHC_00962	CDS	1233				hypothetical protein
+PCMIPHHC_00963	gene	1272				
+PCMIPHHC_00963	CDS	1272				hypothetical protein
+PCMIPHHC_00964	gene	1320	glnA			
+PCMIPHHC_00964	CDS	1320	glnA	6.3.1.2	COG0174	Glutamine synthetase
+PCMIPHHC_00965	gene	1029				
+PCMIPHHC_00965	CDS	1029				hypothetical protein
+PCMIPHHC_00966	gene	1269				
+PCMIPHHC_00966	CDS	1269				hypothetical protein
+PCMIPHHC_00967	gene	951				
+PCMIPHHC_00967	CDS	951				hypothetical protein
+PCMIPHHC_00968	gene	654				
+PCMIPHHC_00968	CDS	654				hypothetical protein
+PCMIPHHC_00969	gene	654	moaA_2			
+PCMIPHHC_00969	CDS	654	moaA_2			GTP 3',8-cyclase
+PCMIPHHC_00970	gene	999	cytR			
+PCMIPHHC_00970	CDS	999	cytR		COG1609	HTH-type transcriptional repressor CytR
+PCMIPHHC_00971	gene	1521				
+PCMIPHHC_00971	CDS	1521				hypothetical protein
+PCMIPHHC_00972	gene	1416				
+PCMIPHHC_00972	CDS	1416				hypothetical protein
+PCMIPHHC_00973	gene	1479	glpK_1			
+PCMIPHHC_00973	CDS	1479	glpK_1	2.7.1.30	COG0554	Glycerol kinase
+PCMIPHHC_00974	gene	936	aptB			
+PCMIPHHC_00974	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+PCMIPHHC_00975	gene	861	aptA			
+PCMIPHHC_00975	CDS	861	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+PCMIPHHC_00976	gene	996	rbsC_2			
+PCMIPHHC_00976	CDS	996	rbsC_2		COG1172	Ribose import permease protein RbsC
+PCMIPHHC_00977	gene	1572	rbsA_2			
+PCMIPHHC_00977	CDS	1572	rbsA_2	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+PCMIPHHC_00978	gene	654				
+PCMIPHHC_00978	CDS	654				hypothetical protein
+PCMIPHHC_00979	gene	972	rbsB			
+PCMIPHHC_00979	CDS	972	rbsB		COG1879	Ribose import binding protein RbsB
+PCMIPHHC_00980	gene	408	rbsD			
+PCMIPHHC_00980	CDS	408	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+PCMIPHHC_00981	gene	891	rbsK			
+PCMIPHHC_00981	CDS	891	rbsK	2.7.1.15		Ribokinase
+PCMIPHHC_00982	gene	564	lemA			
+PCMIPHHC_00982	CDS	564	lemA		COG1704	Protein LemA
+PCMIPHHC_00983	gene	717				
+PCMIPHHC_00983	CDS	717				hypothetical protein
+PCMIPHHC_00984	gene	1644				
+PCMIPHHC_00984	CDS	1644				hypothetical protein
+PCMIPHHC_00985	gene	1209	larC			
+PCMIPHHC_00985	CDS	1209	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+PCMIPHHC_00986	gene	756	larB			
+PCMIPHHC_00986	CDS	756	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+PCMIPHHC_00987	gene	807	larE			
+PCMIPHHC_00987	CDS	807	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+PCMIPHHC_00988	gene	762	xerC			
+PCMIPHHC_00988	CDS	762	xerC		COG4973	Tyrosine recombinase XerC
+PCMIPHHC_00989	gene	549	ydaF			
+PCMIPHHC_00989	CDS	549	ydaF	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+PCMIPHHC_00990	gene	255				
+PCMIPHHC_00990	CDS	255				hypothetical protein
+PCMIPHHC_00991	gene	1251				
+PCMIPHHC_00991	CDS	1251				hypothetical protein
+PCMIPHHC_00992	gene	387				
+PCMIPHHC_00992	CDS	387				hypothetical protein
+PCMIPHHC_00993	gene	1350				
+PCMIPHHC_00993	CDS	1350				hypothetical protein
+PCMIPHHC_00994	gene	555				
+PCMIPHHC_00994	CDS	555				hypothetical protein
+PCMIPHHC_00995	gene	264	tusB			
+PCMIPHHC_00995	CDS	264	tusB			Protein TusB
+PCMIPHHC_00996	gene	354				
+PCMIPHHC_00996	CDS	354				hypothetical protein
+PCMIPHHC_00997	gene	357	dsrE			
+PCMIPHHC_00997	CDS	357	dsrE	2.8.1.-	COG1553	Putative sulfurtransferase DsrE
+PCMIPHHC_00998	gene	999				
+PCMIPHHC_00998	CDS	999				hypothetical protein
+PCMIPHHC_00999	gene	240				
+PCMIPHHC_00999	CDS	240			COG0425	Putative sulfur carrier protein
+PCMIPHHC_01000	gene	4605				
+PCMIPHHC_01000	CDS	4605				hypothetical protein
+PCMIPHHC_01001	gene	453				
+PCMIPHHC_01001	CDS	453				hypothetical protein
+PCMIPHHC_01002	gene	957				
+PCMIPHHC_01002	CDS	957				hypothetical protein
+PCMIPHHC_01003	gene	3027				
+PCMIPHHC_01003	CDS	3027				hypothetical protein
+PCMIPHHC_01004	gene	3372				
+PCMIPHHC_01004	CDS	3372				hypothetical protein
+PCMIPHHC_01005	gene	510				
+PCMIPHHC_01005	CDS	510				hypothetical protein
+PCMIPHHC_01006	gene	3042	rapA			
+PCMIPHHC_01006	CDS	3042	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+PCMIPHHC_01007	gene	1755				
+PCMIPHHC_01007	CDS	1755				hypothetical protein
+PCMIPHHC_01008	gene	3870				
+PCMIPHHC_01008	CDS	3870				hypothetical protein
+PCMIPHHC_01009	gene	306				
+PCMIPHHC_01009	CDS	306				hypothetical protein
+PCMIPHHC_01010	gene	114				
+PCMIPHHC_01010	CDS	114				hypothetical protein
+PCMIPHHC_01011	gene	243				
+PCMIPHHC_01011	CDS	243				hypothetical protein
+PCMIPHHC_01012	gene	1089				
+PCMIPHHC_01012	CDS	1089				hypothetical protein
+PCMIPHHC_01013	gene	327				
+PCMIPHHC_01013	CDS	327				hypothetical protein
+PCMIPHHC_01014	gene	399				
+PCMIPHHC_01014	CDS	399				hypothetical protein
+PCMIPHHC_01015	gene	312				
+PCMIPHHC_01015	CDS	312				hypothetical protein
+PCMIPHHC_01016	gene	555				
+PCMIPHHC_01016	CDS	555				hypothetical protein
+PCMIPHHC_01017	gene	792				
+PCMIPHHC_01017	CDS	792				IS200/IS605 family transposase ISTma1
+PCMIPHHC_01018	gene	441				
+PCMIPHHC_01018	CDS	441				IS200/IS605 family transposase ISTma1
+PCMIPHHC_01019	gene	864				
+PCMIPHHC_01019	CDS	864				hypothetical protein
+PCMIPHHC_01020	gene	900	rhaS			
+PCMIPHHC_01020	CDS	900	rhaS			HTH-type transcriptional activator RhaS
+PCMIPHHC_01021	gene	1002	iolS_1			
+PCMIPHHC_01021	CDS	1002	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+PCMIPHHC_01022	gene	948				
+PCMIPHHC_01022	CDS	948				hypothetical protein
+PCMIPHHC_01023	gene	861	ytbE			
+PCMIPHHC_01023	CDS	861	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+PCMIPHHC_01024	gene	408				
+PCMIPHHC_01024	CDS	408				hypothetical protein
+PCMIPHHC_01025	gene	1083				
+PCMIPHHC_01025	CDS	1083				hypothetical protein
+PCMIPHHC_01026	gene	477				
+PCMIPHHC_01026	CDS	477				hypothetical protein
+PCMIPHHC_01027	gene	2508				
+PCMIPHHC_01027	CDS	2508				hypothetical protein
+PCMIPHHC_01028	gene	1773				
+PCMIPHHC_01028	CDS	1773				hypothetical protein
+PCMIPHHC_01029	gene	1251	gdhA			
+PCMIPHHC_01029	CDS	1251	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+PCMIPHHC_01030	gene	420				
+PCMIPHHC_01030	CDS	420				hypothetical protein
+PCMIPHHC_01031	gene	882				
+PCMIPHHC_01031	CDS	882				hypothetical protein
+PCMIPHHC_01032	gene	1002				
+PCMIPHHC_01032	CDS	1002				hypothetical protein
+PCMIPHHC_01033	gene	1230				
+PCMIPHHC_01033	CDS	1230				hypothetical protein
+PCMIPHHC_01034	gene	1827				
+PCMIPHHC_01034	CDS	1827				hypothetical protein
+PCMIPHHC_01035	gene	1269	mdtL			
+PCMIPHHC_01035	CDS	1269	mdtL			Multidrug resistance protein MdtL
+PCMIPHHC_01036	gene	762	est			
+PCMIPHHC_01036	CDS	762	est	3.1.1.1	COG1647	Carboxylesterase
+PCMIPHHC_01037	gene	522				
+PCMIPHHC_01037	CDS	522				hypothetical protein
+PCMIPHHC_01038	gene	462				
+PCMIPHHC_01038	CDS	462				hypothetical protein
+PCMIPHHC_01039	gene	282				
+PCMIPHHC_01039	CDS	282				hypothetical protein
+PCMIPHHC_01040	gene	1209				
+PCMIPHHC_01040	CDS	1209				hypothetical protein
+PCMIPHHC_01041	gene	336				
+PCMIPHHC_01041	CDS	336				hypothetical protein
+PCMIPHHC_01042	gene	882				
+PCMIPHHC_01042	CDS	882		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+PCMIPHHC_01043	gene	792				
+PCMIPHHC_01043	CDS	792				hypothetical protein
+PCMIPHHC_01044	gene	600	bm3R1			
+PCMIPHHC_01044	CDS	600	bm3R1			HTH-type transcriptional repressor Bm3R1
+PCMIPHHC_01045	gene	243	grxC			
+PCMIPHHC_01045	CDS	243	grxC		COG0695	Glutaredoxin 3
+PCMIPHHC_01046	gene	1110				
+PCMIPHHC_01046	CDS	1110				hypothetical protein
+PCMIPHHC_01047	gene	1008	algA			
+PCMIPHHC_01047	CDS	1008	algA		COG0662	Alginate biosynthesis protein AlgA
+PCMIPHHC_01048	gene	1137	mnaA			
+PCMIPHHC_01048	CDS	1137	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+PCMIPHHC_01049	gene	591	hisI			
+PCMIPHHC_01049	CDS	591	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+PCMIPHHC_01050	gene	762	hisF			
+PCMIPHHC_01050	CDS	762	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+PCMIPHHC_01051	gene	726	hisA			
+PCMIPHHC_01051	CDS	726	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+PCMIPHHC_01052	gene	606	hisH			
+PCMIPHHC_01052	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+PCMIPHHC_01053	gene	588	hisB			
+PCMIPHHC_01053	CDS	588	hisB	4.2.1.19		Imidazoleglycerol-phosphate dehydratase
+PCMIPHHC_01054	gene	1008	hisC_1			
+PCMIPHHC_01054	CDS	1008	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+PCMIPHHC_01055	gene	1287	hisD			
+PCMIPHHC_01055	CDS	1287	hisD	1.1.1.23		Histidinol dehydrogenase
+PCMIPHHC_01056	gene	627	hisG			
+PCMIPHHC_01056	CDS	627	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+PCMIPHHC_01057	gene	819	hisZ			
+PCMIPHHC_01057	CDS	819	hisZ		COG0124	ATP phosphoribosyltransferase regulatory subunit
+PCMIPHHC_01058	gene	1209				
+PCMIPHHC_01058	CDS	1209				IS200/IS605 family transposase IS1253A
+PCMIPHHC_01059	gene	1266				
+PCMIPHHC_01059	CDS	1266			COG1055	putative transporter
+PCMIPHHC_01060	gene	858				
+PCMIPHHC_01060	CDS	858				hypothetical protein
+PCMIPHHC_01061	gene	618	minC			
+PCMIPHHC_01061	CDS	618	minC		COG0850	putative septum site-determining protein MinC
+PCMIPHHC_01062	gene	999	ysdC_1			
+PCMIPHHC_01062	CDS	999	ysdC_1	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+PCMIPHHC_01063	gene	1020	ysdC_2			
+PCMIPHHC_01063	CDS	1020	ysdC_2	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+PCMIPHHC_01064	gene	996	ysdC_3			
+PCMIPHHC_01064	CDS	996	ysdC_3	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+PCMIPHHC_01065	gene	702				
+PCMIPHHC_01065	CDS	702				hypothetical protein
+PCMIPHHC_01066	gene	546				
+PCMIPHHC_01066	CDS	546				hypothetical protein
+PCMIPHHC_01067	gene	480				
+PCMIPHHC_01067	CDS	480				hypothetical protein
+PCMIPHHC_01068	gene	714	lptB_1			
+PCMIPHHC_01068	CDS	714	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+PCMIPHHC_01069	gene	516				
+PCMIPHHC_01069	CDS	516				hypothetical protein
+PCMIPHHC_01070	gene	306	cutA			
+PCMIPHHC_01070	CDS	306	cutA		COG1324	Divalent-cation tolerance protein CutA
+PCMIPHHC_01071	gene	999	kefC			
+PCMIPHHC_01071	CDS	999	kefC			Glutathione-regulated potassium-efflux system protein KefC
+PCMIPHHC_01072	gene	1599				
+PCMIPHHC_01072	CDS	1599				hypothetical protein
+PCMIPHHC_01073	gene	264	spoVS_3			
+PCMIPHHC_01073	CDS	264	spoVS_3		COG2359	Stage V sporulation protein S
+PCMIPHHC_01074	gene	1335				
+PCMIPHHC_01074	CDS	1335				hypothetical protein
+PCMIPHHC_01075	gene	1155				
+PCMIPHHC_01075	CDS	1155				hypothetical protein
+PCMIPHHC_01076	gene	1692	uidA			
+PCMIPHHC_01076	CDS	1692	uidA	3.2.1.31	COG3250	Beta-glucuronidase
+PCMIPHHC_01077	gene	1026	oppF_5			
+PCMIPHHC_01077	CDS	1026	oppF_5		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_01078	gene	999	oppD_6			
+PCMIPHHC_01078	CDS	999	oppD_6		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_01079	gene	1104				
+PCMIPHHC_01079	CDS	1104				hypothetical protein
+PCMIPHHC_01080	gene	984	dppB_2			
+PCMIPHHC_01080	CDS	984	dppB_2		COG0601	Dipeptide transport system permease protein DppB
+PCMIPHHC_01081	gene	1965	agpA_3			
+PCMIPHHC_01081	CDS	1965	agpA_3			Periplasmic alpha-galactoside-binding protein
+PCMIPHHC_01082	gene	1401	aglA_3			
+PCMIPHHC_01082	CDS	1401	aglA_3	3.2.1.20	COG1486	Alpha-glucosidase
+PCMIPHHC_01083	gene	759	glcR			
+PCMIPHHC_01083	CDS	759	glcR		COG1349	HTH-type transcriptional repressor GlcR
+PCMIPHHC_01084	gene	345				
+PCMIPHHC_01084	CDS	345				hypothetical protein
+PCMIPHHC_01085	gene	1143	rhaA			
+PCMIPHHC_01085	CDS	1143	rhaA	5.3.1.14		L-rhamnose isomerase
+PCMIPHHC_01086	gene	711	rhaD			
+PCMIPHHC_01086	CDS	711	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+PCMIPHHC_01087	gene	1425	rhaB			
+PCMIPHHC_01087	CDS	1425	rhaB	2.7.1.5		Rhamnulokinase
+PCMIPHHC_01088	gene	2961				
+PCMIPHHC_01088	CDS	2961				hypothetical protein
+PCMIPHHC_01089	gene	912				
+PCMIPHHC_01089	CDS	912				hypothetical protein
+PCMIPHHC_01090	gene	459				
+PCMIPHHC_01090	CDS	459				hypothetical protein
+PCMIPHHC_01091	gene	843	panC			
+PCMIPHHC_01091	CDS	843	panC	6.3.2.1	COG0414	Pantothenate synthetase
+PCMIPHHC_01092	gene	513				
+PCMIPHHC_01092	CDS	513				hypothetical protein
+PCMIPHHC_01093	gene	795	rsmC_1			
+PCMIPHHC_01093	CDS	795	rsmC_1	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+PCMIPHHC_01094	gene	432	rpiB			
+PCMIPHHC_01094	CDS	432	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+PCMIPHHC_01095	gene	342				
+PCMIPHHC_01095	CDS	342				Putative anti-sigma factor antagonist
+PCMIPHHC_01096	gene	594	lexA			
+PCMIPHHC_01096	CDS	594	lexA	3.4.21.88	COG1974	LexA repressor
+PCMIPHHC_01097	gene	375				
+PCMIPHHC_01097	CDS	375			COG1371	Protein archease
+PCMIPHHC_01098	gene	2415	gyrA			
+PCMIPHHC_01098	CDS	2415	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+PCMIPHHC_01099	gene	1890	metG			
+PCMIPHHC_01099	CDS	1890	metG	6.1.1.10		Methionine--tRNA ligase
+PCMIPHHC_01100	gene	849				
+PCMIPHHC_01100	CDS	849				hypothetical protein
+PCMIPHHC_01101	gene	669				
+PCMIPHHC_01101	CDS	669				hypothetical protein
+PCMIPHHC_01102	gene	432	trkA			
+PCMIPHHC_01102	CDS	432	trkA		COG0569	Trk system potassium uptake protein TrkA
+PCMIPHHC_01103	gene	657				
+PCMIPHHC_01103	CDS	657				hypothetical protein
+PCMIPHHC_01104	gene	1488	trkH			
+PCMIPHHC_01104	CDS	1488	trkH		COG0168	Trk system potassium uptake protein TrkH
+PCMIPHHC_01105	gene	1263	hisS			
+PCMIPHHC_01105	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+PCMIPHHC_01106	gene	522				
+PCMIPHHC_01106	CDS	522				hypothetical protein
+PCMIPHHC_01107	gene	831				
+PCMIPHHC_01107	CDS	831				hypothetical protein
+PCMIPHHC_01108	gene	1641	argS			
+PCMIPHHC_01108	CDS	1641	argS	6.1.1.19		Arginine--tRNA ligase
+PCMIPHHC_01109	gene	1320	rlmCD			
+PCMIPHHC_01109	CDS	1320	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PCMIPHHC_01110	gene	1296	purB			
+PCMIPHHC_01110	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+PCMIPHHC_01111	gene	1194	purA			
+PCMIPHHC_01111	CDS	1194	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+PCMIPHHC_01112	gene	942	argF			
+PCMIPHHC_01112	CDS	942	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+PCMIPHHC_01113	gene	594	tmk			
+PCMIPHHC_01113	CDS	594	tmk	2.7.4.9	COG0125	Thymidylate kinase
+PCMIPHHC_01114	gene	1101				
+PCMIPHHC_01114	CDS	1101				hypothetical protein
+PCMIPHHC_01115	gene	564	yfcE			
+PCMIPHHC_01115	CDS	564	yfcE	3.1.4.-	COG0622	Phosphodiesterase YfcE
+PCMIPHHC_01116	gene	723	rnc			
+PCMIPHHC_01116	CDS	723	rnc	3.1.26.3	COG0571	Ribonuclease 3
+PCMIPHHC_01117	gene	954				
+PCMIPHHC_01117	CDS	954				hypothetical protein
+PCMIPHHC_01118	gene	321				
+PCMIPHHC_01118	CDS	321				hypothetical protein
+PCMIPHHC_01119	gene	1359	ndhB_1			
+PCMIPHHC_01119	CDS	1359	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+PCMIPHHC_01120	gene	372				
+PCMIPHHC_01120	CDS	372				hypothetical protein
+PCMIPHHC_01121	gene	243				
+PCMIPHHC_01121	CDS	243				hypothetical protein
+PCMIPHHC_01122	gene	237				
+PCMIPHHC_01122	CDS	237				hypothetical protein
+PCMIPHHC_01123	gene	669				
+PCMIPHHC_01123	CDS	669				hypothetical protein
+PCMIPHHC_01124	gene	603				
+PCMIPHHC_01124	CDS	603				hypothetical protein
+PCMIPHHC_01125	gene	798				
+PCMIPHHC_01125	CDS	798				hypothetical protein
+PCMIPHHC_01126	gene	270				
+PCMIPHHC_01126	CDS	270				hypothetical protein
+PCMIPHHC_01127	gene	939				
+PCMIPHHC_01127	CDS	939				hypothetical protein
+PCMIPHHC_01128	gene	678				
+PCMIPHHC_01128	CDS	678				hypothetical protein
+PCMIPHHC_01129	gene	651				
+PCMIPHHC_01129	CDS	651				hypothetical protein
+PCMIPHHC_01130	gene	1608				
+PCMIPHHC_01130	CDS	1608				hypothetical protein
+PCMIPHHC_01131	gene	1164	pilQ			
+PCMIPHHC_01131	CDS	1164	pilQ			Type IV pilus biogenesis and competence protein PilQ
+PCMIPHHC_01132	gene	1107				
+PCMIPHHC_01132	CDS	1107				hypothetical protein
+PCMIPHHC_01133	gene	1050				
+PCMIPHHC_01133	CDS	1050				hypothetical protein
+PCMIPHHC_01134	gene	1311	ugpB			
+PCMIPHHC_01134	CDS	1311	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+PCMIPHHC_01135	gene	867	ugpA			
+PCMIPHHC_01135	CDS	867	ugpA		COG1175	sn-glycerol-3-phosphate transport system permease protein UgpA
+PCMIPHHC_01136	gene	831				
+PCMIPHHC_01136	CDS	831				hypothetical protein
+PCMIPHHC_01137	gene	1827				
+PCMIPHHC_01137	CDS	1827				hypothetical protein
+PCMIPHHC_01138	gene	354				
+PCMIPHHC_01138	CDS	354				hypothetical protein
+PCMIPHHC_01139	gene	405				
+PCMIPHHC_01139	CDS	405				hypothetical protein
+PCMIPHHC_01140	gene	1839				
+PCMIPHHC_01140	CDS	1839				hypothetical protein
+PCMIPHHC_01141	gene	495				
+PCMIPHHC_01141	CDS	495				hypothetical protein
+PCMIPHHC_01142	gene	492	ftnA			
+PCMIPHHC_01142	CDS	492	ftnA	1.16.3.2		Bacterial non-heme ferritin
+PCMIPHHC_01143	gene	654	mtnN			
+PCMIPHHC_01143	CDS	654	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+PCMIPHHC_01144	gene	885	pta_1			
+PCMIPHHC_01144	CDS	885	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+PCMIPHHC_01145	gene	1236	lysN			
+PCMIPHHC_01145	CDS	1236	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+PCMIPHHC_01146	gene	918				
+PCMIPHHC_01146	CDS	918				hypothetical protein
+PCMIPHHC_01147	gene	1239				
+PCMIPHHC_01147	CDS	1239				hypothetical protein
+PCMIPHHC_01148	gene	1257				
+PCMIPHHC_01148	CDS	1257				hypothetical protein
+PCMIPHHC_01149	gene	1113				
+PCMIPHHC_01149	CDS	1113			COG0683	Leu/Ile/Val-binding protein 
+PCMIPHHC_01150	gene	900	livH			
+PCMIPHHC_01150	CDS	900	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+PCMIPHHC_01151	gene	1077				
+PCMIPHHC_01151	CDS	1077				hypothetical protein
+PCMIPHHC_01152	gene	855	lptB_2			
+PCMIPHHC_01152	CDS	855	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+PCMIPHHC_01153	gene	720	livF			
+PCMIPHHC_01153	CDS	720	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+PCMIPHHC_01154	gene	648	IMPDH_2			
+PCMIPHHC_01154	CDS	648	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+PCMIPHHC_01155	gene	651	dsbD			
+PCMIPHHC_01155	CDS	651	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+PCMIPHHC_01156	gene	660				
+PCMIPHHC_01156	CDS	660				hypothetical protein
+PCMIPHHC_01157	gene	1593	mcp2			
+PCMIPHHC_01157	CDS	1593	mcp2		COG0840	Methyl-accepting chemotaxis protein 2
+PCMIPHHC_01158	gene	441				
+PCMIPHHC_01158	CDS	441				hypothetical protein
+PCMIPHHC_01159	gene	1140				
+PCMIPHHC_01159	CDS	1140				hypothetical protein
+PCMIPHHC_01160	gene	219				
+PCMIPHHC_01160	CDS	219				hypothetical protein
+PCMIPHHC_01161	gene	1620	mcp3			
+PCMIPHHC_01161	CDS	1620	mcp3		COG0840	Methyl-accepting chemotaxis protein 3
+PCMIPHHC_01162	gene	1164				
+PCMIPHHC_01162	CDS	1164		3.1.4.-	COG3437	Cyclic di-GMP phosphodiesterase
+PCMIPHHC_01163	gene	1200	icd			
+PCMIPHHC_01163	CDS	1200	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+PCMIPHHC_01164	gene	1008	dppB_3			
+PCMIPHHC_01164	CDS	1008	dppB_3		COG0601	Dipeptide transport system permease protein DppB
+PCMIPHHC_01165	gene	1506	dppA_2			
+PCMIPHHC_01165	CDS	1506	dppA_2		COG0747	Periplasmic dipeptide transport protein
+PCMIPHHC_01166	gene	978	oppD_7			
+PCMIPHHC_01166	CDS	978	oppD_7		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_01167	gene	972	oppD_8			
+PCMIPHHC_01167	CDS	972	oppD_8		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_01168	gene	864	ddpC			
+PCMIPHHC_01168	CDS	864	ddpC		COG1173	putative D,D-dipeptide transport system permease protein DdpC
+PCMIPHHC_01169	gene	651	pgl			
+PCMIPHHC_01169	CDS	651	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+PCMIPHHC_01170	gene	1491	zwf2			
+PCMIPHHC_01170	CDS	1491	zwf2	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase 2
+PCMIPHHC_01171	gene	384				
+PCMIPHHC_01171	CDS	384				hypothetical protein
+PCMIPHHC_01172	gene	798				
+PCMIPHHC_01172	CDS	798				hypothetical protein
+PCMIPHHC_01173	gene	684				
+PCMIPHHC_01173	CDS	684				hypothetical protein
+PCMIPHHC_01174	gene	723				
+PCMIPHHC_01174	CDS	723				hypothetical protein
+PCMIPHHC_01175	gene	945				
+PCMIPHHC_01175	CDS	945				hypothetical protein
+PCMIPHHC_01176	gene	921				
+PCMIPHHC_01176	CDS	921				hypothetical protein
+PCMIPHHC_01177	gene	1341				
+PCMIPHHC_01177	CDS	1341			COG2239	Magnesium transporter MgtE
+PCMIPHHC_01178	gene	681				
+PCMIPHHC_01178	CDS	681				hypothetical protein
+PCMIPHHC_01179	gene	1473				
+PCMIPHHC_01179	CDS	1473				hypothetical protein
+PCMIPHHC_01180	gene	1677	korA_2			
+PCMIPHHC_01180	CDS	1677	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+PCMIPHHC_01181	gene	849				
+PCMIPHHC_01181	CDS	849				hypothetical protein
+PCMIPHHC_01182	gene	1125	hemW			
+PCMIPHHC_01182	CDS	1125	hemW		COG0635	Heme chaperone HemW
+PCMIPHHC_01183	gene	573				
+PCMIPHHC_01183	CDS	573				hypothetical protein
+PCMIPHHC_01184	gene	834	glgP_1			
+PCMIPHHC_01184	CDS	834	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+PCMIPHHC_01185	gene	1626	glgP_2			
+PCMIPHHC_01185	CDS	1626	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+PCMIPHHC_01186	gene	714	fabG_1			
+PCMIPHHC_01186	CDS	714	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PCMIPHHC_01187	gene	1857				
+PCMIPHHC_01187	CDS	1857				hypothetical protein
+PCMIPHHC_01188	gene	624				
+PCMIPHHC_01188	CDS	624				hypothetical protein
+PCMIPHHC_01189	gene	1296	hcp			
+PCMIPHHC_01189	CDS	1296	hcp	1.7.99.1		Hydroxylamine reductase
+PCMIPHHC_01190	gene	975	acr3			
+PCMIPHHC_01190	CDS	975	acr3		COG0798	Arsenical-resistance protein Acr3
+PCMIPHHC_01191	gene	354				
+PCMIPHHC_01191	CDS	354				hypothetical protein
+PCMIPHHC_01192	gene	213				
+PCMIPHHC_01192	CDS	213				hypothetical protein
+PCMIPHHC_01193	gene	270				
+PCMIPHHC_01193	CDS	270				hypothetical protein
+PCMIPHHC_01194	gene	678	yfnB			
+PCMIPHHC_01194	CDS	678	yfnB	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+PCMIPHHC_01195	gene	840				
+PCMIPHHC_01195	CDS	840				hypothetical protein
+PCMIPHHC_01196	gene	414	fliS			
+PCMIPHHC_01196	CDS	414	fliS		COG1516	Flagellar secretion chaperone FliS
+PCMIPHHC_01197	gene	594				
+PCMIPHHC_01197	CDS	594				hypothetical protein
+PCMIPHHC_01198	gene	540	nudF			
+PCMIPHHC_01198	CDS	540	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+PCMIPHHC_01199	gene	3513	smc_3			
+PCMIPHHC_01199	CDS	3513	smc_3		COG1196	Chromosome partition protein Smc
+PCMIPHHC_01200	gene	1140				
+PCMIPHHC_01200	CDS	1140				hypothetical protein
+PCMIPHHC_01201	gene	1932				
+PCMIPHHC_01201	CDS	1932				hypothetical protein
+PCMIPHHC_01202	gene	501	mgsA			
+PCMIPHHC_01202	CDS	501	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+PCMIPHHC_01203	gene	207				
+PCMIPHHC_01203	CDS	207				hypothetical protein
+PCMIPHHC_01204	gene	966				
+PCMIPHHC_01204	CDS	966				hypothetical protein
+PCMIPHHC_01205	gene	1011				
+PCMIPHHC_01205	CDS	1011				hypothetical protein
+PCMIPHHC_01206	gene	76				
+PCMIPHHC_01206	tRNA	76				tRNA-Asn(gtt)
+PCMIPHHC_01207	gene	2157				
+PCMIPHHC_01207	CDS	2157				hypothetical protein
+PCMIPHHC_01208	gene	1053	galK			
+PCMIPHHC_01208	CDS	1053	galK	2.7.1.6	COG0153	Galactokinase
+PCMIPHHC_01209	gene	957	galT_2			
+PCMIPHHC_01209	CDS	957	galT_2	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+PCMIPHHC_01210	gene	1659	galA			
+PCMIPHHC_01210	CDS	1659	galA	3.2.1.22	COG3345	Alpha-galactosidase
+PCMIPHHC_01211	gene	3255	lacZ_1			
+PCMIPHHC_01211	CDS	3255	lacZ_1	3.2.1.23		Beta-galactosidase
+PCMIPHHC_01212	gene	981	oppD_9			
+PCMIPHHC_01212	CDS	981	oppD_9		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_01213	gene	1950				
+PCMIPHHC_01213	CDS	1950		3.2.1.23		Beta-galactosidase
+PCMIPHHC_01214	gene	960	btuD_4			
+PCMIPHHC_01214	CDS	960	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PCMIPHHC_01215	gene	876				
+PCMIPHHC_01215	CDS	876			COG1173	Putative peptide transport permease protein
+PCMIPHHC_01216	gene	1005	gsiC_4			
+PCMIPHHC_01216	CDS	1005	gsiC_4		COG0601	Glutathione transport system permease protein GsiC
+PCMIPHHC_01217	gene	1902				
+PCMIPHHC_01217	CDS	1902				hypothetical protein
+PCMIPHHC_01218	gene	1002	degA_1			
+PCMIPHHC_01218	CDS	1002	degA_1		COG1609	HTH-type transcriptional regulator DegA
+PCMIPHHC_01219	gene	1821				
+PCMIPHHC_01219	CDS	1821				hypothetical protein
+PCMIPHHC_01220	gene	2472				
+PCMIPHHC_01220	CDS	2472				hypothetical protein
+PCMIPHHC_01221	gene	1734	malF			
+PCMIPHHC_01221	CDS	1734	malF		COG1175	Maltose/maltodextrin transport system permease protein MalF
+PCMIPHHC_01222	gene	1176	malE_1			
+PCMIPHHC_01222	CDS	1176	malE_1		COG2182	Maltose/maltodextrin-binding periplasmic protein
+PCMIPHHC_01223	gene	468	mnhE1			
+PCMIPHHC_01223	CDS	468	mnhE1		COG1863	Na(+)/H(+) antiporter subunit E1
+PCMIPHHC_01224	gene	249	mrpF			
+PCMIPHHC_01224	CDS	249	mrpF		COG2212	Na(+)/H(+) antiporter subunit F
+PCMIPHHC_01225	gene	324	mrpG			
+PCMIPHHC_01225	CDS	324	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+PCMIPHHC_01226	gene	243				
+PCMIPHHC_01226	CDS	243				hypothetical protein
+PCMIPHHC_01227	gene	765				
+PCMIPHHC_01227	CDS	765				hypothetical protein
+PCMIPHHC_01228	gene	339	mnhC1			
+PCMIPHHC_01228	CDS	339	mnhC1		COG1006	Na(+)/H(+) antiporter subunit C1
+PCMIPHHC_01229	gene	1401	mrpD			
+PCMIPHHC_01229	CDS	1401	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+PCMIPHHC_01230	gene	1881	ndhB_2			
+PCMIPHHC_01230	CDS	1881	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+PCMIPHHC_01231	gene	882	hycD			
+PCMIPHHC_01231	CDS	882	hycD		COG0650	Formate hydrogenlyase subunit 4
+PCMIPHHC_01232	gene	537	ndhK			
+PCMIPHHC_01232	CDS	537	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+PCMIPHHC_01233	gene	528	nuoC			
+PCMIPHHC_01233	CDS	528	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+PCMIPHHC_01234	gene	1107	nqo4			
+PCMIPHHC_01234	CDS	1107	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+PCMIPHHC_01235	gene	1848	ndhI_2			
+PCMIPHHC_01235	CDS	1848	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+PCMIPHHC_01236	gene	987	purR_2			
+PCMIPHHC_01236	CDS	987	purR_2		COG1609	HTH-type transcriptional repressor PurR
+PCMIPHHC_01237	gene	948	oppF_6			
+PCMIPHHC_01237	CDS	948	oppF_6		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_01238	gene	981	oppD_10			
+PCMIPHHC_01238	CDS	981	oppD_10		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_01239	gene	849	dppC			
+PCMIPHHC_01239	CDS	849	dppC		COG1173	Dipeptide transport system permease protein DppC
+PCMIPHHC_01240	gene	990	dppB_4			
+PCMIPHHC_01240	CDS	990	dppB_4		COG0601	Dipeptide transport system permease protein DppB
+PCMIPHHC_01241	gene	1674				
+PCMIPHHC_01241	CDS	1674				hypothetical protein
+PCMIPHHC_01242	gene	1107	nagC_3			
+PCMIPHHC_01242	CDS	1107	nagC_3		COG1940	N-acetylglucosamine repressor
+PCMIPHHC_01243	gene	981				
+PCMIPHHC_01243	CDS	981		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+PCMIPHHC_01244	gene	1683				
+PCMIPHHC_01244	CDS	1683				hypothetical protein
+PCMIPHHC_01245	gene	2010				
+PCMIPHHC_01245	CDS	2010				hypothetical protein
+PCMIPHHC_01246	gene	801	hexR			
+PCMIPHHC_01246	CDS	801	hexR		COG1737	HTH-type transcriptional regulator HexR
+PCMIPHHC_01247	gene	1143	ggs			
+PCMIPHHC_01247	CDS	1143	ggs	2.4.1.268	COG0463	Glucosylglycerate synthase
+PCMIPHHC_01248	gene	1284	mggS			
+PCMIPHHC_01248	CDS	1284	mggS	2.4.1.-		Mannosylglucosylglycerate synthase
+PCMIPHHC_01249	gene	2499				
+PCMIPHHC_01249	CDS	2499				hypothetical protein
+PCMIPHHC_01250	gene	1068	msmX_1			
+PCMIPHHC_01250	CDS	1068	msmX_1	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+PCMIPHHC_01251	gene	795	sugB_2			
+PCMIPHHC_01251	CDS	795	sugB_2		COG0395	Trehalose transport system permease protein SugB
+PCMIPHHC_01252	gene	846	sugA_2			
+PCMIPHHC_01252	CDS	846	sugA_2		COG1175	Trehalose transport system permease protein SugA
+PCMIPHHC_01253	gene	1263				
+PCMIPHHC_01253	CDS	1263				hypothetical protein
+PCMIPHHC_01254	gene	1068				
+PCMIPHHC_01254	CDS	1068				hypothetical protein
+PCMIPHHC_01255	gene	1947	uvrD			
+PCMIPHHC_01255	CDS	1947	uvrD	3.6.4.12	COG0210	DNA helicase II
+PCMIPHHC_01256	gene	369				
+PCMIPHHC_01256	CDS	369				hypothetical protein
+PCMIPHHC_01257	gene	1083	ychF			
+PCMIPHHC_01257	CDS	1083	ychF		COG0012	Ribosome-binding ATPase YchF
+PCMIPHHC_01258	gene	435				
+PCMIPHHC_01258	CDS	435				hypothetical protein
+PCMIPHHC_01259	gene	77				
+PCMIPHHC_01259	tRNA	77				tRNA-Pro(cgg)
+PCMIPHHC_01260	gene	693	purC			
+PCMIPHHC_01260	CDS	693	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PCMIPHHC_01261	gene	249	purS			
+PCMIPHHC_01261	CDS	249	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+PCMIPHHC_01262	gene	642	purQ			
+PCMIPHHC_01262	CDS	642	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+PCMIPHHC_01263	gene	1812	purL			
+PCMIPHHC_01263	CDS	1812	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+PCMIPHHC_01264	gene	1296	purF_2			
+PCMIPHHC_01264	CDS	1296	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+PCMIPHHC_01265	gene	618	purN			
+PCMIPHHC_01265	CDS	618	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+PCMIPHHC_01266	gene	1359	purH			
+PCMIPHHC_01266	CDS	1359	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+PCMIPHHC_01267	gene	1194	purD			
+PCMIPHHC_01267	CDS	1194	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+PCMIPHHC_01268	gene	936	purM			
+PCMIPHHC_01268	CDS	936	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+PCMIPHHC_01269	gene	576				
+PCMIPHHC_01269	CDS	576				hypothetical protein
+PCMIPHHC_01270	gene	1731	nadE_2			
+PCMIPHHC_01270	CDS	1731	nadE_2	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+PCMIPHHC_01271	gene	651				
+PCMIPHHC_01271	CDS	651		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+PCMIPHHC_01272	gene	1134	aspC			
+PCMIPHHC_01272	CDS	1134	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+PCMIPHHC_01273	gene	1734	yheI			
+PCMIPHHC_01273	CDS	1734	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+PCMIPHHC_01274	gene	1836				
+PCMIPHHC_01274	CDS	1836				hypothetical protein
+PCMIPHHC_01275	gene	960	rcsC			
+PCMIPHHC_01275	CDS	960	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+PCMIPHHC_01276	gene	681	phoB			
+PCMIPHHC_01276	CDS	681	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+PCMIPHHC_01277	gene	699	phoU			
+PCMIPHHC_01277	CDS	699	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+PCMIPHHC_01278	gene	756	pstB3			
+PCMIPHHC_01278	CDS	756	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+PCMIPHHC_01279	gene	831	pstA2			
+PCMIPHHC_01279	CDS	831	pstA2		COG0581	Phosphate transport system permease protein PstA 2
+PCMIPHHC_01280	gene	828	pstC			
+PCMIPHHC_01280	CDS	828	pstC		COG0573	Phosphate transport system permease protein PstC
+PCMIPHHC_01281	gene	825	pstS			
+PCMIPHHC_01281	CDS	825	pstS			Phosphate-binding protein PstS
+PCMIPHHC_01282	gene	1164				
+PCMIPHHC_01282	CDS	1164				hypothetical protein
+PCMIPHHC_01283	gene	249				
+PCMIPHHC_01283	CDS	249				hypothetical protein
+PCMIPHHC_01284	gene	1416	mqnC			
+PCMIPHHC_01284	CDS	1416	mqnC	1.21.98.1		Cyclic dehypoxanthine futalosine synthase
+PCMIPHHC_01285	gene	246				
+PCMIPHHC_01285	CDS	246				hypothetical protein
+PCMIPHHC_01286	gene	1047				
+PCMIPHHC_01286	CDS	1047		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+PCMIPHHC_01287	gene	1140	aar			
+PCMIPHHC_01287	CDS	1140	aar	5.1.1.1	COG0626	L-alanine/L-glutamate racemase
+PCMIPHHC_01288	gene	474				
+PCMIPHHC_01288	CDS	474				hypothetical protein
+PCMIPHHC_01289	gene	1419	gatA			
+PCMIPHHC_01289	CDS	1419	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+PCMIPHHC_01290	gene	1449	gatB			
+PCMIPHHC_01290	CDS	1449	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+PCMIPHHC_01291	gene	738				
+PCMIPHHC_01291	CDS	738				hypothetical protein
+PCMIPHHC_01292	gene	264				
+PCMIPHHC_01292	CDS	264				hypothetical protein
+PCMIPHHC_01293	gene	1104	msmX_2			
+PCMIPHHC_01293	CDS	1104	msmX_2	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+PCMIPHHC_01294	gene	1995	ftsA_2			
+PCMIPHHC_01294	CDS	1995	ftsA_2			Cell division protein FtsA
+PCMIPHHC_01295	gene	2274	mutS2			
+PCMIPHHC_01295	CDS	2274	mutS2	3.1.-.-	COG1193	Endonuclease MutS2
+PCMIPHHC_01296	gene	378				
+PCMIPHHC_01296	CDS	378				hypothetical protein
+PCMIPHHC_01297	gene	960	murK			
+PCMIPHHC_01297	CDS	960	murK	2.7.1.-	COG2971	N-acetylmuramic acid/N-acetylglucosamine kinase
+PCMIPHHC_01298	gene	1248	bglT			
+PCMIPHHC_01298	CDS	1248	bglT	3.2.1.86	COG1486	6-phospho-beta-glucosidase BglT
+PCMIPHHC_01299	gene	768	crtQ			
+PCMIPHHC_01299	CDS	768	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+PCMIPHHC_01300	gene	615	plsY_1			
+PCMIPHHC_01300	CDS	615	plsY_1	2.3.1.275		Glycerol-3-phosphate acyltransferase
+PCMIPHHC_01301	gene	996				
+PCMIPHHC_01301	CDS	996				hypothetical protein
+PCMIPHHC_01302	gene	2205	metE			
+PCMIPHHC_01302	CDS	2205	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+PCMIPHHC_01303	gene	348				
+PCMIPHHC_01303	CDS	348			COG0662	Oxalate-binding protein
+PCMIPHHC_01304	gene	927	moaA_3			
+PCMIPHHC_01304	CDS	927	moaA_3			GTP 3',8-cyclase
+PCMIPHHC_01305	gene	288	rsxB_4			
+PCMIPHHC_01305	CDS	288	rsxB_4	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PCMIPHHC_01306	gene	351				
+PCMIPHHC_01306	CDS	351				hypothetical protein
+PCMIPHHC_01307	gene	867				
+PCMIPHHC_01307	CDS	867				Iron-sulfur cluster carrier protein
+PCMIPHHC_01308	gene	852				
+PCMIPHHC_01308	CDS	852				Iron-sulfur cluster carrier protein
+PCMIPHHC_01309	gene	624				
+PCMIPHHC_01309	CDS	624			COG0500	putative protein
+PCMIPHHC_01310	gene	2085				
+PCMIPHHC_01310	CDS	2085				hypothetical protein
+PCMIPHHC_01311	gene	657	gloB_2			
+PCMIPHHC_01311	CDS	657	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+PCMIPHHC_01312	gene	666				
+PCMIPHHC_01312	CDS	666				hypothetical protein
+PCMIPHHC_01313	gene	858				
+PCMIPHHC_01313	CDS	858				hypothetical protein
+PCMIPHHC_01314	gene	270				
+PCMIPHHC_01314	CDS	270				hypothetical protein
+PCMIPHHC_01315	gene	240				
+PCMIPHHC_01315	CDS	240				hypothetical protein
+PCMIPHHC_01316	gene	240				
+PCMIPHHC_01316	CDS	240				hypothetical protein
+PCMIPHHC_01317	gene	1329	moaA_4			
+PCMIPHHC_01317	CDS	1329	moaA_4			GTP 3',8-cyclase
+PCMIPHHC_01318	gene	777	natA_1			
+PCMIPHHC_01318	CDS	777	natA_1	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+PCMIPHHC_01319	gene	762				
+PCMIPHHC_01319	CDS	762				hypothetical protein
+PCMIPHHC_01320	gene	807				
+PCMIPHHC_01320	CDS	807				hypothetical protein
+PCMIPHHC_01321	gene	435				
+PCMIPHHC_01321	CDS	435				hypothetical protein
+PCMIPHHC_01322	gene	300				
+PCMIPHHC_01322	CDS	300				hypothetical protein
+PCMIPHHC_01323	gene	126				
+PCMIPHHC_01323	CDS	126				hypothetical protein
+PCMIPHHC_01324	gene	1743	btuD_5			
+PCMIPHHC_01324	CDS	1743	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PCMIPHHC_01325	gene	213				
+PCMIPHHC_01325	CDS	213				hypothetical protein
+PCMIPHHC_01326	gene	234				
+PCMIPHHC_01326	CDS	234				hypothetical protein
+PCMIPHHC_01327	gene	219				
+PCMIPHHC_01327	CDS	219				hypothetical protein
+PCMIPHHC_01328	gene	1608				
+PCMIPHHC_01328	CDS	1608				hypothetical protein
+PCMIPHHC_01329	gene	165				
+PCMIPHHC_01329	CDS	165				hypothetical protein
+PCMIPHHC_01330	gene	1392				
+PCMIPHHC_01330	CDS	1392				hypothetical protein
+PCMIPHHC_01331	gene	402				
+PCMIPHHC_01331	CDS	402				hypothetical protein
+PCMIPHHC_01332	gene	1293				
+PCMIPHHC_01332	CDS	1293		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PCMIPHHC_01333	gene	1695	msbA			
+PCMIPHHC_01333	CDS	1695	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+PCMIPHHC_01334	gene	219				
+PCMIPHHC_01334	CDS	219				hypothetical protein
+PCMIPHHC_01335	gene	1605				
+PCMIPHHC_01335	CDS	1605				hypothetical protein
+PCMIPHHC_01336	gene	117				
+PCMIPHHC_01336	CDS	117				hypothetical protein
+PCMIPHHC_01337	gene	1329	moaA_5			
+PCMIPHHC_01337	CDS	1329	moaA_5			GTP 3',8-cyclase
+PCMIPHHC_01338	gene	1386	moaA_6			
+PCMIPHHC_01338	CDS	1386	moaA_6			GTP 3',8-cyclase
+PCMIPHHC_01339	gene	186				
+PCMIPHHC_01339	CDS	186				hypothetical protein
+PCMIPHHC_01340	gene	813				
+PCMIPHHC_01340	CDS	813				hypothetical protein
+PCMIPHHC_01341	gene	717	natA_2			
+PCMIPHHC_01341	CDS	717	natA_2	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+PCMIPHHC_01342	gene	1716				
+PCMIPHHC_01342	CDS	1716		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PCMIPHHC_01343	gene	243				
+PCMIPHHC_01343	CDS	243				hypothetical protein
+PCMIPHHC_01344	gene	384				
+PCMIPHHC_01344	CDS	384				hypothetical protein
+PCMIPHHC_01345	gene	387				
+PCMIPHHC_01345	CDS	387				hypothetical protein
+PCMIPHHC_01346	gene	1563				
+PCMIPHHC_01346	CDS	1563				hypothetical protein
+PCMIPHHC_01347	gene	1785				
+PCMIPHHC_01347	CDS	1785				hypothetical protein
+PCMIPHHC_01348	gene	1929				
+PCMIPHHC_01348	CDS	1929				hypothetical protein
+PCMIPHHC_01349	gene	1173	entS_2			
+PCMIPHHC_01349	CDS	1173	entS_2			Enterobactin exporter EntS
+PCMIPHHC_01350	gene	777				
+PCMIPHHC_01350	CDS	777				hypothetical protein
+PCMIPHHC_01351	gene	306				
+PCMIPHHC_01351	CDS	306				hypothetical protein
+PCMIPHHC_01352	gene	873	ndmA			
+PCMIPHHC_01352	CDS	873	ndmA	1.14.13.178		Methylxanthine N1-demethylase NdmA
+PCMIPHHC_01353	gene	474				
+PCMIPHHC_01353	CDS	474				hypothetical protein
+PCMIPHHC_01354	gene	77				
+PCMIPHHC_01354	tRNA	77				tRNA-Met(cat)
+PCMIPHHC_01355	gene	76				
+PCMIPHHC_01355	tRNA	76				tRNA-Gly(ccc)
+PCMIPHHC_01356	gene	273	rpsO			
+PCMIPHHC_01356	CDS	273	rpsO			30S ribosomal protein S15
+PCMIPHHC_01357	gene	2127	pnp_1			
+PCMIPHHC_01357	CDS	2127	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+PCMIPHHC_01358	gene	1239				
+PCMIPHHC_01358	CDS	1239		3.4.24.-	COG0612	putative zinc protease
+PCMIPHHC_01359	gene	1449	guaB			
+PCMIPHHC_01359	CDS	1449	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+PCMIPHHC_01360	gene	1050				
+PCMIPHHC_01360	CDS	1050				hypothetical protein
+PCMIPHHC_01361	gene	1017				
+PCMIPHHC_01361	CDS	1017				hypothetical protein
+PCMIPHHC_01362	gene	774				
+PCMIPHHC_01362	CDS	774		3.1.1.23	COG2267	Monoacylglycerol lipase
+PCMIPHHC_01363	gene	1410	gltX1			
+PCMIPHHC_01363	CDS	1410	gltX1	6.1.1.17	COG0008	Glutamate--tRNA ligase 1
+PCMIPHHC_01364	gene	681				
+PCMIPHHC_01364	CDS	681				hypothetical protein
+PCMIPHHC_01365	gene	330				
+PCMIPHHC_01365	CDS	330				hypothetical protein
+PCMIPHHC_01366	gene	966	spoIIAB_1			
+PCMIPHHC_01366	CDS	966	spoIIAB_1	2.7.11.1		Anti-sigma F factor
+PCMIPHHC_01367	gene	351				
+PCMIPHHC_01367	CDS	351				hypothetical protein
+PCMIPHHC_01368	gene	381				
+PCMIPHHC_01368	CDS	381				hypothetical protein
+PCMIPHHC_01369	gene	1425	rtcB			
+PCMIPHHC_01369	CDS	1425	rtcB	6.5.1.-		RNA-splicing ligase RtcB
+PCMIPHHC_01370	gene	495				
+PCMIPHHC_01370	CDS	495				hypothetical protein
+PCMIPHHC_01371	gene	2268	sasA_4			
+PCMIPHHC_01371	CDS	2268	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+PCMIPHHC_01372	gene	351	tcrA			
+PCMIPHHC_01372	CDS	351	tcrA		COG0745	Transcriptional regulatory protein TcrA
+PCMIPHHC_01373	gene	2760	ileS			
+PCMIPHHC_01373	CDS	2760	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+PCMIPHHC_01374	gene	1083	pilT			
+PCMIPHHC_01374	CDS	1083	pilT		COG2805	Twitching mobility protein
+PCMIPHHC_01375	gene	1029	prfA			
+PCMIPHHC_01375	CDS	1029	prfA		COG0216	Peptide chain release factor 1
+PCMIPHHC_01376	gene	384	flgB			
+PCMIPHHC_01376	CDS	384	flgB		COG1815	Flagellar basal body rod protein FlgB
+PCMIPHHC_01377	gene	423	flgC			
+PCMIPHHC_01377	CDS	423	flgC		COG1558	Flagellar basal-body rod protein FlgC
+PCMIPHHC_01378	gene	285	fliE			
+PCMIPHHC_01378	CDS	285	fliE		COG1677	Flagellar hook-basal body complex protein FliE
+PCMIPHHC_01379	gene	375				
+PCMIPHHC_01379	CDS	375				hypothetical protein
+PCMIPHHC_01380	gene	90				
+PCMIPHHC_01380	tRNA	90				tRNA-Leu(taa)
+PCMIPHHC_01381	gene	741	sufC_1			
+PCMIPHHC_01381	CDS	741	sufC_1		COG0396	Vegetative protein 296
+PCMIPHHC_01382	gene	1395				
+PCMIPHHC_01382	CDS	1395				hypothetical protein
+PCMIPHHC_01383	gene	1107				
+PCMIPHHC_01383	CDS	1107				hypothetical protein
+PCMIPHHC_01384	gene	1242	csd			
+PCMIPHHC_01384	CDS	1242	csd	2.8.1.7		putative cysteine desulfurase
+PCMIPHHC_01385	gene	417	sufU			
+PCMIPHHC_01385	CDS	417	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+PCMIPHHC_01386	gene	987				
+PCMIPHHC_01386	CDS	987				hypothetical protein
+PCMIPHHC_01387	gene	606	pspA			
+PCMIPHHC_01387	CDS	606	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PCMIPHHC_01388	gene	77				
+PCMIPHHC_01388	tRNA	77				tRNA-Cys(gca)
+PCMIPHHC_01389	gene	1011	potD			
+PCMIPHHC_01389	CDS	1011	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+PCMIPHHC_01390	gene	1107	potA			
+PCMIPHHC_01390	CDS	1107	potA	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+PCMIPHHC_01391	gene	789	potB			
+PCMIPHHC_01391	CDS	789	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+PCMIPHHC_01392	gene	771	ydcV			
+PCMIPHHC_01392	CDS	771	ydcV			Inner membrane ABC transporter permease protein YdcV
+PCMIPHHC_01393	gene	1278	serS			
+PCMIPHHC_01393	CDS	1278	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+PCMIPHHC_01394	gene	669	rsmE			
+PCMIPHHC_01394	CDS	669	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+PCMIPHHC_01395	gene	390				
+PCMIPHHC_01395	CDS	390				hypothetical protein
+PCMIPHHC_01396	gene	600				
+PCMIPHHC_01396	CDS	600				hypothetical protein
+PCMIPHHC_01397	gene	816	ispE			
+PCMIPHHC_01397	CDS	816	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PCMIPHHC_01398	gene	513	apt			
+PCMIPHHC_01398	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+PCMIPHHC_01399	gene	1347	pgi			
+PCMIPHHC_01399	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+PCMIPHHC_01400	gene	231				
+PCMIPHHC_01400	CDS	231				hypothetical protein
+PCMIPHHC_01401	gene	543	coaE			
+PCMIPHHC_01401	CDS	543	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+PCMIPHHC_01402	gene	528	rsmD			
+PCMIPHHC_01402	CDS	528	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+PCMIPHHC_01403	gene	747	COQ5_3			
+PCMIPHHC_01403	CDS	747	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+PCMIPHHC_01404	gene	75				
+PCMIPHHC_01404	tRNA	75				tRNA-Val(gac)
+PCMIPHHC_01405	gene	87				
+PCMIPHHC_01405	tRNA	87				tRNA-Leu(gag)
+PCMIPHHC_01406	gene	1008				
+PCMIPHHC_01406	CDS	1008				hypothetical protein
+PCMIPHHC_01407	gene	2376	clpC_3			
+PCMIPHHC_01407	CDS	2376	clpC_3			ATP-dependent Clp protease ATP-binding subunit ClpC
+PCMIPHHC_01408	gene	297				
+PCMIPHHC_01408	CDS	297				hypothetical protein
+PCMIPHHC_01409	gene	669	ispD			
+PCMIPHHC_01409	CDS	669	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+PCMIPHHC_01410	gene	873	hslO			
+PCMIPHHC_01410	CDS	873	hslO		COG1281	33 kDa chaperonin
+PCMIPHHC_01411	gene	1053				
+PCMIPHHC_01411	CDS	1053				hypothetical protein
+PCMIPHHC_01412	gene	2592	alaS_1			
+PCMIPHHC_01412	CDS	2592	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+PCMIPHHC_01413	gene	813	cdsA			
+PCMIPHHC_01413	CDS	813	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+PCMIPHHC_01414	gene	702	uppS			
+PCMIPHHC_01414	CDS	702	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+PCMIPHHC_01415	gene	558	frr			
+PCMIPHHC_01415	CDS	558	frr		COG0233	Ribosome-recycling factor
+PCMIPHHC_01416	gene	1155				
+PCMIPHHC_01416	CDS	1155		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+PCMIPHHC_01417	gene	921				
+PCMIPHHC_01417	CDS	921		1.1.1.81	COG0111	Hydroxypyruvate reductase
+PCMIPHHC_01418	gene	153				
+PCMIPHHC_01418	CDS	153				hypothetical protein
+PCMIPHHC_01419	gene	984	drrA			
+PCMIPHHC_01419	CDS	984	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+PCMIPHHC_01420	gene	771	drrB			
+PCMIPHHC_01420	CDS	771	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+PCMIPHHC_01421	gene	1407	mshA_4			
+PCMIPHHC_01421	CDS	1407	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PCMIPHHC_01422	gene	837				
+PCMIPHHC_01422	CDS	837				hypothetical protein
+PCMIPHHC_01423	gene	1197				
+PCMIPHHC_01423	CDS	1197				hypothetical protein
+PCMIPHHC_01424	gene	1377				
+PCMIPHHC_01424	CDS	1377				hypothetical protein
+PCMIPHHC_01425	gene	2151				
+PCMIPHHC_01425	CDS	2151				hypothetical protein
+PCMIPHHC_01426	gene	972				
+PCMIPHHC_01426	CDS	972			COG2342	putative protein
+PCMIPHHC_01427	gene	738				
+PCMIPHHC_01427	CDS	738				hypothetical protein
+PCMIPHHC_01428	gene	243				
+PCMIPHHC_01428	CDS	243				hypothetical protein
+PCMIPHHC_01429	gene	1299	bfrA			
+PCMIPHHC_01429	CDS	1299	bfrA	3.2.1.26	COG1621	Beta-fructosidase
+PCMIPHHC_01430	gene	699	suhB			
+PCMIPHHC_01430	CDS	699	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+PCMIPHHC_01431	gene	75				
+PCMIPHHC_01431	tRNA	75				tRNA-Val(cac)
+PCMIPHHC_01432	gene	957				
+PCMIPHHC_01432	CDS	957				hypothetical protein
+PCMIPHHC_01433	gene	732	sufC_2			
+PCMIPHHC_01433	CDS	732	sufC_2		COG0396	Vegetative protein 296
+PCMIPHHC_01434	gene	618	spsI_1			
+PCMIPHHC_01434	CDS	618	spsI_1		COG0558	Bifunctional IPC transferase and DIPP synthase
+PCMIPHHC_01435	gene	726	spsI_2			
+PCMIPHHC_01435	CDS	726	spsI_2		COG0558	Bifunctional IPC transferase and DIPP synthase
+PCMIPHHC_01436	gene	1149	ino1			
+PCMIPHHC_01436	CDS	1149	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+PCMIPHHC_01437	gene	246				
+PCMIPHHC_01437	CDS	246				Protein
+PCMIPHHC_01438	gene	906				
+PCMIPHHC_01438	CDS	906		1.12.7.2		Iron hydrogenase 1
+PCMIPHHC_01439	gene	693				
+PCMIPHHC_01439	CDS	693				hypothetical protein
+PCMIPHHC_01440	gene	1140				
+PCMIPHHC_01440	CDS	1140				hypothetical protein
+PCMIPHHC_01441	gene	486	hndA_4			
+PCMIPHHC_01441	CDS	486	hndA_4	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+PCMIPHHC_01442	gene	1881	rsxC_2			
+PCMIPHHC_01442	CDS	1881	rsxC_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit C
+PCMIPHHC_01443	gene	1938	hndD_2			
+PCMIPHHC_01443	CDS	1938	hndD_2	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+PCMIPHHC_01444	gene	615	rex			
+PCMIPHHC_01444	CDS	615	rex		COG2344	Redox-sensing transcriptional repressor Rex
+PCMIPHHC_01445	gene	1701	mcp4			
+PCMIPHHC_01445	CDS	1701	mcp4		COG0840	Methyl-accepting chemotaxis protein 4
+PCMIPHHC_01446	gene	705	glpF			
+PCMIPHHC_01446	CDS	705	glpF		COG0580	Glycerol uptake facilitator protein
+PCMIPHHC_01447	gene	1449	glpK_2			
+PCMIPHHC_01447	CDS	1449	glpK_2	2.7.1.30	COG0554	Glycerol kinase
+PCMIPHHC_01448	gene	588	ygcP_1			
+PCMIPHHC_01448	CDS	588	ygcP_1		COG1954	putative protein YgcP
+PCMIPHHC_01449	gene	1440	lhgD			
+PCMIPHHC_01449	CDS	1440	lhgD	1.1.5.-		L-2-hydroxyglutarate dehydrogenase
+PCMIPHHC_01450	gene	1197				
+PCMIPHHC_01450	CDS	1197		1.18.1.2		Ferredoxin--NADP reductase
+PCMIPHHC_01451	gene	417				
+PCMIPHHC_01451	CDS	417				hypothetical protein
+PCMIPHHC_01452	gene	396	FCS1			
+PCMIPHHC_01452	CDS	396	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+PCMIPHHC_01453	gene	531	ygcP_2			
+PCMIPHHC_01453	CDS	531	ygcP_2		COG1954	putative protein YgcP
+PCMIPHHC_01454	gene	783	rsmA			
+PCMIPHHC_01454	CDS	783	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+PCMIPHHC_01455	gene	972				
+PCMIPHHC_01455	CDS	972		2.4.1.18	COG1543	1,4-alpha-glucan branching enzyme
+PCMIPHHC_01456	gene	528				
+PCMIPHHC_01456	CDS	528		2.4.1.18	COG1543	1,4-alpha-glucan branching enzyme
+PCMIPHHC_01457	gene	675				
+PCMIPHHC_01457	CDS	675				hypothetical protein
+PCMIPHHC_01458	gene	705	MRI1			
+PCMIPHHC_01458	CDS	705	MRI1	5.3.1.23		Methylthioribose-1-phosphate isomerase
+PCMIPHHC_01459	gene	1740	aspS			
+PCMIPHHC_01459	CDS	1740	aspS	6.1.1.12		Aspartate--tRNA ligase
+PCMIPHHC_01460	gene	333				
+PCMIPHHC_01460	CDS	333			COG1366	Putative anti-sigma factor antagonist
+PCMIPHHC_01461	gene	663	cmk			
+PCMIPHHC_01461	CDS	663	cmk	2.7.4.25	COG0283	Cytidylate kinase
+PCMIPHHC_01462	gene	828	ispH			
+PCMIPHHC_01462	CDS	828	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+PCMIPHHC_01463	gene	990	rpsA			
+PCMIPHHC_01463	CDS	990	rpsA		COG0539	30S ribosomal protein S1
+PCMIPHHC_01464	gene	618	pnp_2			
+PCMIPHHC_01464	CDS	618	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+PCMIPHHC_01465	gene	1320	der_2			
+PCMIPHHC_01465	CDS	1320	der_2		COG1160	GTPase Der
+PCMIPHHC_01466	gene	591	plsY_2			
+PCMIPHHC_01466	CDS	591	plsY_2	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+PCMIPHHC_01467	gene	1590				
+PCMIPHHC_01467	CDS	1590				hypothetical protein
+PCMIPHHC_01468	gene	423				
+PCMIPHHC_01468	CDS	423				hypothetical protein
+PCMIPHHC_01469	gene	2682	mfd			
+PCMIPHHC_01469	CDS	2682	mfd	3.6.4.-		Transcription-repair-coupling factor
+PCMIPHHC_01470	gene	1224	sigA			
+PCMIPHHC_01470	CDS	1224	sigA		COG0568	RNA polymerase sigma factor SigA
+PCMIPHHC_01471	gene	1698	dnaG			
+PCMIPHHC_01471	CDS	1698	dnaG	2.7.7.-		DNA primase
+PCMIPHHC_01472	gene	405	rpsI			
+PCMIPHHC_01472	CDS	405	rpsI		COG0103	30S ribosomal protein S9
+PCMIPHHC_01473	gene	450	rplM			
+PCMIPHHC_01473	CDS	450	rplM		COG0102	50S ribosomal protein L13
+PCMIPHHC_01474	gene	552	ribU			
+PCMIPHHC_01474	CDS	552	ribU		COG3601	Riboflavin transporter RibU
+PCMIPHHC_01475	gene	252	rpmA			
+PCMIPHHC_01475	CDS	252	rpmA		COG0211	50S ribosomal protein L27
+PCMIPHHC_01476	gene	285				
+PCMIPHHC_01476	CDS	285				hypothetical protein
+PCMIPHHC_01477	gene	315	rplU			
+PCMIPHHC_01477	CDS	315	rplU		COG0261	50S ribosomal protein L21
+PCMIPHHC_01478	gene	345				
+PCMIPHHC_01478	CDS	345				hypothetical protein
+PCMIPHHC_01479	gene	666				
+PCMIPHHC_01479	CDS	666				hypothetical protein
+PCMIPHHC_01480	gene	1332	yidC			
+PCMIPHHC_01480	CDS	1332	yidC		COG0706	Membrane protein insertase YidC
+PCMIPHHC_01481	gene	246				
+PCMIPHHC_01481	CDS	246			COG0759	Putative membrane protein insertion efficiency factor
+PCMIPHHC_01482	gene	354	rnpA			
+PCMIPHHC_01482	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+PCMIPHHC_01483	gene	135	rpmH			
+PCMIPHHC_01483	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+PCMIPHHC_01484	gene	858	psuG			
+PCMIPHHC_01484	CDS	858	psuG	4.2.1.70	COG2313	Pseudouridine-5'-phosphate glycosidase
+PCMIPHHC_01485	gene	513	btuR			
+PCMIPHHC_01485	CDS	513	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+PCMIPHHC_01486	gene	588	engB			
+PCMIPHHC_01486	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+PCMIPHHC_01487	gene	1281				
+PCMIPHHC_01487	CDS	1281				hypothetical protein
+PCMIPHHC_01488	gene	507				
+PCMIPHHC_01488	CDS	507				hypothetical protein
+PCMIPHHC_01489	gene	867				
+PCMIPHHC_01489	CDS	867			COG1307	Fatty acid-binding protein
+PCMIPHHC_01490	gene	945	glkA			
+PCMIPHHC_01490	CDS	945	glkA	2.7.1.2		Glucokinase
+PCMIPHHC_01491	gene	1284	rho			
+PCMIPHHC_01491	CDS	1284	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+PCMIPHHC_01492	gene	396	rplQ			
+PCMIPHHC_01492	CDS	396	rplQ		COG0203	50S ribosomal protein L17
+PCMIPHHC_01493	gene	1011	rpoA			
+PCMIPHHC_01493	CDS	1011	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+PCMIPHHC_01494	gene	630	rpsD			
+PCMIPHHC_01494	CDS	630	rpsD		COG0522	30S ribosomal protein S4
+PCMIPHHC_01495	gene	393	rpsK			
+PCMIPHHC_01495	CDS	393	rpsK			30S ribosomal protein S11
+PCMIPHHC_01496	gene	378	rpsM			
+PCMIPHHC_01496	CDS	378	rpsM		COG0099	30S ribosomal protein S13
+PCMIPHHC_01497	gene	117	rpmJ			
+PCMIPHHC_01497	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+PCMIPHHC_01498	gene	168	infA			
+PCMIPHHC_01498	CDS	168	infA		COG0361	Translation initiation factor IF-1
+PCMIPHHC_01499	gene	753	map			
+PCMIPHHC_01499	CDS	753	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+PCMIPHHC_01500	gene	663	adk			
+PCMIPHHC_01500	CDS	663	adk	2.7.4.3		Adenylate kinase
+PCMIPHHC_01501	gene	1296	secY			
+PCMIPHHC_01501	CDS	1296	secY		COG0201	Protein translocase subunit SecY
+PCMIPHHC_01502	gene	444	rplO			
+PCMIPHHC_01502	CDS	444	rplO			50S ribosomal protein L15
+PCMIPHHC_01503	gene	204	rpmD			
+PCMIPHHC_01503	CDS	204	rpmD			50S ribosomal protein L30
+PCMIPHHC_01504	gene	537	rpsE			
+PCMIPHHC_01504	CDS	537	rpsE			30S ribosomal protein S5
+PCMIPHHC_01505	gene	369	rplR			
+PCMIPHHC_01505	CDS	369	rplR			50S ribosomal protein L18
+PCMIPHHC_01506	gene	555	rplF			
+PCMIPHHC_01506	CDS	555	rplF			50S ribosomal protein L6
+PCMIPHHC_01507	gene	405	rpsH			
+PCMIPHHC_01507	CDS	405	rpsH		COG0096	30S ribosomal protein S8
+PCMIPHHC_01508	gene	186	rpsZ			
+PCMIPHHC_01508	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+PCMIPHHC_01509	gene	555	rplE			
+PCMIPHHC_01509	CDS	555	rplE			50S ribosomal protein L5
+PCMIPHHC_01510	gene	318	rplX			
+PCMIPHHC_01510	CDS	318	rplX			50S ribosomal protein L24
+PCMIPHHC_01511	gene	369	rplN			
+PCMIPHHC_01511	CDS	369	rplN		COG0093	50S ribosomal protein L14
+PCMIPHHC_01512	gene	324				
+PCMIPHHC_01512	CDS	324				hypothetical protein
+PCMIPHHC_01513	gene	201	rpmC			
+PCMIPHHC_01513	CDS	201	rpmC		COG0255	50S ribosomal protein L29
+PCMIPHHC_01514	gene	429	rplP			
+PCMIPHHC_01514	CDS	429	rplP		COG0197	50S ribosomal protein L16
+PCMIPHHC_01515	gene	618	rpsC			
+PCMIPHHC_01515	CDS	618	rpsC		COG0092	30S ribosomal protein S3
+PCMIPHHC_01516	gene	480				
+PCMIPHHC_01516	CDS	480				hypothetical protein
+PCMIPHHC_01517	gene	288	rpsS			
+PCMIPHHC_01517	CDS	288	rpsS			30S ribosomal protein S19
+PCMIPHHC_01518	gene	831	rplB			
+PCMIPHHC_01518	CDS	831	rplB		COG0090	50S ribosomal protein L2
+PCMIPHHC_01519	gene	303	rplW			
+PCMIPHHC_01519	CDS	303	rplW			50S ribosomal protein L23
+PCMIPHHC_01520	gene	708	rplD			
+PCMIPHHC_01520	CDS	708	rplD		COG0088	50S ribosomal protein L4
+PCMIPHHC_01521	gene	624	rplC			
+PCMIPHHC_01521	CDS	624	rplC		COG0087	50S ribosomal protein L3
+PCMIPHHC_01522	gene	309	rpsJ			
+PCMIPHHC_01522	CDS	309	rpsJ			30S ribosomal protein S10
+PCMIPHHC_01523	gene	1203	tuf			
+PCMIPHHC_01523	CDS	1203	tuf		COG0050	Elongation factor Tu
+PCMIPHHC_01524	gene	2088	fusA_1			
+PCMIPHHC_01524	CDS	2088	fusA_1		COG0480	Elongation factor G
+PCMIPHHC_01525	gene	468	rpsG			
+PCMIPHHC_01525	CDS	468	rpsG		COG0049	30S ribosomal protein S7
+PCMIPHHC_01526	gene	384	rpsL			
+PCMIPHHC_01526	CDS	384	rpsL			30S ribosomal protein S12
+PCMIPHHC_01527	gene	420				
+PCMIPHHC_01527	CDS	420				hypothetical protein
+PCMIPHHC_01528	gene	975				
+PCMIPHHC_01528	CDS	975			COG1702	PhoH-like protein
+PCMIPHHC_01529	gene	1377	rny_1			
+PCMIPHHC_01529	CDS	1377	rny_1	3.1.-.-		Ribonuclease Y
+PCMIPHHC_01530	gene	453	ybeY			
+PCMIPHHC_01530	CDS	453	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+PCMIPHHC_01531	gene	1221				
+PCMIPHHC_01531	CDS	1221				hypothetical protein
+PCMIPHHC_01532	gene	693				
+PCMIPHHC_01532	CDS	693				hypothetical protein
+PCMIPHHC_01533	gene	1296	rsmB			
+PCMIPHHC_01533	CDS	1296	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+PCMIPHHC_01534	gene	1257	tmcAL			
+PCMIPHHC_01534	CDS	1257	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+PCMIPHHC_01535	gene	393				
+PCMIPHHC_01535	CDS	393				hypothetical protein
+PCMIPHHC_01536	gene	411	perR			
+PCMIPHHC_01536	CDS	411	perR		COG0735	Peroxide-responsive repressor PerR
+PCMIPHHC_01537	gene	1074				
+PCMIPHHC_01537	CDS	1074		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+PCMIPHHC_01538	gene	1161	lysA			
+PCMIPHHC_01538	CDS	1161	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+PCMIPHHC_01539	gene	1206				
+PCMIPHHC_01539	CDS	1206		2.7.2.4	COG0527	Aspartate kinase
+PCMIPHHC_01540	gene	702	dapH			
+PCMIPHHC_01540	CDS	702	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PCMIPHHC_01541	gene	651	dapB			
+PCMIPHHC_01541	CDS	651	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+PCMIPHHC_01542	gene	885	dapA			
+PCMIPHHC_01542	CDS	885	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+PCMIPHHC_01543	gene	711	dapF			
+PCMIPHHC_01543	CDS	711	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+PCMIPHHC_01544	gene	978	asd2			
+PCMIPHHC_01544	CDS	978	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+PCMIPHHC_01545	gene	225				
+PCMIPHHC_01545	CDS	225				hypothetical protein
+	repeat_region	563				
+PCMIPHHC_01546	gene	825				
+PCMIPHHC_01546	CDS	825				hypothetical protein
+PCMIPHHC_01547	gene	438				
+PCMIPHHC_01547	CDS	438				hypothetical protein
+PCMIPHHC_01548	gene	423	cymR_2			
+PCMIPHHC_01548	CDS	423	cymR_2			HTH-type transcriptional regulator CymR
+PCMIPHHC_01549	gene	870	menA			
+PCMIPHHC_01549	CDS	870	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PCMIPHHC_01550	gene	621				
+PCMIPHHC_01550	CDS	621				hypothetical protein
+PCMIPHHC_01551	gene	858	carD			
+PCMIPHHC_01551	CDS	858	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+PCMIPHHC_01552	gene	1017	carE			
+PCMIPHHC_01552	CDS	1017	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+PCMIPHHC_01553	gene	1317				
+PCMIPHHC_01553	CDS	1317		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+PCMIPHHC_01554	gene	279	fixX			
+PCMIPHHC_01554	CDS	279	fixX		COG2440	Ferredoxin-like protein FixX
+PCMIPHHC_01555	gene	342				
+PCMIPHHC_01555	CDS	342				hypothetical protein
+PCMIPHHC_01556	gene	900				
+PCMIPHHC_01556	CDS	900				hypothetical protein
+PCMIPHHC_01557	gene	585				
+PCMIPHHC_01557	CDS	585				hypothetical protein
+PCMIPHHC_01558	gene	1326	bchE			
+PCMIPHHC_01558	CDS	1326	bchE	1.21.98.3		Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+PCMIPHHC_01559	gene	270				
+PCMIPHHC_01559	CDS	270				hypothetical protein
+PCMIPHHC_01560	gene	996	flgI			
+PCMIPHHC_01560	CDS	996	flgI			Flagellar P-ring protein
+PCMIPHHC_01561	gene	600	flgH			
+PCMIPHHC_01561	CDS	600	flgH			Flagellar L-ring protein
+PCMIPHHC_01562	gene	861				
+PCMIPHHC_01562	CDS	861				hypothetical protein
+PCMIPHHC_01563	gene	786	flgG_1			
+PCMIPHHC_01563	CDS	786	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+PCMIPHHC_01564	gene	750	flgG_2			
+PCMIPHHC_01564	CDS	750	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+PCMIPHHC_01565	gene	1011	mbl			
+PCMIPHHC_01565	CDS	1011	mbl		COG1077	Cell shape-determining protein Mbl
+PCMIPHHC_01566	gene	76				
+PCMIPHHC_01566	tRNA	76				tRNA-Arg(ccg)
+PCMIPHHC_01567	gene	2868				
+PCMIPHHC_01567	CDS	2868				hypothetical protein
+PCMIPHHC_01568	gene	1413				
+PCMIPHHC_01568	CDS	1413				hypothetical protein
+PCMIPHHC_01569	gene	1818	fcl			
+PCMIPHHC_01569	CDS	1818	fcl	1.1.1.271		GDP-L-fucose synthase
+PCMIPHHC_01570	gene	876	wecA			
+PCMIPHHC_01570	CDS	876	wecA	2.7.8.33	COG0472	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+PCMIPHHC_01571	gene	891				
+PCMIPHHC_01571	CDS	891				hypothetical protein
+PCMIPHHC_01572	gene	525				
+PCMIPHHC_01572	CDS	525				hypothetical protein
+PCMIPHHC_01573	gene	996	moaA_7			
+PCMIPHHC_01573	CDS	996	moaA_7			GTP 3',8-cyclase
+PCMIPHHC_01574	gene	1050	apbE			
+PCMIPHHC_01574	CDS	1050	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+PCMIPHHC_01575	gene	360				
+PCMIPHHC_01575	CDS	360				hypothetical protein
+PCMIPHHC_01576	gene	546				
+PCMIPHHC_01576	CDS	546				hypothetical protein
+PCMIPHHC_01577	gene	570	maf			
+PCMIPHHC_01577	CDS	570	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+PCMIPHHC_01578	gene	648				
+PCMIPHHC_01578	CDS	648				hypothetical protein
+PCMIPHHC_01579	gene	549	rny_2			
+PCMIPHHC_01579	CDS	549	rny_2	3.1.-.-		Ribonuclease Y
+PCMIPHHC_01580	gene	747	deoC			
+PCMIPHHC_01580	CDS	747	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+PCMIPHHC_01581	gene	609	fchA			
+PCMIPHHC_01581	CDS	609	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+PCMIPHHC_01582	gene	1110	tgt			
+PCMIPHHC_01582	CDS	1110	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+PCMIPHHC_01583	gene	801				
+PCMIPHHC_01583	CDS	801				hypothetical protein
+PCMIPHHC_01584	gene	807	mscS			
+PCMIPHHC_01584	CDS	807	mscS		COG0668	Small-conductance mechanosensitive channel
+PCMIPHHC_01585	gene	273	acyP			
+PCMIPHHC_01585	CDS	273	acyP	3.6.1.7	COG1254	Acylphosphatase
+PCMIPHHC_01586	gene	1302	ffh			
+PCMIPHHC_01586	CDS	1302	ffh		COG0541	Signal recognition particle protein
+PCMIPHHC_01587	gene	288	rpsP			
+PCMIPHHC_01587	CDS	288	rpsP		COG0228	30S ribosomal protein S16
+PCMIPHHC_01588	gene	228				
+PCMIPHHC_01588	CDS	228				hypothetical protein
+PCMIPHHC_01589	gene	531	rimM			
+PCMIPHHC_01589	CDS	531	rimM			Ribosome maturation factor RimM
+PCMIPHHC_01590	gene	738	trmD			
+PCMIPHHC_01590	CDS	738	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+PCMIPHHC_01591	gene	579				
+PCMIPHHC_01591	CDS	579			COG4752	putative protein
+PCMIPHHC_01592	gene	348	rplS			
+PCMIPHHC_01592	CDS	348	rplS		COG0335	50S ribosomal protein L19
+PCMIPHHC_01593	gene	921				
+PCMIPHHC_01593	CDS	921				hypothetical protein
+PCMIPHHC_01594	gene	1812	bamB			
+PCMIPHHC_01594	CDS	1812	bamB			Outer membrane protein assembly factor BamB
+PCMIPHHC_01595	gene	738	truA			
+PCMIPHHC_01595	CDS	738	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+PCMIPHHC_01596	gene	162				
+PCMIPHHC_01596	CDS	162				hypothetical protein
+PCMIPHHC_01597	gene	1158				
+PCMIPHHC_01597	CDS	1158				hypothetical protein
+PCMIPHHC_01598	gene	804	tlyA			
+PCMIPHHC_01598	CDS	804	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+PCMIPHHC_01599	gene	1227				
+PCMIPHHC_01599	CDS	1227				hypothetical protein
+PCMIPHHC_01600	gene	2616	secA			
+PCMIPHHC_01600	CDS	2616	secA		COG0653	Protein translocase subunit SecA
+PCMIPHHC_01601	gene	1104	prfB			
+PCMIPHHC_01601	CDS	1104	prfB			Peptide chain release factor 2
+PCMIPHHC_01602	gene	1029				
+PCMIPHHC_01602	CDS	1029				hypothetical protein
+PCMIPHHC_01603	gene	1146				
+PCMIPHHC_01603	CDS	1146				hypothetical protein
+PCMIPHHC_01604	gene	444				
+PCMIPHHC_01604	CDS	444				hypothetical protein
+PCMIPHHC_01605	gene	1083				
+PCMIPHHC_01605	CDS	1083				hypothetical protein
+PCMIPHHC_01606	gene	609				
+PCMIPHHC_01606	CDS	609				hypothetical protein
+PCMIPHHC_01607	gene	1254				
+PCMIPHHC_01607	CDS	1254		2.7.1.165	COG2379	D-glycerate 2-kinase
+PCMIPHHC_01608	gene	621				
+PCMIPHHC_01608	CDS	621				hypothetical protein
+PCMIPHHC_01609	gene	387				
+PCMIPHHC_01609	CDS	387				hypothetical protein
+PCMIPHHC_01610	gene	732				
+PCMIPHHC_01610	CDS	732				hypothetical protein
+PCMIPHHC_01611	gene	75				
+PCMIPHHC_01611	tRNA	75				tRNA-Val(tac)
+PCMIPHHC_01612	gene	76				
+PCMIPHHC_01612	tRNA	76				tRNA-Phe(gaa)
+PCMIPHHC_01613	gene	2940				
+PCMIPHHC_01613	CDS	2940				hypothetical protein
+PCMIPHHC_01614	gene	76				
+PCMIPHHC_01614	tRNA	76				tRNA-Ala(ggc)
+PCMIPHHC_01615	gene	75				
+PCMIPHHC_01615	tRNA	75				tRNA-Arg(cct)
+PCMIPHHC_01616	gene	76				
+PCMIPHHC_01616	tRNA	76				tRNA-Lys(ctt)
+PCMIPHHC_01617	gene	435	infC			
+PCMIPHHC_01617	CDS	435	infC		COG0290	Translation initiation factor IF-3
+PCMIPHHC_01618	gene	198	rpmI			
+PCMIPHHC_01618	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+PCMIPHHC_01619	gene	357	rplT			
+PCMIPHHC_01619	CDS	357	rplT		COG0292	50S ribosomal protein L20
+PCMIPHHC_01620	gene	744	salA			
+PCMIPHHC_01620	CDS	744	salA		COG0489	Iron-sulfur cluster carrier protein
+PCMIPHHC_01621	gene	3612				
+PCMIPHHC_01621	CDS	3612				hypothetical protein
+PCMIPHHC_01622	gene	1002	nrnA			
+PCMIPHHC_01622	CDS	1002	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+PCMIPHHC_01623	gene	798	punA_1			
+PCMIPHHC_01623	CDS	798	punA_1	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+PCMIPHHC_01624	gene	1065	orr			
+PCMIPHHC_01624	CDS	1065	orr	5.1.1.12	COG3457	Ornithine racemase
+PCMIPHHC_01625	gene	570	rpoE			
+PCMIPHHC_01625	CDS	570	rpoE		COG1595	ECF RNA polymerase sigma-E factor
+PCMIPHHC_01626	gene	354				
+PCMIPHHC_01626	CDS	354				hypothetical protein
+PCMIPHHC_01627	gene	783				
+PCMIPHHC_01627	CDS	783				hypothetical protein
+PCMIPHHC_01628	gene	1656	miaB_3			
+PCMIPHHC_01628	CDS	1656	miaB_3	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PCMIPHHC_01629	gene	528	niaR			
+PCMIPHHC_01629	CDS	528	niaR		COG1827	putative transcription repressor NiaR
+PCMIPHHC_01630	gene	1269	naiP			
+PCMIPHHC_01630	CDS	1269	naiP			Putative niacin/nicotinamide transporter NaiP
+PCMIPHHC_01631	gene	696	pyrH_2			
+PCMIPHHC_01631	CDS	696	pyrH_2	2.7.4.22	COG0528	Uridylate kinase
+PCMIPHHC_01632	gene	600	tsf			
+PCMIPHHC_01632	CDS	600	tsf		COG0264	Elongation factor Ts
+PCMIPHHC_01633	gene	1365	rng			
+PCMIPHHC_01633	CDS	1365	rng	3.1.26.-	COG1530	Ribonuclease G
+PCMIPHHC_01634	gene	537	hpf			
+PCMIPHHC_01634	CDS	537	hpf		COG1544	Ribosome hibernation promotion factor
+PCMIPHHC_01635	gene	639				
+PCMIPHHC_01635	CDS	639				DegV domain-containing protein
+PCMIPHHC_01636	gene	327	atpC			
+PCMIPHHC_01636	CDS	327	atpC		COG0355	ATP synthase epsilon chain
+PCMIPHHC_01637	gene	1407	atpD_1			
+PCMIPHHC_01637	CDS	1407	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+PCMIPHHC_01638	gene	822	atpG			
+PCMIPHHC_01638	CDS	822	atpG		COG0224	ATP synthase gamma chain
+PCMIPHHC_01639	gene	1512	atpA			
+PCMIPHHC_01639	CDS	1512	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+PCMIPHHC_01640	gene	552	atpD_2			
+PCMIPHHC_01640	CDS	552	atpD_2			ATP synthase subunit delta
+PCMIPHHC_01641	gene	495	atpF			
+PCMIPHHC_01641	CDS	495	atpF		COG0711	ATP synthase subunit b
+PCMIPHHC_01642	gene	258	atpH			
+PCMIPHHC_01642	CDS	258	atpH			ATP synthase subunit c
+PCMIPHHC_01643	gene	843	atpB			
+PCMIPHHC_01643	CDS	843	atpB			ATP synthase subunit a
+PCMIPHHC_01644	gene	342				
+PCMIPHHC_01644	CDS	342				hypothetical protein
+PCMIPHHC_01645	gene	288				
+PCMIPHHC_01645	CDS	288				hypothetical protein
+PCMIPHHC_01646	gene	468	cheX			
+PCMIPHHC_01646	CDS	468	cheX	3.-.-.-	COG1406	CheY-P phosphatase CheX
+PCMIPHHC_01647	gene	2682	polA			
+PCMIPHHC_01647	CDS	2682	polA	2.7.7.7	COG0258	DNA polymerase I
+PCMIPHHC_01648	gene	366				
+PCMIPHHC_01648	CDS	366				hypothetical protein
+PCMIPHHC_01649	gene	669				
+PCMIPHHC_01649	CDS	669				hypothetical protein
+PCMIPHHC_01650	gene	465				
+PCMIPHHC_01650	CDS	465				hypothetical protein
+PCMIPHHC_01651	gene	1818	lepA			
+PCMIPHHC_01651	CDS	1818	lepA	3.6.5.-	COG0481	Elongation factor 4
+PCMIPHHC_01652	gene	2358	lacZ_2			
+PCMIPHHC_01652	CDS	2358	lacZ_2	3.2.1.23		Beta-galactosidase
+PCMIPHHC_01653	gene	402				
+PCMIPHHC_01653	CDS	402				hypothetical protein
+PCMIPHHC_01654	gene	561	pth			
+PCMIPHHC_01654	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+PCMIPHHC_01655	gene	648				
+PCMIPHHC_01655	CDS	648				hypothetical protein
+PCMIPHHC_01656	gene	948	prs			
+PCMIPHHC_01656	CDS	948	prs	2.7.6.1		Ribose-phosphate pyrophosphokinase
+PCMIPHHC_01657	gene	1338	glmU			
+PCMIPHHC_01657	CDS	1338	glmU		COG1207	Bifunctional protein GlmU
+PCMIPHHC_01658	gene	303				
+PCMIPHHC_01658	CDS	303				hypothetical protein
+PCMIPHHC_01659	gene	786				
+PCMIPHHC_01659	CDS	786				hypothetical protein
+PCMIPHHC_01660	gene	486	tsaE			
+PCMIPHHC_01660	CDS	486	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PCMIPHHC_01661	gene	2364	lon1			
+PCMIPHHC_01661	CDS	2364	lon1	3.4.21.53	COG0466	Lon protease 1
+PCMIPHHC_01662	gene	387				
+PCMIPHHC_01662	CDS	387				hypothetical protein
+PCMIPHHC_01663	gene	1149	cpdA			
+PCMIPHHC_01663	CDS	1149	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PCMIPHHC_01664	gene	2559				
+PCMIPHHC_01664	CDS	2559			COG0419	putative DNA double-strand break repair Rad50 ATPase
+PCMIPHHC_01665	gene	621				
+PCMIPHHC_01665	CDS	621				hypothetical protein
+PCMIPHHC_01666	gene	624	natA_3			
+PCMIPHHC_01666	CDS	624	natA_3	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+PCMIPHHC_01667	gene	834				
+PCMIPHHC_01667	CDS	834			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+PCMIPHHC_01668	gene	1407	gltD			
+PCMIPHHC_01668	CDS	1407	gltD	1.4.1.13		Glutamate synthase [NADPH] small chain
+PCMIPHHC_01669	gene	510	folA			
+PCMIPHHC_01669	CDS	510	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+PCMIPHHC_01670	gene	1584	pyrB			
+PCMIPHHC_01670	CDS	1584	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+	repeat_region	228				
+PCMIPHHC_01671	gene	726	nadX			
+PCMIPHHC_01671	CDS	726	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+PCMIPHHC_01672	gene	897	nadA			
+PCMIPHHC_01672	CDS	897	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+PCMIPHHC_01673	gene	825	nadC			
+PCMIPHHC_01673	CDS	825	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PCMIPHHC_01674	gene	459				
+PCMIPHHC_01674	CDS	459				hypothetical protein
+PCMIPHHC_01675	gene	657				
+PCMIPHHC_01675	CDS	657				hypothetical protein
+PCMIPHHC_01676	gene	597				
+PCMIPHHC_01676	CDS	597				hypothetical protein
+PCMIPHHC_01677	gene	282				
+PCMIPHHC_01677	CDS	282				hypothetical protein
+PCMIPHHC_01678	gene	1269	amyB			
+PCMIPHHC_01678	CDS	1269	amyB	3.2.1.1		Alpha-amylase 2
+PCMIPHHC_01679	gene	2052	fusA_2			
+PCMIPHHC_01679	CDS	2052	fusA_2		COG0480	Elongation factor G
+PCMIPHHC_01680	gene	1662				
+PCMIPHHC_01680	CDS	1662				hypothetical protein
+PCMIPHHC_01681	gene	1305	pdp			
+PCMIPHHC_01681	CDS	1305	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+PCMIPHHC_01682	gene	1239	phoR			
+PCMIPHHC_01682	CDS	1239	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+PCMIPHHC_01683	gene	720	phoP_2			
+PCMIPHHC_01683	CDS	720	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PCMIPHHC_01684	gene	663				
+PCMIPHHC_01684	CDS	663				hypothetical protein
+PCMIPHHC_01685	gene	291	rpsT			
+PCMIPHHC_01685	CDS	291	rpsT		COG0268	30S ribosomal protein S20
+PCMIPHHC_01686	gene	1188	metK			
+PCMIPHHC_01686	CDS	1188	metK	2.5.1.6		S-adenosylmethionine synthase
+PCMIPHHC_01687	gene	327				
+PCMIPHHC_01687	CDS	327				hypothetical protein
+PCMIPHHC_01688	gene	972				
+PCMIPHHC_01688	CDS	972				hypothetical protein
+PCMIPHHC_01689	gene	495	def			
+PCMIPHHC_01689	CDS	495	def	3.5.1.88	COG0242	Peptide deformylase
+PCMIPHHC_01690	gene	744	surE			
+PCMIPHHC_01690	CDS	744	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+PCMIPHHC_01691	gene	780	ecfA1			
+PCMIPHHC_01691	CDS	780	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+PCMIPHHC_01692	gene	633	rsmC_2			
+PCMIPHHC_01692	CDS	633	rsmC_2	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+PCMIPHHC_01693	gene	552	spoIIAB_2			
+PCMIPHHC_01693	CDS	552	spoIIAB_2	2.7.11.1		Anti-sigma F factor
+PCMIPHHC_01694	gene	1191	dapE			
+PCMIPHHC_01694	CDS	1191	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+PCMIPHHC_01695	gene	1335	xylA			
+PCMIPHHC_01695	CDS	1335	xylA	5.3.1.5	COG2115	Xylose isomerase
+PCMIPHHC_01696	gene	492				
+PCMIPHHC_01696	CDS	492				hypothetical protein
+PCMIPHHC_01697	gene	282				
+PCMIPHHC_01697	CDS	282				hypothetical protein
+PCMIPHHC_01698	gene	75				
+PCMIPHHC_01698	tRNA	75				tRNA-Glu(ctc)
+PCMIPHHC_01699	gene	77				
+PCMIPHHC_01699	tRNA	77				tRNA-Pro(ggg)
+PCMIPHHC_01700	gene	261	flhB_2			
+PCMIPHHC_01700	CDS	261	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+PCMIPHHC_01701	gene	1158				
+PCMIPHHC_01701	CDS	1158				hypothetical protein
+PCMIPHHC_01702	gene	714				
+PCMIPHHC_01702	CDS	714				hypothetical protein
+PCMIPHHC_01703	gene	507				
+PCMIPHHC_01703	CDS	507				hypothetical protein
+PCMIPHHC_01704	gene	834				
+PCMIPHHC_01704	CDS	834				hypothetical protein
+PCMIPHHC_01705	gene	1209				
+PCMIPHHC_01705	CDS	1209				hypothetical protein
+PCMIPHHC_01706	gene	483				
+PCMIPHHC_01706	CDS	483				hypothetical protein
+PCMIPHHC_01707	gene	768				
+PCMIPHHC_01707	CDS	768				hypothetical protein
+PCMIPHHC_01708	gene	204				
+PCMIPHHC_01708	CDS	204				hypothetical protein
+PCMIPHHC_01709	gene	216				
+PCMIPHHC_01709	CDS	216				hypothetical protein
+PCMIPHHC_01710	gene	1698				
+PCMIPHHC_01710	CDS	1698				hypothetical protein
+PCMIPHHC_01711	gene	201	csp_1			
+PCMIPHHC_01711	CDS	201	csp_1		COG1278	Cold shock-like protein
+PCMIPHHC_01712	gene	216	rpmE			
+PCMIPHHC_01712	CDS	216	rpmE		COG0254	50S ribosomal protein L31
+PCMIPHHC_01713	gene	375	pnp_3			
+PCMIPHHC_01713	CDS	375	pnp_3	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+PCMIPHHC_01714	gene	1149				
+PCMIPHHC_01714	CDS	1149				hypothetical protein
+PCMIPHHC_01715	gene	1185	coaBC			
+PCMIPHHC_01715	CDS	1185	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+PCMIPHHC_01716	gene	240	rpoZ			
+PCMIPHHC_01716	CDS	240	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+PCMIPHHC_01717	gene	624	gmk			
+PCMIPHHC_01717	CDS	624	gmk	2.7.4.8	COG0194	Guanylate kinase
+PCMIPHHC_01718	gene	279				
+PCMIPHHC_01718	CDS	279				hypothetical protein
+PCMIPHHC_01719	gene	879				
+PCMIPHHC_01719	CDS	879				hypothetical protein
+PCMIPHHC_01720	gene	1155	iscS			
+PCMIPHHC_01720	CDS	1155	iscS	2.8.1.7		Cysteine desulfurase IscS
+PCMIPHHC_01721	gene	744				
+PCMIPHHC_01721	CDS	744				hypothetical protein
+PCMIPHHC_01722	gene	1158	thiI			
+PCMIPHHC_01722	CDS	1158	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+PCMIPHHC_01723	gene	1074	bepA			
+PCMIPHHC_01723	CDS	1074	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+PCMIPHHC_01724	gene	723	pppA			
+PCMIPHHC_01724	CDS	723	pppA		COG1989	Prepilin peptidase PppA
+PCMIPHHC_01725	gene	1176	rlmI			
+PCMIPHHC_01725	CDS	1176	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+PCMIPHHC_01726	gene	1194	hisC_2			
+PCMIPHHC_01726	CDS	1194	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+PCMIPHHC_01727	gene	1644				
+PCMIPHHC_01727	CDS	1644				hypothetical protein
+PCMIPHHC_01728	gene	603	gph			
+PCMIPHHC_01728	CDS	603	gph	3.1.3.18		Phosphoglycolate phosphatase
+PCMIPHHC_01729	gene	1377	mepA			
+PCMIPHHC_01729	CDS	1377	mepA		COG0534	Multidrug export protein MepA
+PCMIPHHC_01730	gene	384				
+PCMIPHHC_01730	CDS	384				hypothetical protein
+PCMIPHHC_01731	gene	1782	ltaS1			
+PCMIPHHC_01731	CDS	1782	ltaS1		COG1368	Lipoteichoic acid synthase 1
+PCMIPHHC_01732	gene	1746				
+PCMIPHHC_01732	CDS	1746				hypothetical protein
+PCMIPHHC_01733	gene	1509	lysS			
+PCMIPHHC_01733	CDS	1509	lysS	6.1.1.6		Lysine--tRNA ligase
+PCMIPHHC_01734	gene	471	greA			
+PCMIPHHC_01734	CDS	471	greA		COG0782	Transcription elongation factor GreA
+PCMIPHHC_01735	gene	471	nrdR			
+PCMIPHHC_01735	CDS	471	nrdR		COG1327	Transcriptional repressor NrdR
+PCMIPHHC_01736	gene	876	whiA			
+PCMIPHHC_01736	CDS	876	whiA		COG1481	putative cell division protein WhiA
+PCMIPHHC_01737	gene	945				
+PCMIPHHC_01737	CDS	945			COG0391	Gluconeogenesis factor
+PCMIPHHC_01738	gene	669				
+PCMIPHHC_01738	CDS	669				Nucleotide-binding protein
+PCMIPHHC_01739	gene	267				
+PCMIPHHC_01739	CDS	267				hypothetical protein
+PCMIPHHC_01740	gene	267				
+PCMIPHHC_01740	CDS	267				hypothetical protein
+PCMIPHHC_01741	gene	576	yigZ			
+PCMIPHHC_01741	CDS	576	yigZ		COG1739	IMPACT family member YigZ
+PCMIPHHC_01742	gene	903	murB			
+PCMIPHHC_01742	CDS	903	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+PCMIPHHC_01743	gene	1032	rlmN_2			
+PCMIPHHC_01743	CDS	1032	rlmN_2	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+PCMIPHHC_01744	gene	615				
+PCMIPHHC_01744	CDS	615				hypothetical protein
+PCMIPHHC_01745	gene	882	rsgA			
+PCMIPHHC_01745	CDS	882	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+PCMIPHHC_01746	gene	663	rpe			
+PCMIPHHC_01746	CDS	663	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+PCMIPHHC_01747	gene	2382	mutS			
+PCMIPHHC_01747	CDS	2382	mutS		COG0249	DNA mismatch repair protein MutS
+PCMIPHHC_01748	gene	435				
+PCMIPHHC_01748	CDS	435		2.3.1.-		Acetyltransferase
+PCMIPHHC_01749	gene	1179				
+PCMIPHHC_01749	CDS	1179				hypothetical protein
+PCMIPHHC_01750	gene	867				
+PCMIPHHC_01750	CDS	867				hypothetical protein
+PCMIPHHC_01751	gene	1155	ade			
+PCMIPHHC_01751	CDS	1155	ade	3.5.4.2		Adenine deaminase
+PCMIPHHC_01752	gene	741	fabG_2			
+PCMIPHHC_01752	CDS	741	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PCMIPHHC_01753	gene	1122	alaS_2			
+PCMIPHHC_01753	CDS	1122	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+PCMIPHHC_01754	gene	795				
+PCMIPHHC_01754	CDS	795				hypothetical protein
+PCMIPHHC_01755	gene	813	panB			
+PCMIPHHC_01755	CDS	813	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+PCMIPHHC_01756	gene	1212	omp-alpha_2			
+PCMIPHHC_01756	CDS	1212	omp-alpha_2			Outer membrane protein alpha
+PCMIPHHC_01757	gene	1005	ruvB_2			
+PCMIPHHC_01757	CDS	1005	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+PCMIPHHC_01758	gene	690				
+PCMIPHHC_01758	CDS	690			COG0325	Pyridoxal phosphate homeostasis protein
+PCMIPHHC_01759	gene	297				
+PCMIPHHC_01759	CDS	297				hypothetical protein
+PCMIPHHC_01760	gene	777	NADK			
+PCMIPHHC_01760	CDS	777	NADK	2.7.1.23	COG0061	NAD kinase
+PCMIPHHC_01761	gene	708	phoU2			
+PCMIPHHC_01761	CDS	708	phoU2		COG0704	Phosphate-specific transport system accessory protein PhoU 
+PCMIPHHC_01762	gene	3186	lptD_2			
+PCMIPHHC_01762	CDS	3186	lptD_2			LPS-assembly protein LptD
+PCMIPHHC_01763	gene	1356	dnaC			
+PCMIPHHC_01763	CDS	1356	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+PCMIPHHC_01764	gene	837	punA_2			
+PCMIPHHC_01764	CDS	837	punA_2	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+PCMIPHHC_01765	gene	738	zupT			
+PCMIPHHC_01765	CDS	738	zupT		COG0428	Zinc transporter ZupT
+PCMIPHHC_01766	gene	912				
+PCMIPHHC_01766	CDS	912				hypothetical protein
+PCMIPHHC_01767	gene	423	mrnC			
+PCMIPHHC_01767	CDS	423	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+PCMIPHHC_01768	gene	729	rlmB			
+PCMIPHHC_01768	CDS	729	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+PCMIPHHC_01769	gene	780	hdpA			
+PCMIPHHC_01769	CDS	780	hdpA	3.1.3.-		Dihydroxyacetone phosphatase
+PCMIPHHC_01770	gene	825	iolS_2			
+PCMIPHHC_01770	CDS	825	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+PCMIPHHC_01771	gene	1032	ltaA			
+PCMIPHHC_01771	CDS	1032	ltaA	4.1.2.49		L-allo-threonine aldolase
+PCMIPHHC_01772	gene	624				
+PCMIPHHC_01772	CDS	624				hypothetical protein
+PCMIPHHC_01773	gene	1929				
+PCMIPHHC_01773	CDS	1929				hypothetical protein
+PCMIPHHC_01774	gene	963	oppB_2			
+PCMIPHHC_01774	CDS	963	oppB_2		COG0601	Oligopeptide transport system permease protein OppB
+PCMIPHHC_01775	gene	870	oppC_2			
+PCMIPHHC_01775	CDS	870	oppC_2		COG1173	Oligopeptide transport system permease protein OppC
+PCMIPHHC_01776	gene	975	oppD_11			
+PCMIPHHC_01776	CDS	975	oppD_11		COG0444	Oligopeptide transport ATP-binding protein OppD
+PCMIPHHC_01777	gene	960	oppF_7			
+PCMIPHHC_01777	CDS	960	oppF_7		COG4608	Oligopeptide transport ATP-binding protein OppF
+PCMIPHHC_01778	gene	1008	celH			
+PCMIPHHC_01778	CDS	1008	celH	3.2.1.4	COG2730	Endoglucanase H
+PCMIPHHC_01779	gene	990				
+PCMIPHHC_01779	CDS	990		3.2.1.4		Endoglucanase C307
+PCMIPHHC_01780	gene	300	uvrB_1			
+PCMIPHHC_01780	CDS	300	uvrB_1			UvrABC system protein B
+PCMIPHHC_01781	gene	1074	buk2_1			
+PCMIPHHC_01781	CDS	1074	buk2_1	2.7.2.7	COG3426	putative butyrate kinase 2
+PCMIPHHC_01782	gene	882	pta_2			
+PCMIPHHC_01782	CDS	882	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+PCMIPHHC_01783	gene	1128	buk2_2			
+PCMIPHHC_01783	CDS	1128	buk2_2	2.7.2.7	COG3426	putative butyrate kinase 2
+PCMIPHHC_01784	gene	657				
+PCMIPHHC_01784	CDS	657				hypothetical protein
+PCMIPHHC_01785	gene	234	ndhI_3			
+PCMIPHHC_01785	CDS	234	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+PCMIPHHC_01786	gene	1062	padG			
+PCMIPHHC_01786	CDS	1062	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+PCMIPHHC_01787	gene	744	korB			
+PCMIPHHC_01787	CDS	744	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+PCMIPHHC_01788	gene	561	padE_2			
+PCMIPHHC_01788	CDS	561	padE_2	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit gamma
+PCMIPHHC_01789	gene	78				
+PCMIPHHC_01789	tRNA	78				tRNA-Asp(gtc)
+PCMIPHHC_01790	gene	1995	uvrB_2			
+PCMIPHHC_01790	CDS	1995	uvrB_2			UvrABC system protein B
+PCMIPHHC_01791	gene	1908	dxs_1			
+PCMIPHHC_01791	CDS	1908	dxs_1	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+PCMIPHHC_01792	gene	558	efp			
+PCMIPHHC_01792	CDS	558	efp		COG0231	Elongation factor P
+PCMIPHHC_01793	gene	366				
+PCMIPHHC_01793	CDS	366				hypothetical protein
+PCMIPHHC_01794	gene	429	nusB			
+PCMIPHHC_01794	CDS	429	nusB		COG0781	Transcription antitermination protein NusB
+PCMIPHHC_01795	gene	1644	fhs			
+PCMIPHHC_01795	CDS	1644	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+PCMIPHHC_01796	gene	816	folD			
+PCMIPHHC_01796	CDS	816	folD			Bifunctional protein FolD protein
+PCMIPHHC_01797	gene	1185	xseA			
+PCMIPHHC_01797	CDS	1185	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+PCMIPHHC_01798	gene	210	xseB			
+PCMIPHHC_01798	CDS	210	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+PCMIPHHC_01799	gene	1827	dxs_2			
+PCMIPHHC_01799	CDS	1827	dxs_2	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+PCMIPHHC_01800	gene	330				
+PCMIPHHC_01800	CDS	330				hypothetical protein
+PCMIPHHC_01801	gene	1494				
+PCMIPHHC_01801	CDS	1494				putative protein
+PCMIPHHC_01802	gene	1617	lapB			
+PCMIPHHC_01802	CDS	1617	lapB			Lipopolysaccharide assembly protein B
+PCMIPHHC_01803	gene	1206	apgM			
+PCMIPHHC_01803	CDS	1206	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PCMIPHHC_01804	gene	1176				
+PCMIPHHC_01804	CDS	1176				hypothetical protein
+PCMIPHHC_01805	gene	459	fur_2			
+PCMIPHHC_01805	CDS	459	fur_2		COG0735	Ferric uptake regulation protein
+PCMIPHHC_01806	gene	1035	nusA			
+PCMIPHHC_01806	CDS	1035	nusA		COG0195	Transcription termination/antitermination protein NusA
+PCMIPHHC_01807	gene	453	rimP			
+PCMIPHHC_01807	CDS	453	rimP		COG0779	Ribosome maturation factor RimP
+PCMIPHHC_01808	gene	91				
+PCMIPHHC_01808	tRNA	91				tRNA-Ser(gga)
+PCMIPHHC_01809	gene	93				
+PCMIPHHC_01809	CDS	93				hypothetical protein
+PCMIPHHC_01810	gene	1230	argG			
+PCMIPHHC_01810	CDS	1230	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+PCMIPHHC_01811	gene	213	argH_1			
+PCMIPHHC_01811	CDS	213	argH_1	4.3.2.1		Argininosuccinate lyase
+PCMIPHHC_01812	gene	918	argH_2			
+PCMIPHHC_01812	CDS	918	argH_2	4.3.2.1	COG0165	Argininosuccinate lyase
+PCMIPHHC_01813	gene	1020	argC			
+PCMIPHHC_01813	CDS	1020	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+PCMIPHHC_01814	gene	1194	argJ			
+PCMIPHHC_01814	CDS	1194	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+PCMIPHHC_01815	gene	849	argB			
+PCMIPHHC_01815	CDS	849	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+PCMIPHHC_01816	gene	1158	argD			
+PCMIPHHC_01816	CDS	1158	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+PCMIPHHC_01817	gene	180				
+PCMIPHHC_01817	CDS	180				hypothetical protein
+PCMIPHHC_01818	gene	822				
+PCMIPHHC_01818	CDS	822				hypothetical protein
+PCMIPHHC_01819	gene	76				
+PCMIPHHC_01819	tRNA	76				tRNA-Glu(ttc)
+PCMIPHHC_01820	gene	852				
+PCMIPHHC_01820	CDS	852				hypothetical protein
+PCMIPHHC_01821	gene	306				
+PCMIPHHC_01821	CDS	306				hypothetical protein
+PCMIPHHC_01822	gene	420				
+PCMIPHHC_01822	CDS	420				hypothetical protein
+PCMIPHHC_01823	gene	723				
+PCMIPHHC_01823	CDS	723				hypothetical protein
+PCMIPHHC_01824	gene	363				
+PCMIPHHC_01824	CDS	363				hypothetical protein
+PCMIPHHC_01825	gene	867				
+PCMIPHHC_01825	CDS	867				hypothetical protein
+PCMIPHHC_01826	gene	993				
+PCMIPHHC_01826	CDS	993				hypothetical protein
+PCMIPHHC_01827	gene	2403				
+PCMIPHHC_01827	CDS	2403				hypothetical protein
+PCMIPHHC_01828	gene	1329				
+PCMIPHHC_01828	CDS	1329				hypothetical protein
+PCMIPHHC_01829	gene	264	cas2			
+PCMIPHHC_01829	CDS	264	cas2	3.1.-.-	COG1343	CRISPR-associated endoribonuclease Cas2
+PCMIPHHC_01830	gene	960	cas1			
+PCMIPHHC_01830	CDS	960	cas1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+PCMIPHHC_01831	gene	480				
+PCMIPHHC_01831	CDS	480				hypothetical protein
+PCMIPHHC_01832	gene	2193				
+PCMIPHHC_01832	CDS	2193				hypothetical protein
+PCMIPHHC_01833	gene	663				
+PCMIPHHC_01833	CDS	663				hypothetical protein
+PCMIPHHC_01834	gene	900				
+PCMIPHHC_01834	CDS	900				hypothetical protein
+PCMIPHHC_01835	gene	1641				
+PCMIPHHC_01835	CDS	1641				hypothetical protein
+	repeat_region	827				
+PCMIPHHC_01836	gene	351	dnaJ_2			
+PCMIPHHC_01836	CDS	351	dnaJ_2			Chaperone protein DnaJ
+PCMIPHHC_01837	gene	465				
+PCMIPHHC_01837	CDS	465				hypothetical protein
+PCMIPHHC_01838	gene	816				
+PCMIPHHC_01838	CDS	816				hypothetical protein
+PCMIPHHC_01839	gene	576				
+PCMIPHHC_01839	CDS	576				hypothetical protein
+PCMIPHHC_01840	gene	1140				
+PCMIPHHC_01840	CDS	1140				hypothetical protein
+PCMIPHHC_01841	gene	879				
+PCMIPHHC_01841	CDS	879				hypothetical protein
+PCMIPHHC_01842	gene	744	csm3			
+PCMIPHHC_01842	CDS	744	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+PCMIPHHC_01843	gene	423				
+PCMIPHHC_01843	CDS	423				hypothetical protein
+PCMIPHHC_01844	gene	2154				
+PCMIPHHC_01844	CDS	2154		3.1.-.-	COG1353	CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A)
+PCMIPHHC_01845	gene	1338				
+PCMIPHHC_01845	CDS	1338				hypothetical protein
+PCMIPHHC_01846	gene	309				
+PCMIPHHC_01846	CDS	309				hypothetical protein
+PCMIPHHC_01847	gene	753				
+PCMIPHHC_01847	CDS	753				hypothetical protein
+PCMIPHHC_01848	gene	420				
+PCMIPHHC_01848	CDS	420				hypothetical protein
+PCMIPHHC_01849	gene	375				
+PCMIPHHC_01849	CDS	375				hypothetical protein
+PCMIPHHC_01850	gene	2598	valS			
+PCMIPHHC_01850	CDS	2598	valS	6.1.1.9		Valine--tRNA ligase
+PCMIPHHC_01851	gene	501				
+PCMIPHHC_01851	CDS	501				hypothetical protein
+PCMIPHHC_01852	gene	516	srpC			
+PCMIPHHC_01852	CDS	516	srpC		COG2059	putative chromate transport protein
+PCMIPHHC_01853	gene	1506	guaA			
+PCMIPHHC_01853	CDS	1506	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+PCMIPHHC_01854	gene	624	ogg			
+PCMIPHHC_01854	CDS	624	ogg		COG1059	putative N-glycosylase/DNA lyase
+PCMIPHHC_01855	gene	927	hflK			
+PCMIPHHC_01855	CDS	927	hflK		COG0330	Modulator of FtsH protease HflK
+PCMIPHHC_01856	gene	852	hflC			
+PCMIPHHC_01856	CDS	852	hflC		COG0330	Modulator of FtsH protease HflC
+PCMIPHHC_01857	gene	810				
+PCMIPHHC_01857	CDS	810				hypothetical protein
+PCMIPHHC_01858	gene	498	ribH			
+PCMIPHHC_01858	CDS	498	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+PCMIPHHC_01859	gene	1167	ribBA			
+PCMIPHHC_01859	CDS	1167	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+PCMIPHHC_01860	gene	573	ribE			
+PCMIPHHC_01860	CDS	573	ribE	2.5.1.9	COG0307	Riboflavin synthase
+PCMIPHHC_01861	gene	1047	ribD			
+PCMIPHHC_01861	CDS	1047	ribD		COG0117	Riboflavin biosynthesis protein RibD
+PCMIPHHC_01862	gene	255	dgcM			
+PCMIPHHC_01862	CDS	255	dgcM	2.7.7.65	COG2199	Diguanylate cyclase DgcM
+PCMIPHHC_01863	gene	1209				
+PCMIPHHC_01863	CDS	1209				hypothetical protein
+PCMIPHHC_01864	gene	408				
+PCMIPHHC_01864	CDS	408				hypothetical protein
+PCMIPHHC_01865	gene	663				
+PCMIPHHC_01865	CDS	663				hypothetical protein
+PCMIPHHC_01866	gene	1443	aglA_4			
+PCMIPHHC_01866	CDS	1443	aglA_4	3.2.1.20	COG1486	Alpha-glucosidase
+PCMIPHHC_01867	gene	1422	aglB			
+PCMIPHHC_01867	CDS	1422	aglB	3.2.1.54	COG0366	Cyclomaltodextrinase
+PCMIPHHC_01868	gene	2502				
+PCMIPHHC_01868	CDS	2502				hypothetical protein
+PCMIPHHC_01869	gene	1248				
+PCMIPHHC_01869	CDS	1248				hypothetical protein
+PCMIPHHC_01870	gene	297				
+PCMIPHHC_01870	CDS	297				hypothetical protein
+PCMIPHHC_01871	gene	195				
+PCMIPHHC_01871	CDS	195				hypothetical protein
+PCMIPHHC_01872	gene	1182	malE_2			
+PCMIPHHC_01872	CDS	1182	malE_2		COG2182	Maltose/maltodextrin-binding periplasmic protein
+PCMIPHHC_01873	gene	1662				
+PCMIPHHC_01873	CDS	1662		3.2.1.1	COG0366	Alpha-amylase
+PCMIPHHC_01874	gene	1332				
+PCMIPHHC_01874	CDS	1332				hypothetical protein
+PCMIPHHC_01875	gene	654				
+PCMIPHHC_01875	CDS	654				hypothetical protein
+PCMIPHHC_01876	gene	1143				
+PCMIPHHC_01876	CDS	1143				hypothetical protein
+PCMIPHHC_01877	gene	2025	glgB			
+PCMIPHHC_01877	CDS	2025	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+PCMIPHHC_01878	gene	2532	pulA			
+PCMIPHHC_01878	CDS	2532	pulA	3.2.1.41	COG1523	Pullulanase
+PCMIPHHC_01879	gene	1743				
+PCMIPHHC_01879	CDS	1743				hypothetical protein
+PCMIPHHC_01880	gene	777	nanK			
+PCMIPHHC_01880	CDS	777	nanK	2.7.1.60		N-acetylmannosamine kinase
+PCMIPHHC_01881	gene	2442	cbpA			
+PCMIPHHC_01881	CDS	2442	cbpA	2.4.1.20	COG3459	Cellobiose phosphorylase
+PCMIPHHC_01882	gene	927				
+PCMIPHHC_01882	CDS	927				hypothetical protein
+PCMIPHHC_01883	gene	180				
+PCMIPHHC_01883	CDS	180				hypothetical protein
+PCMIPHHC_01884	gene	3033				
+PCMIPHHC_01884	CDS	3033				hypothetical protein
+PCMIPHHC_01885	gene	891				
+PCMIPHHC_01885	CDS	891		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+PCMIPHHC_01886	gene	822	araQ_3			
+PCMIPHHC_01886	CDS	822	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+PCMIPHHC_01887	gene	873	lacF_2			
+PCMIPHHC_01887	CDS	873	lacF_2			Lactose transport system permease protein LacF
+PCMIPHHC_01888	gene	1257				
+PCMIPHHC_01888	CDS	1257				hypothetical protein
+PCMIPHHC_01889	gene	987	degA_2			
+PCMIPHHC_01889	CDS	987	degA_2		COG1609	HTH-type transcriptional regulator DegA
+PCMIPHHC_01890	gene	1527	rny_3			
+PCMIPHHC_01890	CDS	1527	rny_3	3.1.-.-	COG1418	Ribonuclease Y
+PCMIPHHC_01891	gene	408	recX			
+PCMIPHHC_01891	CDS	408	recX			Regulatory protein RecX
+PCMIPHHC_01892	gene	1071	recA			
+PCMIPHHC_01892	CDS	1071	recA		COG0468	Protein RecA
+PCMIPHHC_01893	gene	564				
+PCMIPHHC_01893	CDS	564		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+PCMIPHHC_01894	gene	522	pgsA			
+PCMIPHHC_01894	CDS	522	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PCMIPHHC_01895	gene	1293	rimO			
+PCMIPHHC_01895	CDS	1293	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+PCMIPHHC_01896	gene	540				
+PCMIPHHC_01896	CDS	540				hypothetical protein
+PCMIPHHC_01897	gene	576				
+PCMIPHHC_01897	CDS	576				hypothetical protein
+PCMIPHHC_01898	gene	678	nfi			
+PCMIPHHC_01898	CDS	678	nfi	3.1.21.7	COG1515	Endonuclease V
+PCMIPHHC_01899	gene	1221	tagU			
+PCMIPHHC_01899	CDS	1221	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+PCMIPHHC_01900	gene	960	ldh			
+PCMIPHHC_01900	CDS	960	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+PCMIPHHC_01901	gene	816	ecfT			
+PCMIPHHC_01901	CDS	816	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+PCMIPHHC_01902	gene	2385	lon			
+PCMIPHHC_01902	CDS	2385	lon	3.4.21.53		Lon protease
+PCMIPHHC_01903	gene	816	minD			
+PCMIPHHC_01903	CDS	816	minD		COG2894	Septum site-determining protein MinD
+PCMIPHHC_01904	gene	276				
+PCMIPHHC_01904	CDS	276				hypothetical protein
+PCMIPHHC_01905	gene	399				
+PCMIPHHC_01905	CDS	399				hypothetical protein
+PCMIPHHC_01906	gene	1167	ldc			
+PCMIPHHC_01906	CDS	1167	ldc	4.1.1.17		Lysine/ornithine decarboxylase
+PCMIPHHC_01907	gene	201	csp_2			
+PCMIPHHC_01907	CDS	201	csp_2		COG1278	Cold shock-like protein
+PCMIPHHC_01908	gene	1395	gltX2			
+PCMIPHHC_01908	CDS	1395	gltX2	6.1.1.17	COG0008	Glutamate--tRNA ligase 2
+PCMIPHHC_01909	gene	765				
+PCMIPHHC_01909	CDS	765				hypothetical protein
+PCMIPHHC_01910	gene	750				
+PCMIPHHC_01910	CDS	750				hypothetical protein
+PCMIPHHC_01911	gene	1527	mggB			
+PCMIPHHC_01911	CDS	1527	mggB	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
