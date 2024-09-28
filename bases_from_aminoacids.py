@@ -1,3 +1,5 @@
+import argparse
+
 def aminoacids_to_seq(aminoacids):
 	number_of_aa = 0
 	stop = "*"
@@ -20,3 +22,10 @@ def bases_in_ORF(aminoacids):
 	print(f'number of bases in the ORF is {number_of_bases}')
 	return number_of_bases
 
+if __name__ == "__main__":
+	parser = argparse.ArgumentParser()
+	parser.add_argument("aminoacids",type=str)
+	args = parser.parse_args()
+
+	aminoacids_to_seq(args.aminoacids)
+	bases_in_ORF(args.aminoacids)
