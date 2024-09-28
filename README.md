@@ -1,5 +1,13 @@
 # Week 4 + 5: Genome annotation
 
+## Given Amino Acid Sequence
+To obtain the number of amino acids in the encoded peptide and number of bases containted in the ORF, run bases_from_aminoacids.py script following this format
+
+	python bases_from_aminoacids.py your_file.txt
+You can replace the "your_file.txt" with the list of amino acids (string data type) directly instead. For example:
+
+	python bases_from_aminoacids.py "KVRMFTSELDIMLSVNGPADQIKYFCRHWT*"
+
 ## Prodigal
 Don't forget to always load Prodigal before do the task
 
