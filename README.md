@@ -14,3 +14,4 @@ Run prodigal on one of the genomes.
 Count how many genes were annotated by prodigal
 	
 	grep -c ">" my_nucleotide.fna
+Output: 3594
