@@ -1,0 +1,255 @@
+[17:57:24] This is prokka 1.14.6
+[17:57:24] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:57:24] Homepage is https://github.com/tseemann/prokka
+[17:57:24] Local time is Sat Sep 28 17:57:24 2024
+[17:57:24] You are maulanmi
+[17:57:24] Operating system is linux
+[17:57:24] You have BioPerl 1.007002
+[17:57:24] System has 40 cores.
+[17:57:24] Will use maximum of 8 cores.
+[17:57:24] Annotating as >>> Bacteria <<<
+[17:57:24] Generating locus_tag from '/home/maulanmi/genome_annotation/data/GCA_000008785.1/GCA_000008785.1_ASM878v1_genomic.fna' contents.
+[17:57:24] Setting --locustag DOCPLECE from MD5 d8c95ece88ce0840563350b7eea05f72
+[17:57:24] Creating new output folder: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output
+[17:57:24] Running: mkdir -p \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output
+[17:57:24] Using filename prefix: PROKKA_09282024.XXX
+[17:57:24] Setting HMMER_NCPU=1
+[17:57:24] Writing log to: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.log
+[17:57:24] Command: /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/prokka /home/maulanmi/genome_annotation/data/GCA_000008785.1/GCA_000008785.1_ASM878v1_genomic.fna --outdir /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output
+[17:57:24] Appending to PATH: /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin
+[17:57:24] Looking for 'aragorn' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/aragorn
+[17:57:24] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[17:57:24] Looking for 'barrnap' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/barrnap
+[17:57:24] Determined barrnap version is 000009 from 'barrnap 0.9'
+[17:57:24] Looking for 'blastp' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/blastp
+[17:57:24] Determined blastp version is 002010 from 'blastp: 2.10.1+'
+[17:57:24] Looking for 'cmpress' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/cmpress
+[17:57:24] Determined cmpress version is 001001 from '# INFERNAL 1.1.3 (Nov 2019)'
+[17:57:24] Looking for 'cmscan' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/cmscan
+[17:57:24] Determined cmscan version is 001001 from '# INFERNAL 1.1.3 (Nov 2019)'
+[17:57:24] Looking for 'egrep' - found /usr/bin/egrep
+[17:57:24] Looking for 'find' - found /usr/bin/find
+[17:57:24] Looking for 'grep' - found /usr/bin/grep
+[17:57:24] Looking for 'hmmpress' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/hmmpress
+[17:57:24] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[17:57:24] Looking for 'hmmscan' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/hmmscan
+[17:57:24] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[17:57:24] Looking for 'java' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/java
+[17:57:24] Looking for 'makeblastdb' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/makeblastdb
+[17:57:24] Determined makeblastdb version is 002010 from 'makeblastdb: 2.10.1+'
+[17:57:24] Looking for 'minced' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/minced
+[17:57:24] Determined minced version is 004002 from 'minced 0.4.2'
+[17:57:24] Looking for 'parallel' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/parallel
+[17:57:24] Determined parallel version is 20201122 from 'GNU parallel 20201122'
+[17:57:24] Looking for 'prodigal' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/prodigal
+[17:57:24] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[17:57:24] Looking for 'prokka-genbank_to_fasta_db' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/prokka-genbank_to_fasta_db
+[17:57:24] Looking for 'sed' - found /usr/bin/sed
+[17:57:24] Looking for 'tbl2asn' - found /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/bin/tbl2asn
+[17:57:24] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[17:57:24] Using genetic code table 11.
+[17:57:24] Loading and checking input file: /home/maulanmi/genome_annotation/data/GCA_000008785.1/GCA_000008785.1_ASM878v1_genomic.fna
+[17:57:24] Wrote 1 contigs totalling 1643831 bp.
+[17:57:24] Predicting tRNAs and tmRNAs
+[17:57:24] Running: aragorn -l -gc11  -w \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.fna
+[17:57:24] 1 tRNA-Glu c[4079,4154] 35 (ttc)
+[17:57:24] 2 tRNA-Asp c[4214,4290] 35 (gtc)
+[17:57:24] 3 tRNA-Val c[4341,4416] 34 (tac)
+[17:57:24] 4 tRNA-Glu c[4454,4528] 34 (ttc)
+[17:57:24] 5 tRNA-Lys c[4541,4616] 34 (ttt)
+[17:57:24] 6 tRNA-Val c[75728,75803] 34 (gac)
+[17:57:24] 7 tRNA-Ser [93161,93252] 36 (gct)
+[17:57:24] 8 tRNA-Asn c[235335,235409] 33 (gtt)
+[17:57:24] 9 tRNA-Ala c[258389,258464] 34 (ggc)
+[17:57:24] 10 tRNA-Arg [341122,341198] 35 (gcg)
+[17:57:24] 11 tRNA-Ser c[391010,391097] 35 (gga)
+[17:57:24] 12 tRNA-Pro c[442334,442411] 36 (ggg)
+[17:57:24] 13 tRNA-Met c[760036,760112] 35 (cat)
+[17:57:24] 14 tmRNA c[800992,801377] 84,128 VNNADYAPAYAKAA*
+[17:57:24] 15 tRNA-Arg [852570,852646] 35 (cct)
+[17:57:24] 16 tRNA-Met c[915399,915475] 35 (cat)
+[17:57:24] 17 tRNA-Gln c[915508,915582] 33 (ttg)
+[17:57:24] 18 tRNA-Gly [974561,974636] 34 (gcc)
+[17:57:24] 19 tRNA-Leu [974676,974762] 35 (taa)
+[17:57:24] 20 tRNA-Cys [974816,974890] 33 (gca)
+[17:57:24] 21 tRNA-Ser [974940,975027] 35 (tga)
+[17:57:24] 22 tRNA-Arg c[1076698,1076774] 35 (tct)
+[17:57:24] 23 tRNA-Arg c[1076796,1076872] 35 (tcg)
+[17:57:24] 24 tRNA-His c[1076932,1077008] 35 (gtg)
+[17:57:24] 25 tRNA-Pro c[1077075,1077152] 36 (tgg)
+[17:57:24] 26 tRNA-Leu c[1127524,1127608] 35 (tag)
+[17:57:24] 27 tRNA-Ile [1132400,1132476] 35 (gat)
+[17:57:24] 28 tRNA-Ala [1132494,1132569] 34 (tgc)
+[17:57:24] 29 tRNA-Met c[1230231,1230308] 36 (cat)
+[17:57:24] 30 tRNA-Trp c[1258703,1258778] 34 (cca)
+[17:57:24] 31 tRNA-Thr c[1260350,1260424] 33 (ggt)
+[17:57:24] 32 tRNA-Gly c[1260455,1260531] 35 (tcc)
+[17:57:24] 33 tRNA-Tyr c[1260548,1260632] 35 (gta)
+[17:57:24] 34 tRNA-Thr c[1260660,1260735] 34 (tgt)
+[17:57:24] 35 tRNA-Leu c[1266069,1266155] 35 (caa)
+[17:57:24] 36 tRNA-Leu c[1266209,1266295] 35 (gag)
+[17:57:24] 37 tRNA-Phe [1556051,1556126] 34 (gaa)
+[17:57:24] Found 37 tRNAs
+[17:57:24] Predicting Ribosomal RNAs
+[17:57:24] Running Barrnap with 8 threads
+[17:57:25] 1 AE001439.1 1057559 23S ribosomal RNA
+[17:57:25] 2 AE001439.1 1188028 16S ribosomal RNA
+[17:57:25] 3 AE001439.1 1427397 23S ribosomal RNA
+[17:57:25] 4 AE001439.1 1463046 16S ribosomal RNA
+[17:57:25] Found 4 rRNAs
+[17:57:25] Skipping ncRNA search, enable with --rfam if desired.
+[17:57:25] Total of 40 tRNA + rRNA features
+[17:57:25] Searching for CRISPR repeats
+[17:57:25] Found 0 CRISPRs
+[17:57:25] Predicting coding sequences
+[17:57:25] Contigs total 1643831 bp, so using single mode
+[17:57:25] Running: prodigal -i \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.fna -c -m -g 11 -p single -f sco -q
+[17:57:28] Excluding CDS which overlaps existing RNA (tRNA) at AE001439.1:760074..761195 on - strand
+[17:57:29] Found 1504 CDS
+[17:57:29] Connecting features back to sequences
+[17:57:29] Not using genus-specific database. Try --usegenus to enable it.
+[17:57:29] Annotating CDS, please be patient.
+[17:57:29] Will use 8 CPUs for similarity searching.
+[17:57:29] There are still 1504 unannotated CDS left (started with 1504)
+[17:57:29] Will use blast to search against /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/kingdom/Bacteria/IS with 8 CPUs
+[17:57:29] Running: cat \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.IS\.tmp\.2911660\.faa | parallel --gnu --plain -j 8 --block 31475 --recstart '>' --pipe blastp -query - -db /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.IS\.tmp\.2911660\.blast 2> /dev/null
+[17:57:33] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.IS.tmp.2911660.faa
+[17:57:33] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.IS.tmp.2911660.blast
+[17:57:34] There are still 1502 unannotated CDS left (started with 1504)
+[17:57:34] Will use blast to search against /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/kingdom/Bacteria/AMR with 8 CPUs
+[17:57:34] Running: cat \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.AMR\.tmp\.2911660\.faa | parallel --gnu --plain -j 8 --block 31426 --recstart '>' --pipe blastp -query - -db /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.AMR\.tmp\.2911660\.blast 2> /dev/null
+[17:57:37] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.AMR.tmp.2911660.faa
+[17:57:37] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.AMR.tmp.2911660.blast
+[17:57:37] There are still 1502 unannotated CDS left (started with 1504)
+[17:57:37] Will use blast to search against /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/kingdom/Bacteria/sprot with 8 CPUs
+[17:57:37] Running: cat \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.sprot\.tmp\.2911660\.faa | parallel --gnu --plain -j 8 --block 31426 --recstart '>' --pipe blastp -query - -db /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.sprot\.tmp\.2911660\.blast 2> /dev/null
+[17:57:53] Modify product: Uncharacterized protein NMB1437 => putative protein
+[17:57:53] Modify product: Probable transcriptional regulatory protein HP_0162 => putative transcriptional regulatory protein
+[17:57:53] Modify product: Putative peptidyl-prolyl cis-trans isomerase HP_0175 => Putative peptidyl-prolyl cis-trans isomerase
+[17:57:53] Modify product: Aminopeptidase HP_1037 => Aminopeptidase
+[17:57:53] Modify product: Uncharacterized AAA domain-containing protein Rv2559c => putative AAA domain-containing protein
+[17:57:53] Modify product: Uncharacterized zinc protease Rv2782c => putative zinc protease
+[17:57:53] Modify product: Uncharacterized protein HP_0495 => putative protein
+[17:57:53] Modify product: Uncharacterized FAD-linked oxidoreductase Rv2280 => putative FAD-linked oxidoreductase
+[17:57:53] Modify product: Uncharacterized ABC transporter ATP-binding protein YejF => putative ABC transporter ATP-binding protein YejF
+[17:57:53] Modify product: Putative transport protein Rv1101c => Putative transport protein
+[17:57:53] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[17:57:53] Modify product: Uncharacterized ABC transporter ATP-binding protein TM_0288 => putative ABC transporter ATP-binding protein
+[17:57:53] Modify product: Probable L-asparaginase => putative L-asparaginase
+[17:57:53] Modify product: Probable FMN/FAD exporter YeeO => putative FMN/FAD exporter YeeO
+[17:57:53] Modify product: Nucleoid-associated protein HP_0035 => Nucleoid-associated protein
+[17:57:53] Modify product: Putative 2-hydroxyacid dehydrogenase HI_1556 => Putative 2-hydroxyacid dehydrogenase
+[17:57:53] Modify product: Uncharacterized zinc protease Rv2782c => putative zinc protease
+[17:57:53] Modify product: Uncharacterized RNA pseudouridine synthase HP_0347 => putative RNA pseudouridine synthase
+[17:57:53] Modify product: Chemotaxis protein CheY homolog => Chemotaxis protein CheY 
+[17:57:53] Modify product: Uncharacterized protein HP_1423 => putative protein
+[17:57:53] Modify product: Probable dual-specificity RNA methyltransferase RlmN => putative dual-specificity RNA methyltransferase RlmN
+[17:57:53] Modify product: UPF0194 membrane protein YbhG => hypothetical protein
+[17:57:53] Modify product: UPF0053 protein Rv1842c => hypothetical protein
+[17:57:53] Modify product: Uncharacterized HIT-like protein HP_0404 => putative HIT-like protein
+[17:57:53] Modify product: UPF0053 inner membrane protein YgdQ => hypothetical protein
+[17:57:53] Modify product: Probable nicotinate-nucleotide pyrophosphorylase [carboxylating] => putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+[17:57:53] Modify product: Uncharacterized protein Rv2581c => putative protein
+[17:57:53] Modify product: Probable adenylyltransferase/sulfurtransferase MoeZ => putative adenylyltransferase/sulfurtransferase MoeZ
+[17:57:54] Modify product: Uncharacterized ABC transporter ATP-binding protein YbiT => putative ABC transporter ATP-binding protein YbiT
+[17:57:54] Modify product: Uncharacterized ABC transporter ATP-binding protein HI_1470 => putative ABC transporter ATP-binding protein
+[17:57:54] Modify product: Uncharacterized protein HP_1531 => putative protein
+[17:57:54] Modify product: Probable formaldehyde dehydrogenase AdhA => putative formaldehyde dehydrogenase AdhA
+[17:57:54] Modify product: Probable peptidoglycan D,D-transpeptidase PenA => putative peptidoglycan D,D-transpeptidase PenA
+[17:57:54] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[17:57:54] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[17:57:54] Modify product: Probable tautomerase HP_0924 => putative tautomerase
+[17:57:54] Modify product: Protease HtpX homolog => Protease HtpX 
+[17:57:54] Modify product: Probable amino-acid ABC transporter-binding protein HI_1080 => putative amino-acid ABC transporter-binding protein
+[17:57:54] Modify product: RutC family protein HI_0719 => RutC family protein
+[17:57:54] Modify product: Uncharacterized RNA pseudouridine synthase Rv1540 => putative RNA pseudouridine synthase
+[17:57:54] Modify product: Uncharacterized protein Rv2030c => putative protein
+[17:57:54] Modify product: Multidrug efflux system ATP-binding protein Rv1218c => Multidrug efflux system ATP-binding protein
+[17:57:54] Modify product: Protein jhp_1168 => Protein
+[17:57:54] Modify product: Probable chromosome-partitioning protein ParB => putative chromosome-partitioning protein ParB
+[17:57:54] Cleaned 44 /product names
+[17:57:54] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.sprot.tmp.2911660.faa
+[17:57:54] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.sprot.tmp.2911660.blast
+[17:57:54] There are still 762 unannotated CDS left (started with 1504)
+[17:57:54] Will use hmmer3 to search against /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/hmm/HAMAP.hmm with 8 CPUs
+[17:57:54] Running: cat \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.HAMAP\.hmm\.tmp\.2911660\.faa | parallel --gnu --plain -j 8 --block 15035 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /ibex/sw/csi/prokka/1.14.5/conda2/miniconda2/db/hmm/HAMAP.hmm /dev/stdin > \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.HAMAP\.hmm\.tmp\.2911660\.hmmer3 2> /dev/null
+[17:57:59] Modify product: Uncharacterized MFS-type transporter YfcJ => putative MFS-type transporter YfcJ
+[17:57:59] Cleaned 1 /product names
+[17:57:59] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.HAMAP.hmm.tmp.2911660.faa
+[17:57:59] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.HAMAP.hmm.tmp.2911660.hmmer3
+[17:57:59] Labelling remaining 655 proteins as 'hypothetical protein'
+[17:57:59] Possible /pseudo 'L-lactate permease' at AE001439.1 position 144989
+[17:57:59] Possible /pseudo 'Dipeptide transport system permease protein DppC' at AE001439.1 position 315926
+[17:57:59] Possible /pseudo 'DNA topoisomerase 1' at AE001439.1 position 1018247
+[17:57:59] Found 750 unique /gene codes.
+[17:57:59] Fixed 2 duplicate /gene - nth_1 nth_2
+[17:57:59] Fixed 2 duplicate /gene - gltX1_1 gltX1_2
+[17:57:59] Fixed 3 duplicate /gene - htpX_1 htpX_2 htpX_3
+[17:57:59] Fixed 2 duplicate /gene - trxA_1 trxA_2
+[17:57:59] Fixed 2 duplicate /gene - mnmA_1 mnmA_2
+[17:57:59] Fixed 2 duplicate /gene - atpD_1 atpD_2
+[17:57:59] Fixed 2 duplicate /gene - ftsH_1 ftsH_2
+[17:57:59] Fixed 2 duplicate /gene - yafQ_1 yafQ_2
+[17:57:59] Fixed 2 duplicate /gene - flgG_1 flgG_2
+[17:57:59] Fixed 3 duplicate /gene - prmC_1 prmC_2 prmC_3
+[17:57:59] Fixed 2 duplicate /gene - pyrC_1 pyrC_2
+[17:57:59] Fixed 2 duplicate /gene - btuD_1 btuD_2
+[17:57:59] Fixed 3 duplicate /gene - cheV_1 cheV_2 cheV_3
+[17:57:59] Fixed 2 duplicate /gene - trpC_1 trpC_2
+[17:57:59] Fixed 3 duplicate /gene - hcpC_1 hcpC_2 hcpC_3
+[17:57:59] Fixed 3 duplicate /gene - xerH_1 xerH_2 xerH_3
+[17:57:59] Fixed 3 duplicate /gene - tolQ_1 tolQ_2 tolQ_3
+[17:57:59] Fixed 4 duplicate /gene - topA_1 topA_2 topA_3 topA_4
+[17:57:59] Fixed 2 duplicate /gene - lldP_1 lldP_2
+[17:57:59] Fixed 2 duplicate /gene - ftsY_1 ftsY_2
+[17:57:59] Fixed 2 duplicate /gene - fecA_1 fecA_2
+[17:57:59] Fixed 2 duplicate /gene - tcyB_1 tcyB_2
+[17:57:59] Fixed 2 duplicate /gene - rsxB_1 rsxB_2
+[17:57:59] Fixed 2 duplicate /gene - dpnA_1 dpnA_2
+[17:57:59] Fixed 2 duplicate /gene - atpG_1 atpG_2
+[17:57:59] Fixed 4 duplicate /gene - btuB_1 btuB_2 btuB_3 btuB_4
+[17:57:59] Fixed 2 duplicate /gene - fucT_1 fucT_2
+[17:57:59] Fixed 2 duplicate /gene - moaA_1 moaA_2
+[17:57:59] Fixed 2 duplicate /gene - mboIR_1 mboIR_2
+[17:57:59] Fixed 2 duplicate /gene - qseB_1 qseB_2
+[17:57:59] Fixed 2 duplicate /gene - virB4_1 virB4_2
+[17:57:59] Fixed 2 duplicate /gene - ndhB_1 ndhB_2
+[17:57:59] Fixed 2 duplicate /gene - der_1 der_2
+[17:57:59] Fixed 2 duplicate /gene - dppC_1 dppC_2
+[17:57:59] Fixed 2 duplicate /gene - exbD_1 exbD_2
+[17:57:59] Fixed 2 duplicate /gene - folE_1 folE_2
+[17:57:59] Fixed 2 duplicate /gene - copA_1 copA_2
+[17:57:59] Fixed 37 colliding /gene names.
+[17:57:59] Adding /locus_tag identifiers
+[17:57:59] Assigned 1545 locus_tags to CDS and RNA features.
+[17:57:59] Writing outputs to /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/
+[17:57:59] Generating annotation statistics file
+[17:57:59] Generating Genbank and Sequin files
+[17:57:59] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.err -i \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.fsa 2> /dev/null
+[17:58:02] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/errorsummary.val
+[17:58:02] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.dr
+[17:58:02] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.fixedproducts
+[17:58:02] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.ecn
+[17:58:02] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.val
+[17:58:02] Repairing broken .GBK output that tbl2asn produces...
+[17:58:02] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.gbf > \/home\/maulanmi\/genome_annotation\/prokka_output\/GCA_000008785\.1_ASM878v1_genomic_output\/PROKKA_09282024\.gbk
+[17:58:02] Deleting unwanted file: /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.gbf
+[17:58:02] Output files:
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.log
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.fna
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.gff
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.faa
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.ffn
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.tbl
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.fsa
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.tsv
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.txt
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.gbk
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.sqn
+[17:58:02] /home/maulanmi/genome_annotation/prokka_output/GCA_000008785.1_ASM878v1_genomic_output/PROKKA_09282024.err
+[17:58:02] Annotation finished successfully.
+[17:58:02] Walltime used: 0.63 minutes
+[17:58:02] If you use this result please cite the Prokka paper:
+[17:58:02] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[17:58:02] Type 'prokka --citation' for more details.
+[17:58:02] Thank you, come again.
