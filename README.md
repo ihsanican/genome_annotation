@@ -59,3 +59,11 @@ Firstly we have to re-run the Prokka, adding --addgenes properties to add gene f
  	./unique_gene.sh
 
 And the output will be forwarded to unique_genes.txt file.
+First five gene names from the list
+
+	tail -n +2 unique_genes.txt | head -n 5
+ - Output: mioC
+mnmE
+yidC
+rnpA
+yxeO
