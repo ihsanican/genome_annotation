@@ -45,9 +45,9 @@ Then, compare the outputs from Prokka and Prodigal
  	./compare_prodigal_prokka.sh
   - Output:
     - total prodigal = 26915
-    - total prokka = 26863
+    - total prokka = 27070
     
-From the output, I conclude that Prokka has less CDS than Prodigal. Why? --
+From the output, I conclude that Prokka has more CDS than Prodigal. Why? --
 
 ## Extract and list unique gene names annotated by Prokka
 Firstly we have to re-run the Prokka, adding --addgenes properties to add gene features for each CDS. The steps are provided inside run_prokka_with_gene.sh script.
