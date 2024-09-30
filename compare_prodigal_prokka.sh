@@ -5,7 +5,7 @@ prokka_dir="/home/maulanmi/genome_annotation/prokka_output"
 
 total_prokka=0
 for filename in "$prokka_dir"/*; do
-    file=$(find "$filename" -name "*tbl")
+    file=$(find "$filename" -name "*gbk")
     number_of_genes_prokka=$(grep -c "CDS" "$file")
     total_prokka=$((total_prokka+$number_of_genes_prokka))
 done
