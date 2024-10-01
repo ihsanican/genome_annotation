@@ -62,8 +62,8 @@ And the output will be forwarded to unique_genes.txt file.
 First five gene names from the list
 
 	tail -n +2 unique_genes.txt | head -n 5
- - Output: mioC
-mnmE
-yidC
-rnpA
-yxeO
+ - Output: AAH1
+aas_1
+aas_2
+aaxA
+aaxB
