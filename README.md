@@ -61,7 +61,7 @@ Firstly we have to re-run the Prokka, adding --addgenes properties to add gene f
 And the output will be forwarded to unique_genes.txt file.
 First five gene names from the list
 
-	tail -n +2 unique_genes.txt | head -n 5
+	head -n 5 unique_genes.txt
  - Output: AAH1
 aas_1
 aas_2
